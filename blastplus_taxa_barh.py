@@ -15,10 +15,10 @@ out_file = sys.argv[4]
 def blast_in(in_file):
   blast_data = pandas.read_table(in_file,header = None)
   blast_data = DataFrame(blast_data)
-  desc = blast_data[tax_field]
-  return desc
+  return blast_data
 
-def genus(desc):
+def genus(blast_data):
+  desc = blast_data[tax_field]
   desc = desc.str.split(' ').str.get(0)
   desc = desc.str.split(';').str.get(0)
   desc = desc.value_counts()
@@ -34,6 +34,6 @@ def plot_out(topfreq_desc):
   fig.tight_layout()
   fig.savefig(out_file, dpi=fig.dpi)
   
-desc = blast_in(in_file)
-topfreq_desc = genus(desc)
+blast_data = blast_in(in_file)
+topfreq_desc = genus(blast_data)
 plot_out(topfreq_desc)
