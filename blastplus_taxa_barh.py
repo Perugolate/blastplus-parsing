@@ -5,6 +5,8 @@
 import sys
 from pandas import DataFrame
 import pandas
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 in_file = sys.argv[1]
