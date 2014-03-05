@@ -2,10 +2,15 @@
 """
 Usage: blastplus_taxa_barh.py blast_output staxids_field no_taxa plot_filename
 
-blast_ouput: 	output from BLAST 2.2.28+ and later in outfmt 6 containing staxids 
-staxids_field:	field in blast output containing staxids (Genus species)
-no_taxa:	number of taxa to include in the horizontal bar plot
-plot_filename:	filename for plot .png
+Arguments:
+	blast_ouput
+ 		output from BLAST 2.2.28+ and later in outfmt 6 containing staxids 
+	staxids_field
+		field in blast output containing staxids (Genus species)
+	no_taxa
+		number of taxa to include in the horizontal bar plot
+	plot_filename
+		filename for plot .png
 
 example blast invocation which places staxids in field 12:
 blastx -query query.fasta -db refseq_protein -max_target_seqs 1 -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send stitle staxids sscinames evalue" -out blast_out 	
