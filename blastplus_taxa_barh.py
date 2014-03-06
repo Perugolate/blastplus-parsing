@@ -13,7 +13,9 @@ Arguments:
 		filename for plot .png
 
 example blast invocation which places staxids in field 12:
-blastx -query query.fasta -db refseq_protein -max_target_seqs 1 -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send stitle staxids sscinames evalue" -out blast_out 	
+blastx -query query.fasta -db refseq_protein -max_target_seqs 1 -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send stitle staxids sscinames evalue" -out blast_out
+
+Paul Johnston (Paul.Johnston@fu-berlin.de)
 """
 
 import sys
