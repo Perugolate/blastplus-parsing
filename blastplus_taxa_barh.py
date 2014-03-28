@@ -29,7 +29,7 @@ if len(sys.argv) < 4:
    sys.exit(0)
 
 in_file = sys.argv[1]
-tax_field = int(sys.argv[2])
+tax_field = int(sys.argv[2])-1
 num_tophits = int(sys.argv[3])
 out_file = sys.argv[4]
 
