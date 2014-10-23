@@ -6,3 +6,9 @@ Quick and dirty horizontal bar plot of top blast hits from BLAST 2.2.28+ and lat
 #e.g. blast invocation:
 blastx -query query.fasta -db refseq_protein -max_target_seqs 1 -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send stitle staxids sscinames evalue" -out blast_out
 ```
+
+Usage
+-----
+```bash
+python blastplus_taxa_barh.py blast_out 13 10 plot.pdf
+```
