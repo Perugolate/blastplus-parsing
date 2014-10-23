@@ -9,5 +9,5 @@ blastx -query query.fasta -db refseq_protein -max_target_seqs 1 -outfmt "6 qseqi
 
 Usage:
 ```bash
-python blastplus_taxa_barh.py blast_out 13 10 plot.pdf
+python blastplus_taxa_barh.py blast_output staxids_field no_taxa plot_filename.extension
 ```

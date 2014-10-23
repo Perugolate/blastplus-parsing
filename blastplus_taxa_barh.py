@@ -24,37 +24,42 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-if len(sys.argv) < 4:
-   print __doc__
-   sys.exit(0)
-
-in_file = sys.argv[1]
-tax_field = int(sys.argv[2])-1
-num_tophits = int(sys.argv[3])
-out_file = sys.argv[4]
-
 def blast_in(in_file):
-  blast_data = pandas.read_table(in_file,header = None)
-  blast_data = pandas.DataFrame(blast_data)
-  return blast_data
+    blast_data = pandas.read_table(in_file,header = None)
+    blast_data = pandas.DataFrame(blast_data)
+    return blast_data
 
-def genus(blast_data):
-  desc = blast_data[tax_field]
-  desc = desc.str.split(' ').str.get(0)
-  desc = desc.str.split(';').str.get(0)
-  desc = desc.value_counts()
-  topfreq_desc = desc[:num_tophits]
-  return topfreq_desc
+def genus(blast_data, tax_field, num_tophits):
+    desc = blast_data[tax_field]
+    desc = desc.str.split(' ').str.get(0)
+    desc = desc.str.split(';').str.get(0)
+    desc = desc.value_counts()
+    topfreq_desc = desc[:num_tophits]
+    return topfreq_desc
 
-def plot_out(topfreq_desc):
-  fig = plt.figure()
-  topfreq_desc.plot(kind='barh')
-  plt.title("Top blast hits")
-  plt.xlabel("Number of best hits")
-  plt.ylabel("Taxa")
-  fig.tight_layout()
-  fig.savefig(out_file, dpi=fig.dpi)
-  
-blast_data = blast_in(in_file)
-topfreq_desc = genus(blast_data)
-plot_out(topfreq_desc)
+def plot_out(topfreq_desc, out_file):
+    fig = plt.figure() 
+    topfreq_desc.plot(kind='barh')
+    plt.title("Top blast hits")
+    plt.xlabel("Number of best hits")
+    plt.ylabel("Taxa")
+    fig.tight_layout()
+    fig.savefig(out_file, dpi=fig.dpi)
+
+def main():
+
+    if len(sys.argv) < 5:
+        print __doc__
+        sys.exit(0)
+
+    in_file = sys.argv[1]
+    tax_field = int(sys.argv[2])-1
+    num_tophits = int(sys.argv[3])
+    out_file = sys.argv[4]
+
+    blast_data = blast_in(in_file)
+    topfreq_desc = genus(blast_data, tax_field, num_tophits)
+    plot_out(topfreq_desc, out_file)
+
+if __name__ == '__main__':
+    main()
