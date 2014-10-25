@@ -24,6 +24,11 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
+
+__author__ = "Paul Johnston"
+__contact__ = paul.johnston@fu-berlin.de
+
+
 def blast_in(in_file):
     blast_data = pandas.read_table(in_file,header = None)
     blast_data = pandas.DataFrame(blast_data)
