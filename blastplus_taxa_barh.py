@@ -26,7 +26,7 @@ import matplotlib.pyplot as plt
 
 
 __author__ = "Paul Johnston"
-__contact__ = paul.johnston@fu-berlin.de
+__contact__ = "paul.johnston@fu-berlin.de"
 
 
 def blast_in(in_file):
