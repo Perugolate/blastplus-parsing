@@ -11,7 +11,7 @@ blastx -query query.fasta -db refseq_protein -max_target_seqs 1 -outfmt "6 qseqi
 - pandas
 - matplotlib
 
-To include taxon names in the blast output you must download the taxdb from NCBI and place it in the same directory as you blastdb. The easiest option is to place it into your BLASTDB directory (e.g. wherever `~/.ncbirc` points to)
+To include taxon names in the blast output you must download the taxdb from NCBI and place it in the same directory as your blastdb. The easiest option is to place it into your BLASTDB directory (e.g. wherever `~/.ncbirc` points to)
 ```bash
 wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/taxdb.tar.gz
 tar xvf taxdb.tar.gz
