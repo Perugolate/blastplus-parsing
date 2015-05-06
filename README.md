@@ -22,7 +22,7 @@ tar xvf taxdb.tar.gz
 ```bash
 python blastplus_taxa_barh.py blast_output staxids_field no_taxa plot_filename.extension
 ```
-E.g.:
+for example plot the top 15 taxa from the blast output file `blast_out`:
 ```bash
 python blastplus_taxa_barh.py blast_out 13 15 taxa_plot.png
 ```
