@@ -28,3 +28,9 @@ python blastplus_taxa_barh.py blast_out 13 15 taxa_plot.png
 ```
 
 ![](https://github.com/Perugolate/blastplus-parsing/blob/master/taxa_plot.png)
+
+
+Lepidopteran assembly heavily contmainated with yeast:
+
+![](https://github.com/Perugolate/blastplus-parsing/blob/master/contam.png)
+
