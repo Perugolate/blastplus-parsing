@@ -36,4 +36,4 @@ Lepidopteran assembly heavily contmainated with yeast:
 
 ##More examples
 
-Some more examples in jupyter [notebook!](https://github.com/Perugolate/blastplus-parsing/blob/master/parse_blast_tax_names_eg.ipynb).
+Some more examples in jupyter [notebook](https://github.com/Perugolate/blastplus-parsing/blob/master/parse_blast_tax_names_eg.ipynb).
