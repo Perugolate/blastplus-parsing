@@ -50,6 +50,14 @@ def plot_out(topfreq_desc, out_file):
     plt.ylabel("Taxa")
     fig.tight_layout()
     fig.savefig(out_file, dpi=fig.dpi)
+    
+def plot_in(topfreq_desc):
+    fig = plt.figure()
+    topfreq_desc.plot(kind='barh')
+    plt.title("Top blast hits")
+    plt.xlabel("Number of best hits")
+    plt.ylabel("Taxa")
+    fig.tight_layout()
 
 def main():
 
