@@ -1,0 +1,883 @@
+TR10144|c0_g1_i1	gi|544770924|ref|WP_021196208.1|	100.00	20	0	0	60	1	64	83	terpene utilization protein AtuA [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	0.001
+TR10186|c0_g1_i1	gi|490789651|ref|WP_004651801.1|	100.00	19	0	0	3	59	391	409	hypothetical protein [Acinetobacter sp. ANC 3994]	1217715	Acinetobacter sp. ANC 3994	2e-05
+TR10270|c0_g1_i1	gi|224103219|ref|XP_002312970.1|	95.00	20	1	0	60	1	505	524	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-06
+TR10309|c0_g1_i1	gi|255576756|ref|XP_002529265.1|	95.00	20	1	0	1	60	57	76	60S ribosomal protein L13, putative [Ricinus communis]	3988	Ricinus communis	7e-06
+TR10330|c0_g1_i1	gi|554633737|ref|WP_023168797.1|	100.00	19	0	0	58	2	205	223	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase, partial [Salmonella enterica]	28901	Salmonella enterica	1e-04
+TR1034|c0_g1_i1	gi|224102199|ref|XP_002312586.1|	90.00	20	2	0	60	1	115	134	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	6e-04
+TR10409|c0_g1_i1	gi|225431469|ref|XP_002274337.1|	100.00	19	0	0	2	58	962	980	PREDICTED: callose synthase 5-like [Vitis vinifera]	29760	Vitis vinifera	4e-04
+TR10427|c0_g1_i1	gi|544520098|ref|XP_005593331.1|	89.47	19	2	0	58	2	64	82	PREDICTED: ferritin heavy polypeptide-like 17-like [Macaca fascicularis]	9541	Macaca fascicularis	5e-05
+TR1045|c0_g1_i1	gi|518547591|ref|WP_019717798.1|	100.00	19	0	0	3	59	381	399	type VI secretion protein [Ralstonia solanacearum]	305	Ralstonia solanacearum	4e-04
+TR10483|c0_g1_i1	gi|565399811|ref|XP_006365436.1|	100.00	19	0	0	59	3	43	61	PREDICTED: 40S ribosomal protein S15a-1 [Solanum tuberosum]	4113	Solanum tuberosum	1e-06
+TR10506|c0_g1_i1	gi|385336819|ref|YP_005890766.1|	100.00	20	0	0	1	60	69	88	50S ribosomal protein L1, partial [Neisseria gonorrhoeae TCDC-NG08107]	485;940296	Neisseria gonorrhoeae;Neisseria gonorrhoeae TCDC-NG08107	9e-05
+TR1052|c0_g1_i1	gi|449533903|ref|XP_004173910.1|	94.74	19	1	0	58	2	130	148	PREDICTED: 60S ribosomal protein L6-like, partial [Cucumis sativus]	3659	Cucumis sativus	8e-05
+TR10567|c0_g1_i1	gi|224056687|ref|XP_002298973.1|	89.47	19	2	0	3	59	224	242	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-05
+TR1081|c0_g1_i1	gi|255539224|ref|XP_002510677.1|	90.00	20	2	0	60	1	165	184	catalase, putative [Ricinus communis]	3988	Ricinus communis	1e-05
+TR10821|c0_g1_i1	gi|486141519|ref|WP_001515708.1|	100.00	19	0	0	2	58	46	64	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	5e-05
+TR1098|c0_g1_i1	gi|407940733|ref|YP_006856374.1|	100.00	19	0	0	58	2	558	576	hypothetical protein C380_20210 [Acidovorax sp. KKS102]	358220	Acidovorax sp. KKS102	3e-04
+TR11060|c0_g1_i1	gi|356565778|ref|XP_003551114.1|	100.00	19	0	0	3	59	202	220	PREDICTED: thiol protease aleurain-like [Glycine max]	3847	Glycine max	1e-05
+TR1123|c0_g1_i1	gi|255577702|ref|XP_002529727.1|	85.71	21	2	1	1	60	1058	1078	transferase, transferring glycosyl groups, putative [Ricinus communis]	3988	Ricinus communis	8e-04
+TR11449|c0_g1_i1	gi|490832535|ref|WP_004694620.1|	100.00	19	0	0	2	58	15	33	hypothetical protein, partial [Acinetobacter johnsonii]	40214	Acinetobacter johnsonii	2e-05
+TR11510|c0_g1_i1	gi|308813361|ref|XP_003083987.1|	100.00	20	0	0	1	60	412	431	putative hsp70 (ISS) [Ostreococcus tauri]	70448	Ostreococcus tauri	3e-05
+TR11698|c0_g1_i1	gi|544767987|ref|WP_021193304.1|	100.00	20	0	0	60	1	188	207	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	6e-06
+TR11747|c0_g1_i1	gi|449433954|ref|XP_004134761.1|	100.00	19	0	0	58	2	52	70	PREDICTED: ATP synthase gamma chain, chloroplastic-like [Cucumis sativus]	3659	Cucumis sativus	7e-04
+TR11802|c0_g1_i1	gi|545239476|ref|WP_021538441.1|	95.00	20	1	0	60	1	177	196	monofunctional biosynthetic peptidoglycan transglycosylase [Escherichia coli]	562	Escherichia coli	9e-07
+TR11809|c0_g1_i1	gi|489155933|ref|WP_003065614.1|	100.00	20	0	0	1	60	230	249	acyl-CoA dehydrogenase [Comamonas testosteroni]	285	Comamonas testosteroni	8e-05
+TR11907|c0_g1_i1	gi|224139156|ref|XP_002322994.1|	100.00	19	0	0	2	58	332	350	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-04
+TR12160|c0_g1_i1	gi|460383900|ref|XP_004237654.1|	100.00	19	0	0	59	3	51	69	PREDICTED: 60S ribosomal protein L12-like [Solanum lycopersicum]	4081	Solanum lycopersicum	4e-04
+TR12160|c0_g2_i1	gi|460383900|ref|XP_004237654.1|	100.00	19	0	0	59	3	51	69	PREDICTED: 60S ribosomal protein L12-like [Solanum lycopersicum]	4081	Solanum lycopersicum	4e-04
+TR12171|c0_g1_i1	gi|357463095|ref|XP_003601829.1|	85.00	20	3	0	60	1	40	59	B12D protein [Medicago truncatula]	3880	Medicago truncatula	6e-04
+TR12382|c0_g1_i1	gi|510917996|ref|WP_016238978.1|	100.00	19	0	0	58	2	174	192	hypothetical protein [Escherichia coli]	562	Escherichia coli	6e-04
+TR12586|c0_g1_i1	gi|159462534|ref|XP_001689497.1|	100.00	19	0	0	2	58	102	120	sugar nucleotide epimerase [Chlamydomonas reinhardtii]	3055	Chlamydomonas reinhardtii	6e-06
+TR12602|c0_g1_i1	gi|297832486|ref|XP_002884125.1|	85.00	20	3	0	1	60	95	114	hypothetical protein ARALYDRAFT_480735 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	0.001
+TR12682|c0_g1_i1	gi|496535449|ref|WP_009242140.1|	100.00	19	0	0	2	58	201	219	hypothetical protein, partial [Ralstonia sp. 5_2_56FAA]	658080	Ralstonia sp. 5_2_56FAA	3e-05
+TR12724|c0_g1_i1	gi|224090230|ref|XP_002308957.1|	100.00	19	0	0	58	2	327	345	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	3e-07
+TR12734|c0_g1_i1	gi|485894890|ref|WP_001486428.1|	100.00	19	0	0	59	3	9	27	trimethylamine-N-oxide reductase 2 domain protein [Escherichia coli]	562	Escherichia coli	3e-05
+TR12738|c0_g1_i1	gi|297836382|ref|XP_002886073.1|	94.74	19	1	0	3	59	664	682	beta-galactosidase 13 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-05
+TR12861|c0_g1_i1	gi|565344025|ref|XP_006339119.1|	100.00	20	0	0	1	60	197	216	PREDICTED: fructose-bisphosphate aldolase cytoplasmic isozyme [Solanum tuberosum]	4113	Solanum tuberosum	3e-07
+TR12861|c0_g2_i1	gi|514727604|ref|XP_005015438.1|	85.00	20	3	0	1	60	212	231	PREDICTED: LOW QUALITY PROTEIN: fructose-bisphosphate aldolase B [Anas platyrhynchos]	8839	Anas platyrhynchos	0.001
+TR13098|c0_g1_i1	gi|447111438|ref|WP_001188694.1|	100.00	20	0	0	60	1	196	215	L-fuculokinase [Shigella flexneri]	623	Shigella flexneri	2e-05
+TR13100|c0_g1_i1	gi|224096380|ref|XP_002310612.1|	80.00	20	4	0	1	60	269	288	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	8e-04
+TR13145|c0_g1_i1	gi|13449292|ref|NP_085475.1|	100.00	19	0	0	58	2	35	53	hypothetical protein ArthMp003 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	7e-06
+TR13202|c0_g1_i1	gi|225437549|ref|XP_002270354.1|	94.74	19	1	0	58	2	335	353	PREDICTED: calreticulin [Vitis vinifera]	29760	Vitis vinifera	9e-05
+TR13266|c0_g1_i1	gi|544767508|ref|WP_021192829.1|	100.00	19	0	0	59	3	114	132	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-04
+TR13273|c0_g1_i1	gi|356501203|ref|XP_003519416.1|	78.95	19	4	0	2	58	9	27	PREDICTED: uncharacterized protein LOC100796671 [Glycine max]	3847	Glycine max	9e-05
+TR13311|c0_g1_i1	gi|565399207|ref|XP_006365149.1|	100.00	19	0	0	3	59	828	846	PREDICTED: LOW QUALITY PROTEIN: phototropin-1-like [Solanum tuberosum]	4113	Solanum tuberosum	6e-06
+TR13319|c0_g1_i1	gi|15234526|ref|NP_193888.1|	100.00	19	0	0	59	3	189	207	uncharacterized protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	0.001
+TR1340|c0_g1_i1	gi|545360145|ref|XP_005645476.1|	83.33	18	3	0	55	2	181	198	hypothetical protein COCSUDRAFT_18161 [Coccomyxa subellipsoidea C-169]	574566	Coccomyxa subellipsoidea C-169	0.001
+TR13433|c0_g1_i1	gi|145495023|ref|XP_001433505.1|	100.00	19	0	0	3	59	65	83	hypothetical protein [Paramecium tetraurelia strain d4-2]	412030	Paramecium tetraurelia strain d4-2	3e-06
+TR13433|c0_g2_i1	gi|302758262|ref|XP_002962554.1|	100.00	19	0	0	3	59	278	296	hypothetical protein SELMODRAFT_23468 [Selaginella moellendorffii]	88036	Selaginella moellendorffii	1e-05
+TR13601|c0_g1_i1	gi|544725627|ref|WP_021155571.1|	100.00	19	0	0	59	3	21	39	glucarate transporter (d-glucarate permease) protein [Ralstonia solanacearum]	305	Ralstonia solanacearum	2e-05
+TR13665|c0_g1_i1	gi|560155359|ref|YP_008848074.1|	100.00	19	0	0	2	58	25	43	Putative membrane spanning protein [Shigella dysenteriae 1617]	622;754093	Shigella dysenteriae;Shigella dysenteriae 1617	9e-05
+TR13669|c0_g1_i1	gi|553939177|ref|WP_023146801.1|	100.00	20	0	0	60	1	138	157	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-06
+TR13671|c0_g1_i1	gi|209694193|ref|YP_002262121.1|	100.00	19	0	0	3	59	52	70	30S ribosomal protein S15 [Aliivibrio salmonicida LFI1238]	316275;511678	Aliivibrio salmonicida LFI1238;Aliivibrio	5e-04
+TR13673|c0_g1_i1	gi|218700894|ref|YP_002408523.1|	100.00	19	0	0	2	58	176	194	N-acetylmuramic acid-6-phosphate etherase [Escherichia coli IAI39]	562;585057;1072459	Escherichia coli;Escherichia coli IAI39;Escherichia coli O7:K1 str. CE10	0.001
+TR13688|c0_g1_i1	gi|224061821|ref|XP_002300615.1|	94.74	19	1	0	3	59	301	319	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	3e-04
+TR13785|c0_g1_i1	gi|525343678|ref|NP_001266362.1|	100.00	20	0	0	1	60	128	147	uncharacterized protein LOC101202709 [Zea mays]	4577	Zea mays	2e-07
+TR13892|c0_g1_i1	gi|446300827|ref|WP_000378682.1|	100.00	19	0	0	59	3	39	57	cytochrome B562 [Escherichia coli]	562	Escherichia coli	2e-05
+TR14074|c0_g1_i1	gi|255538808|ref|XP_002510469.1|	90.00	20	2	0	60	1	345	364	cysteine protease, putative [Ricinus communis]	3988	Ricinus communis	1e-04
+TR14078|c0_g1_i1	gi|565369199|ref|XP_006351224.1|	100.00	20	0	0	1	60	200	219	PREDICTED: calcium-dependent protein kinase 32-like [Solanum tuberosum]	4113	Solanum tuberosum	8e-07
+TR14142|c0_g1_i1	gi|544768796|ref|WP_021194107.1|	100.00	19	0	0	58	2	98	116	molybdenum cofactor sulfurase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	8e-06
+TR14253|c0_g1_i1	gi|139389842|ref|YP_001123503.1|	100.00	20	0	0	1	60	53	72	ribosomal protein L2 [Crucihimalaya wallichii]	78192	Crucihimalaya wallichii	2e-05
+TR14294|c0_g1_i1	gi|225446714|ref|XP_002282438.1|	84.21	19	3	0	58	2	45	63	PREDICTED: uncharacterized protein LOC100267696 [Vitis vinifera]	29760	Vitis vinifera	8e-04
+TR14359|c0_g1_i1	gi|490774961|ref|WP_004637164.1|	100.00	19	0	0	3	59	151	169	hypothetical protein [Ralstonia]	48736	Ralstonia	1e-05
+TR14446|c0_g1_i1	gi|356545641|ref|XP_003541245.1|	100.00	18	0	0	59	6	67	84	PREDICTED: uncharacterized protein LOC100813459 [Glycine max]	3847	Glycine max	1e-04
+TR14538|c0_g1_i1	gi|446242297|ref|WP_000320152.1|	100.00	19	0	0	3	59	4	22	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	1e-04
+TR14563|c0_g1_i1	gi|544770821|ref|WP_021196107.1|	100.00	19	0	0	58	2	89	107	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	5e-04
+TR14673|c0_g1_i1	gi|253759624|ref|XP_002488936.1|	100.00	19	0	0	59	3	5	23	hypothetical protein SORBIDRAFT_1514s002010 [Sorghum bicolor]	1236;4558;15368;81972	Gammaproteobacteria;Sorghum bicolor;Brachypodium distachyon;Arabidopsis lyrata subsp. lyrata	1e-05
+TR14679|c0_g1_i4	gi|253761396|ref|XP_002489102.1|	100.00	19	0	0	59	3	44	62	hypothetical protein SORBIDRAFT_0070s002020 [Sorghum bicolor]	4558	Sorghum bicolor	5e-06
+TR14682|c0_g2_i2	gi|350406044|ref|XP_003487637.1|	90.00	20	2	0	1	60	166	185	PREDICTED: 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase-like [Bombus impatiens]	132113	Bombus impatiens	9e-06
+TR14833|c0_g1_i1	gi|402881691|ref|XP_003904398.1|	94.74	19	1	0	4	60	255	273	PREDICTED: non-structural maintenance of chromosomes element 4 homolog A [Papio anubis]	9555	Papio anubis	3e-05
+TR14850|c0_g1_i1	gi|351724617|ref|NP_001236040.1|	100.00	20	0	0	60	1	48	67	uncharacterized protein LOC100500043 [Glycine max]	3847	Glycine max	1e-05
+TR14907|c0_g1_i1	gi|486204693|ref|WP_001551666.1|	100.00	19	0	0	59	3	64	82	acyl-CoA dehydrogenase [Salmonella enterica]	28901	Salmonella enterica	1e-05
+TR14997|c0_g1_i1	gi|565347451|ref|XP_006340740.1|	94.74	19	1	0	2	58	195	213	PREDICTED: ferredoxin--NADP reductase, leaf-type isozyme, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	3e-04
+TR15001|c0_g1_i1	gi|514790538|ref|XP_004972100.1|	100.00	20	0	0	1	60	302	321	PREDICTED: uncharacterized protein LOC101763014 [Setaria italica]	4555	Setaria italica	4e-05
+TR15020|c0_g1_i1	gi|17547247|ref|NP_520649.1|	100.00	19	0	0	59	3	100	118	biopolymer transport EXBB-like transmembrane protein [Ralstonia solanacearum GMI1000]	305;267608;1262456	Ralstonia solanacearum;Ralstonia solanacearum GMI1000;Ralstonia solanacearum FQY_4	7e-05
+TR15135|c0_g3_i1	gi|491061410|ref|WP_004923043.1|	100.00	19	0	0	3	59	18	36	hypothetical protein [Providencia stuartii]	588	Providencia stuartii	1e-05
+TR15225|c0_g1_i1	gi|491219233|ref|WP_005077552.1|	100.00	19	0	0	3	59	18	36	glucosamine-fructose-6-phosphate aminotransferase [Shigella flexneri]	623	Shigella flexneri	3e-04
+TR15247|c0_g1_i1	gi|293334551|ref|NP_001170347.1|	100.00	18	0	0	5	58	86	103	uncharacterized protein LOC100384323 [Zea mays]	4577	Zea mays	7e-05
+TR15296|c0_g1_i1	gi|158293363|ref|XP_314718.4|	100.00	19	0	0	2	58	173	191	AGAP008622-PA [Anopheles gambiae str. PEST]	180454	Anopheles gambiae str. PEST	2e-05
+TR15305|c0_g1_i1	gi|449496957|ref|XP_004160274.1|	100.00	20	0	0	60	1	76	95	PREDICTED: DAG protein, chloroplastic-like [Cucumis sativus]	3659	Cucumis sativus	8e-10
+TR15322|c0_g1_i1	gi|145334571|ref|NP_001078631.1|	90.00	20	2	0	1	60	221	240	GDSL esterase/lipase [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-06
+TR1532|c0_g1_i1	gi|357436159|ref|XP_003588355.1|	100.00	20	0	0	60	1	626	645	Mitochondrial protein, putative [Medicago truncatula]	3880	Medicago truncatula	7e-04
+TR15469|c0_g1_i1	gi|485768735|ref|WP_001393076.1|	100.00	19	0	0	2	58	24	42	protein fimG [Escherichia coli]	562	Escherichia coli	9e-05
+TR15498|c0_g1_i1	gi|356497850|ref|XP_003517769.1|	89.47	19	2	0	59	3	434	452	PREDICTED: probable pectate lyase 3-like [Glycine max]	3847	Glycine max	3e-04
+TR15517|c0_g1_i1	gi|110806199|ref|YP_689719.1|	94.74	19	1	0	58	2	121	139	hypothetical protein SFV_2301 [Shigella flexneri 5 str. 8401]	623;373384	Shigella flexneri;Shigella flexneri 5 str. 8401	0.001
+TR15872|c0_g1_i1	gi|485705373|ref|WP_001338143.1|	100.00	19	0	0	3	59	25	43	hypothetical protein [Escherichia coli]	562	Escherichia coli	3e-06
+TR16020|c0_g1_i1	gi|494651400|ref|WP_007409344.1|	100.00	19	0	0	3	59	52	70	replication protein, partial [Bacillus sp. 916]	1007654	Bacillus sp. 916	3e-06
+TR16099|c0_g1_i1	gi|449460918|ref|XP_004148191.1|	100.00	20	0	0	1	60	71	90	PREDICTED: 40S ribosomal protein S4-like [Cucumis sativus]	3659	Cucumis sativus	2e-06
+TR16258|c0_g1_i1	gi|390350318|ref|XP_782030.3|	100.00	20	0	0	1	60	45	64	PREDICTED: 40S ribosomal protein S26-like [Strongylocentrotus purpuratus]	7668	Strongylocentrotus purpuratus	3e-06
+TR16300|c0_g1_i1	gi|565367224|ref|XP_006350276.1|	84.21	19	3	0	4	60	108	126	PREDICTED: lipid phosphate phosphatase 2-like isoform X1 [Solanum tuberosum]	4113	Solanum tuberosum	2e-04
+TR16459|c0_g1_i1	gi|357436123|ref|XP_003588337.1|	100.00	19	0	0	3	59	82	100	Ribosomal protein S10 [Medicago truncatula]	3880	Medicago truncatula	3e-05
+TR16578|c0_g1_i1	gi|225432390|ref|XP_002276777.1|	94.74	19	1	0	3	59	200	218	PREDICTED: inactive beta-amylase 9 [Vitis vinifera]	29760	Vitis vinifera	1e-04
+TR16609|c0_g1_i1	gi|15236786|ref|NP_194967.1|	95.00	20	1	0	60	1	433	452	cellulose synthase A catalytic subunit 1 [UDP-forming] [Arabidopsis thaliana]	3702	Arabidopsis thaliana	1e-04
+TR16620|c0_g1_i1	gi|297821114|ref|XP_002878440.1|	84.21	19	3	0	2	58	293	311	hypothetical protein ARALYDRAFT_486726 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	0.001
+TR16620|c1_g1_i1	gi|15226490|ref|NP_182227.1|	94.74	19	1	0	2	58	540	558	invertase/pectin methylesterase inhibitor [Arabidopsis thaliana]	3702	Arabidopsis thaliana	8e-04
+TR16705|c0_g1_i1	gi|188579384|ref|YP_001922829.1|	100.00	19	0	0	59	3	357	375	transposase IS4 family protein [Methylobacterium populi BJ001]	223967;441620	Methylobacterium populi;Methylobacterium populi BJ001	7e-05
+TR16713|c0_g1_i1	gi|544767949|ref|WP_021193266.1|	95.00	20	1	0	1	60	301	320	ABC transporter permease [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-06
+TR16767|c0_g1_i1	gi|485809782|ref|WP_001429779.1|	100.00	20	0	0	60	1	16	35	hypothetical protein [Escherichia coli]	562	Escherichia coli	3e-05
+TR16771|c0_g1_i1	gi|565389174|ref|XP_006360335.1|	94.74	19	1	0	2	58	68	86	PREDICTED: chalcone synthase 1a [Solanum tuberosum]	4113	Solanum tuberosum	4e-06
+TR16787|c0_g1_i1	gi|255548556|ref|XP_002515334.1|	89.47	19	2	0	3	59	454	472	H(\+)-transporting atpase plant/fungi plasma membrane type, putative [Ricinus communis]	3988	Ricinus communis	1e-04
+TR16827|c0_g1_i1	gi|356535743|ref|XP_003536403.1|	100.00	19	0	0	57	1	45	63	PREDICTED: ran-binding protein 1 homolog c-like [Glycine max]	3847	Glycine max	1e-04
+TR16879|c0_g1_i1	gi|225455752|ref|XP_002269355.1|	100.00	19	0	0	59	3	161	179	PREDICTED: probable serine/threonine-protein kinase DDB_G0291350 isoform 1 [Vitis vinifera]	29760	Vitis vinifera	1e-05
+TR16975|c1_g2_i1	gi|460375513|ref|XP_004233550.1|	100.00	20	0	0	60	1	47	66	PREDICTED: probable fructose-bisphosphate aldolase 2, chloroplastic-like [Solanum lycopersicum]	4081	Solanum lycopersicum	9e-05
+TR16975|c1_g3_i1	gi|460375513|ref|XP_004233550.1|	100.00	20	0	0	60	1	47	66	PREDICTED: probable fructose-bisphosphate aldolase 2, chloroplastic-like [Solanum lycopersicum]	4081	Solanum lycopersicum	9e-05
+TR17121|c0_g1_i1	gi|356521729|ref|XP_003529504.1|	88.89	18	2	0	58	5	582	599	PREDICTED: beta-glucosidase-like SFR2, chloroplastic-like [Glycine max]	3847	Glycine max	0.001
+TR17147|c0_g1_i1	gi|224133442|ref|XP_002328043.1|	100.00	19	0	0	3	59	93	111	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-06
+TR17166|c0_g1_i1	gi|487615323|ref|WP_001736078.1|	100.00	19	0	0	3	59	6	24	lipoprotein involved with copper homeostasis and adhesion [Salmonella enterica]	28901	Salmonella enterica	3e-06
+TR17291|c0_g1_i1	gi|51830144|ref|YP_073324.1|	89.47	19	2	0	59	3	174	192	cytochrome c oxidase subunit II [Aleurochiton aceris]	266942	Aleurochiton aceris	8e-05
+TR17340|c0_g1_i1	gi|225462771|ref|XP_002263465.1|	94.74	19	1	0	3	59	377	395	PREDICTED: uncharacterized protein sll0005-like [Vitis vinifera]	29760	Vitis vinifera	2e-04
+TR17366|c0_g1_i1	gi|187926653|ref|YP_001892998.1|	100.00	20	0	0	1	60	330	349	hemagglutinin-related transmembrane protein [Ralstonia pickettii 12J]	329;402626;428406	Ralstonia pickettii;Ralstonia pickettii 12J;Ralstonia pickettii 12D	4e-04
+TR17403|c0_g1_i1	gi|544768673|ref|WP_021193987.1|	100.00	19	0	0	59	3	274	292	ABC transporter [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	8e-04
+TR17406|c0_g1_i1	gi|544767498|ref|WP_021192819.1|	100.00	19	0	0	2	58	200	218	AraC family transcriptional regulator [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-05
+TR17419|c0_g1_i1	gi|449469875|ref|XP_004152644.1|	89.47	19	2	0	3	59	370	388	PREDICTED: endoplasmin homolog [Cucumis sativus]	3659	Cucumis sativus	3e-04
+TR17438|c0_g1_i1	gi|357507831|ref|XP_003624204.1|	85.00	20	3	0	60	1	258	277	Calreticulin-3 [Medicago truncatula]	3880	Medicago truncatula	0.001
+TR17448|c0_g1_i1	gi|224084626|ref|XP_002307364.1|	100.00	19	0	0	58	2	459	477	2-dehydro-3-deoxyphosphoheptonate aldolase/ 3-deoxy-d-arabino-heptulosonate 7-phosphate synthetase [Populus trichocarpa]	3694	Populus trichocarpa	1e-06
+TR17455|c0_g1_i1	gi|502163038|ref|XP_004512704.1|	100.00	20	0	0	60	1	47	66	PREDICTED: chlorophyll a-b binding protein AB80, chloroplastic-like [Cicer arietinum]	3827	Cicer arietinum	6e-07
+TR17507|c0_g1_i1	gi|156934518|ref|YP_001438434.1|	100.00	19	0	0	2	58	198	216	hypothetical protein ESA_02351 [Cronobacter sakazakii ATCC BAA-894]	28141;290339	Cronobacter sakazakii;Cronobacter sakazakii ATCC BAA-894	1e-04
+TR1751|c0_g1_i1	gi|50553893|ref|YP_054443.1|	80.00	20	4	0	1	60	555	574	RNA-dependent RNA polymerase [Arabis mosaic virus]	12271	Arabis mosaic virus	3e-04
+TR17525|c0_g1_i1	gi|470121039|ref|XP_004296592.1|	95.00	20	1	0	60	1	269	288	PREDICTED: ATP sulfurylase 1, chloroplastic-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	8e-06
+TR17578|c0_g1_i1	gi|293335791|ref|NP_001168481.1|	94.74	19	1	0	58	2	141	159	uncharacterized protein LOC100382258 [Zea mays]	4577	Zea mays	3e-04
+TR17586|c0_g1_i1	gi|357511493|ref|XP_003626035.1|	94.74	19	1	0	1	57	376	394	S-adenosylmethionine synthetase [Medicago truncatula]	3880	Medicago truncatula	7e-05
+TR17598|c0_g1_i1	gi|188535053|ref|YP_001908850.1|	94.44	18	1	0	59	6	100	117	hypothetical protein ETA_29350 [Erwinia tasmaniensis Et1/99]	338565;465817	Erwinia tasmaniensis;Erwinia tasmaniensis Et1/99	4e-04
+TR17608|c0_g1_i1	gi|356567060|ref|XP_003551741.1|	84.21	19	3	0	59	3	67	85	PREDICTED: NADP-dependent malic enzyme-like [Glycine max]	3847	Glycine max	0.001
+TR1762|c0_g1_i1	gi|449523339|ref|XP_004168681.1|	100.00	19	0	0	59	3	91	109	PREDICTED: proteasome subunit alpha type-1-B-like [Cucumis sativus]	3659	Cucumis sativus	2e-06
+TR17827|c0_g1_i1	gi|357448649|ref|XP_003594600.1|	80.00	20	4	0	60	1	212	231	Fatty acid 2-hydroxylase [Medicago truncatula]	3880	Medicago truncatula	0.001
+TR17951|c0_g1_i1	gi|357487321|ref|XP_003613948.1|	100.00	20	0	0	1	60	83	102	Eukaryotic translation initiation factor 5A [Medicago truncatula]	3880	Medicago truncatula	2e-06
+TR17958|c0_g1_i1	gi|5834900|ref|NP_006967.1|COX1_10181	95.00	20	1	0	60	1	493	512	cytochrome c oxidase subunit I [Strongylocentrotus purpuratus]	7668	Strongylocentrotus purpuratus	3e-05
+TR17960|c0_g1_i1	gi|514814452|ref|XP_004981997.1|	89.47	19	2	0	58	2	35	53	PREDICTED: ubiquitin-conjugating enzyme E2 variant 1A-like [Setaria italica]	4555	Setaria italica	0.001
+TR17991|c0_g1_i1	gi|502082814|ref|XP_004487281.1|	100.00	20	0	0	1	60	342	361	PREDICTED: serine--tRNA ligase-like isoform X1 [Cicer arietinum]	3827	Cicer arietinum	2e-06
+TR18032|c0_g1_i1	gi|487702678|ref|WP_001786910.1|	100.00	19	0	0	3	59	12	30	multidrug resistance protein MdtH, partial [Salmonella enterica]	28901	Salmonella enterica	9e-05
+TR18150|c0_g1_i1	gi|115470235|ref|NP_001058716.1|	100.00	19	0	0	3	59	375	393	Os07g0108300 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-06
+TR18339|c0_g1_i1	gi|553936383|ref|WP_023145099.1|	100.00	19	0	0	59	3	14	32	TOBE domain protein, partial [Escherichia coli]	562	Escherichia coli	2e-04
+TR18413|c0_g1_i1	gi|260800101|ref|XP_002594975.1|	100.00	20	0	0	60	1	27	46	hypothetical protein BRAFLDRAFT_286450 [Branchiostoma floridae]	7739	Branchiostoma floridae	1e-06
+TR18513|c0_g1_i1	gi|446220053|ref|WP_000297908.1|	100.00	20	0	0	1	60	205	224	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	1e-08
+TR18615|c0_g1_i1	gi|187927376|ref|YP_001897863.1|	100.00	19	0	0	58	2	611	629	sodium/hydrogen exchanger [Ralstonia pickettii 12J]	48736;402626	Ralstonia;Ralstonia pickettii 12J	2e-04
+TR18659|c0_g1_i1	gi|334183715|ref|NP_001185343.1|	100.00	20	0	0	1	60	55	74	60S ribosomal protein L17-2 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-06
+TR18700|c0_g1_i1	gi|164421037|ref|YP_001648488.1|	84.21	19	3	0	59	3	101	119	cytochrome c oxidase subunit III [Aplysina fulva]	289401	Aplysina fulva	0.001
+TR18744|c0_g1_i1	gi|565351789|ref|XP_006342834.1|	89.47	19	2	0	59	3	126	144	PREDICTED: cellulose synthase-like protein D4-like [Solanum tuberosum]	4113	Solanum tuberosum	5e-06
+TR18758|c0_g1_i1	gi|565396659|ref|XP_006363927.1|	89.47	19	2	0	58	2	201	219	PREDICTED: UDP-galactose/UDP-glucose transporter 3-like [Solanum tuberosum]	4113	Solanum tuberosum	6e-04
+TR18765|c0_g1_i1	gi|485871366|ref|WP_001468312.1|	100.00	20	0	0	1	60	3	22	hypothetical protein [Escherichia coli]	562	Escherichia coli	5e-06
+TR19001|c0_g1_i2	gi|357446367|ref|XP_003593461.1|	89.47	19	2	0	58	2	96	114	60S ribosomal protein L26-1 [Medicago truncatula]	3880	Medicago truncatula	0.001
+TR19048|c0_g1_i1	gi|565370815|ref|XP_006352013.1|	100.00	19	0	0	59	3	143	161	PREDICTED: chlorophyll a-b binding protein 37, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	4e-06
+TR19048|c0_g2_i1	gi|565370815|ref|XP_006352013.1|	100.00	19	0	0	59	3	143	161	PREDICTED: chlorophyll a-b binding protein 37, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	4e-06
+TR19048|c0_g3_i1	gi|565370815|ref|XP_006352013.1|	100.00	19	0	0	59	3	143	161	PREDICTED: chlorophyll a-b binding protein 37, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	4e-06
+TR19091|c0_g1_i1	gi|359497730|ref|XP_002273430.2|	100.00	19	0	0	58	2	162	180	PREDICTED: 1-aminocyclopropane-1-carboxylate oxidase [Vitis vinifera]	29760	Vitis vinifera	8e-05
+TR19096|c0_g1_i1	gi|237836961|ref|XP_002367778.1|	89.47	19	2	0	59	3	359	377	elongation factor 2, putative [Toxoplasma gondii ME49]	508771	Toxoplasma gondii ME49	1e-05
+TR19432|c0_g1_i1	gi|449458113|ref|XP_004146792.1|	89.47	19	2	0	3	59	227	245	PREDICTED: probable pectate lyase P59-like, partial [Cucumis sativus]	3659	Cucumis sativus	2e-04
+TR19432|c0_g2_i1	gi|449458113|ref|XP_004146792.1|	89.47	19	2	0	3	59	227	245	PREDICTED: probable pectate lyase P59-like, partial [Cucumis sativus]	3659	Cucumis sativus	2e-04
+TR19432|c1_g1_i1	gi|565369641|ref|XP_006351443.1|	100.00	19	0	0	2	58	109	127	PREDICTED: probable pectate lyase 18-like [Solanum tuberosum]	4113	Solanum tuberosum	5e-06
+TR19458|c0_g1_i1	gi|301120111|ref|XP_002907783.1|	100.00	19	0	0	59	3	450	468	ketol-acid reductoisomerase [Phytophthora infestans T30-4]	403677	Phytophthora infestans T30-4	6e-06
+TR19458|c0_g2_i1	gi|301120111|ref|XP_002907783.1|	100.00	19	0	0	59	3	450	468	ketol-acid reductoisomerase [Phytophthora infestans T30-4]	403677	Phytophthora infestans T30-4	6e-06
+TR19516|c0_g1_i1	gi|565351781|ref|XP_006342830.1|	89.47	19	2	0	4	60	417	435	PREDICTED: putative pectinesterase/pectinesterase inhibitor 28-like [Solanum tuberosum]	4113	Solanum tuberosum	2e-04
+TR19566|c0_g1_i1	gi|158508402|ref|YP_001527869.1|	94.74	19	1	0	4	60	5	23	cytochrome c oxidase subunit II [Strongylocentrotus pallidus]	7670	Strongylocentrotus pallidus	3e-04
+TR19689|c0_g1_i1	gi|356574884|ref|XP_003555573.1|	90.00	20	2	0	1	60	35	54	PREDICTED: uncharacterized protein At2g34160-like [Glycine max]	3847	Glycine max	2e-05
+TR19712|c0_g1_i1	gi|555238763|ref|WP_023223784.1|	89.47	19	2	0	58	2	10	28	aromatic amino acid transporter [Salmonella enterica]	28901	Salmonella enterica	5e-06
+TR19731|c0_g1_i1	gi|487702183|ref|WP_001786415.1|	94.74	19	1	0	3	59	180	198	molecular chaperone DnaK [Salmonella enterica]	28901	Salmonella enterica	3e-04
+TR19743|c0_g1_i1	gi|241114348|ref|YP_002973823.1|	100.00	19	0	0	58	2	314	332	heavy metal efflux pump, CzcA family [Ralstonia pickettii 12D]	48736;428406	Ralstonia;Ralstonia pickettii 12D	4e-04
+TR19771|c0_g1_i1	gi|493486136|ref|WP_006440928.1|	95.00	20	1	0	60	1	36	55	hydrolase [[Clostridium] hiranonis]	89152	[Clostridium] hiranonis	1e-06
+TR1979|c0_g1_i1	gi|357115193|ref|XP_003559376.1|	85.00	20	3	0	60	1	287	306	PREDICTED: COBRA-like protein 3-like [Brachypodium distachyon]	15368	Brachypodium distachyon	7e-07
+TR19824|c0_g1_i1	gi|565444471|ref|XP_006284128.1|	94.74	19	1	0	59	3	297	315	hypothetical protein CARUB_v10005260mg [Capsella rubella]	81985	Capsella rubella	3e-04
+TR19849|c0_g1_i1	gi|255572563|ref|XP_002527215.1|	89.47	19	2	0	2	58	375	393	DNA binding protein, putative [Ricinus communis]	3988	Ricinus communis	0.001
+TR20070|c0_g1_i1	gi|340714704|ref|XP_003395866.1|	89.47	19	2	0	60	4	800	818	PREDICTED: LOW QUALITY PROTEIN: elongation factor 2-like [Bombus terrestris]	30195	Bombus terrestris	1e-06
+TR20103|c0_g1_i1	gi|357437405|ref|XP_003588978.1|	95.00	20	1	0	60	1	34	53	Beta-fructofuranosidase, insoluble isoenzyme [Medicago truncatula]	3880	Medicago truncatula	2e-07
+TR20432|c0_g1_i1	gi|219363243|ref|NP_001136486.1|	100.00	19	0	0	58	2	385	403	uncharacterized protein LOC100216601 [Zea mays]	4577	Zea mays	1e-06
+TR20468|c0_g1_i1	gi|553843593|ref|WP_023137537.1|	100.00	19	0	0	59	3	85	103	peptide chain release factor 3 [Salmonella enterica]	28901	Salmonella enterica	3e-06
+TR20619|c0_g1_i2	gi|15229347|ref|NP_187128.1|	94.74	19	1	0	59	3	107	125	40S ribosomal protein Sa-2 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	6e-06
+TR20661|c0_g1_i1	gi|260598298|ref|YP_003210869.1|	100.00	20	0	0	60	1	50	69	Cold shock-like protein cspC [Cronobacter turicensis z3032]	413502;693216	Cronobacter turicensis;Cronobacter turicensis z3032	2e-06
+TR2069|c0_g1_i1	gi|168009886|ref|XP_001757636.1|	94.74	19	1	0	58	2	33	51	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	2e-05
+TR20754|c0_g1_i1	gi|565358418|ref|XP_006346024.1|	100.00	19	0	0	2	58	52	70	PREDICTED: uncharacterized protein LOC102604381 [Solanum tuberosum]	4113	Solanum tuberosum	5e-05
+TR20838|c0_g1_i1	gi|470116360|ref|XP_004294350.1|	94.74	19	1	0	2	58	387	405	PREDICTED: TBC1 domain family member 15-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	1e-04
+TR21027|c0_g1_i1	gi|490770142|ref|WP_004632370.1|	100.00	19	0	0	58	2	568	586	hypothetical protein [Ralstonia pickettii]	329	Ralstonia pickettii	7e-07
+TR21031|c0_g1_i1	gi|15236857|ref|NP_193570.1|	100.00	20	0	0	1	60	117	136	glycolate oxidase [Arabidopsis thaliana]	3702	Arabidopsis thaliana	1e-06
+TR21035|c0_g2_i1	gi|449440343|ref|XP_004137944.1|	100.00	20	0	0	60	1	132	151	PREDICTED: actin-depolymerizing factor 2-like [Cucumis sativus]	3659	Cucumis sativus	2e-07
+TR21059|c0_g1_i1	gi|363807460|ref|NP_001242135.1|	94.74	19	1	0	59	3	207	225	uncharacterized protein LOC100789313 [Glycine max]	3847	Glycine max	6e-06
+TR21142|c0_g1_i1	gi|545272167|ref|WP_021561447.1|	100.00	19	0	0	58	2	242	260	transposase for insertion sequence element in transposon [Escherichia coli]	562	Escherichia coli	7e-05
+TR21168|c0_g1_i1	gi|555256482|ref|WP_023239398.1|	100.00	20	0	0	1	60	165	184	plasmid-partitioning protein SopA, partial [Salmonella enterica]	28901	Salmonella enterica	1e-05
+TR2121|c0_g1_i1	gi|489894325|ref|WP_003797775.1|	95.00	20	1	0	60	1	21	40	3-deoxy-manno-octulosonate cytidylyltransferase [Kingella oralis]	505	Kingella oralis	2e-04
+TR21311|c0_g1_i1	gi|545245263|ref|WP_021543936.1|	100.00	19	0	0	59	3	78	96	acyl carrier protein phosphodiesterase [Escherichia coli]	562	Escherichia coli	3e-06
+TR21346|c0_g1_i1	gi|486127570|ref|WP_001513095.1|	100.00	19	0	0	2	58	187	205	hypothetical protein [Escherichia coli]	562	Escherichia coli	4e-05
+TR21808|c0_g1_i1	gi|491213457|ref|WP_005071786.1|	100.00	19	0	0	3	59	2	20	hypothetical protein [Shigella flexneri]	623	Shigella flexneri	8e-05
+TR21931|c1_g1_i1	gi|485716724|ref|WP_001348596.1|	100.00	19	0	0	3	59	25	43	hypothetical protein [Escherichia coli]	562	Escherichia coli	4e-05
+TR21999|c0_g1_i1	gi|241664072|ref|YP_002982432.1|	100.00	19	0	0	3	59	1096	1114	hypothetical protein Rpic12D_2488 [Ralstonia pickettii 12D]	329;428406	Ralstonia pickettii;Ralstonia pickettii 12D	9e-05
+TR2201|c0_g1_i1	gi|15646205|ref|NP_208380.1|	84.21	19	3	0	59	3	161	179	hypothetical protein HP1589 [Helicobacter pylori 26695]	210;85962;1234365;1234600	Helicobacter pylori;Helicobacter pylori 26695;Helicobacter pylori Rif1;Helicobacter pylori Rif2	1e-06
+TR22116|c0_g1_i1	gi|17549463|ref|NP_522803.1|	100.00	20	0	0	60	1	18	37	transmembrane cytochrome bd-II oxidase (subunit I) oxidoreduct [Ralstonia solanacearum GMI1000]	305;267608	Ralstonia solanacearum;Ralstonia solanacearum GMI1000	3e-04
+TR22191|c0_g1_i1	gi|297803256|ref|XP_002869512.1|	68.42	19	6	0	3	59	75	93	hypothetical protein ARALYDRAFT_491945 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-04
+TR22296|c0_g1_i1	gi|187928668|ref|YP_001899155.1|	100.00	20	0	0	60	1	134	153	cation diffusion facilitator family transporter [Ralstonia pickettii 12J]	329;402626	Ralstonia pickettii;Ralstonia pickettii 12J	4e-04
+TR22373|c0_g1_i1	gi|486055228|ref|WP_001507474.1|	100.00	19	0	0	3	59	32	50	putative dioxygenase alpha subunit [Escherichia coli]	562	Escherichia coli	8e-06
+TR22454|c0_g1_i1	gi|255557520|ref|XP_002519790.1|	100.00	19	0	0	2	58	9	27	NADH dehydrogenase, putative [Ricinus communis]	3988	Ricinus communis	1e-04
+TR22465|c0_g1_i1	gi|224088838|ref|XP_002308562.1|	89.47	19	2	0	3	59	1005	1023	precursor of carboxylase p-protein 1, glycine decarboxylase complex [Populus trichocarpa]	3694	Populus trichocarpa	3e-04
+TR22525|c0_g1_i1	gi|490772640|ref|WP_004634861.1|	100.00	19	0	0	2	58	200	218	transcriptional regulator, LysR family [Ralstonia pickettii]	329	Ralstonia pickettii	0.001
+TR22568|c0_g1_i1	gi|545368296|ref|XP_005648929.1|	90.00	20	2	0	60	1	57	76	thiazole biosynthetic enzyme [Coccomyxa subellipsoidea C-169]	574566	Coccomyxa subellipsoidea C-169	0.001
+TR22651|c0_g1_i1	gi|489673562|ref|WP_003577814.1|	100.00	19	0	0	58	2	90	108	outer membrane efflux family protein [Escherichia coli]	562	Escherichia coli	1e-04
+TR22655|c0_g1_i1	gi|357492397|ref|XP_003616487.1|	100.00	19	0	0	4	60	382	400	Metallocarboxypeptidase inhibitor [Medicago truncatula]	3880	Medicago truncatula	3e-04
+TR2267|c0_g1_i1	gi|460369977|ref|XP_004230833.1|	89.47	19	2	0	59	3	61	79	PREDICTED: uncharacterized protein LOC101255248 [Solanum lycopersicum]	4081	Solanum lycopersicum	0.001
+TR22682|c0_g1_i1	gi|224145796|ref|XP_002336263.1|	100.00	19	0	0	59	3	45	63	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	8e-07
+TR22815|c0_g1_i1	gi|559186434|ref|WP_023566272.1|	100.00	20	0	0	60	1	37	56	pyruvate dehydrogenase subunit E1, partial [Escherichia coli]	562	Escherichia coli	6e-06
+TR22846|c0_g1_i1	gi|497322971|ref|WP_009637184.1|	100.00	20	0	0	60	1	21	40	wzxE domain protein [Escherichia coli]	562	Escherichia coli	8e-05
+TR22879|c0_g1_i1	gi|340785354|ref|YP_004750819.1|	100.00	20	0	0	1	60	76	95	3-oxoadipate CoA-transferase subunit A [Collimonas fungivorans Ter331]	158899;1005048	Collimonas fungivorans;Collimonas fungivorans Ter331	1e-04
+TR23086|c0_g1_i1	gi|187926920|ref|YP_001893265.1|	100.00	20	0	0	1	60	226	245	flagellar motor switch protein FliM [Ralstonia pickettii 12J]	329;402626;428406	Ralstonia pickettii;Ralstonia pickettii 12J;Ralstonia pickettii 12D	3e-05
+TR23271|c0_g1_i1	gi|446951638|ref|WP_001028894.1|	100.00	20	0	0	1	60	5	24	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	6e-05
+TR23302|c0_g1_i1	gi|449476360|ref|XP_004154716.1|	100.00	19	0	0	59	3	62	80	PREDICTED: 60S ribosomal protein L6-like [Cucumis sativus]	3659	Cucumis sativus	2e-04
+TR23327|c0_g1_i1	gi|565356086|ref|XP_006344905.1|	100.00	19	0	0	2	58	262	280	PREDICTED: heat shock cognate protein 80-like [Solanum tuberosum]	4113	Solanum tuberosum	5e-05
+TR23357|c0_g1_i1	gi|224074480|ref|XP_002304378.1|	100.00	20	0	0	60	1	37	56	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-05
+TR23528|c0_g1_i1	gi|460398641|ref|XP_004244864.1|	95.00	20	1	0	1	60	109	128	PREDICTED: stem-specific protein TSJT1-like, partial [Solanum lycopersicum]	4081	Solanum lycopersicum	2e-05
+TR2366|c0_g1_i1	gi|351722183|ref|NP_001237491.1|	100.00	19	0	0	59	3	327	345	serine hydroxymethyltransferase 3 [Glycine max]	3847	Glycine max	2e-05
+TR23702|c0_g1_i1	gi|225465198|ref|XP_002264400.1|	94.74	19	1	0	58	2	310	328	PREDICTED: elongation factor 1-gamma-like [Vitis vinifera]	29760	Vitis vinifera	6e-06
+TR23726|c0_g1_i1	gi|158293363|ref|XP_314718.4|	100.00	19	0	0	3	59	175	193	AGAP008622-PA [Anopheles gambiae str. PEST]	180454	Anopheles gambiae str. PEST	4e-05
+TR23886|c0_g1_i1	gi|487582440|ref|WP_001723549.1|	100.00	19	0	0	58	2	30	48	alanyl-tRNA ligase, partial [Salmonella enterica]	28901	Salmonella enterica	9e-06
+TR23891|c0_g1_i1	gi|255544760|ref|XP_002513441.1|	94.74	19	1	0	2	58	428	446	lipoxygenase, putative [Ricinus communis]	3988	Ricinus communis	1e-04
+TR23941|c0_g1_i1	gi|502173079|ref|XP_004515248.1|	100.00	20	0	0	60	1	281	300	PREDICTED: beta-amylase 1, chloroplastic-like [Cicer arietinum]	3827	Cicer arietinum	8e-07
+TR23956|c0_g1_i1	gi|493869778|ref|WP_006816338.1|	100.00	19	0	0	2	58	64	82	anaerobic ribonucleoside-triphosphate reductase, beta subunit, partial [Providencia rustigianii]	158850	Providencia rustigianii	0.001
+TR24064|c0_g1_i1	gi|446011943|ref|WP_000089798.1|	100.00	19	0	0	58	2	36	54	transposase [Escherichia coli]	562	Escherichia coli	5e-07
+TR24121|c0_g1_i1	gi|485675715|ref|WP_001315425.1|	100.00	15	0	0	45	1	388	402	potassium transporter Trk [Escherichia coli]	562	Escherichia coli	4e-06
+TR24165|c0_g1_i1	gi|565342700|ref|XP_006338480.1|	89.47	19	2	0	2	58	99	117	PREDICTED: probable pectate lyase P59-like [Solanum tuberosum]	4113	Solanum tuberosum	6e-05
+TR24165|c0_g2_i1	gi|565342700|ref|XP_006338480.1|	89.47	19	2	0	2	58	99	117	PREDICTED: probable pectate lyase P59-like [Solanum tuberosum]	4113	Solanum tuberosum	6e-05
+TR24175|c0_g1_i1	gi|356572357|ref|XP_003554335.1|	84.21	19	3	0	59	3	136	154	PREDICTED: probable pectate lyase 3-like [Glycine max]	3847	Glycine max	3e-04
+TR24250|c0_g1_i1	gi|255578260|ref|XP_002529997.1|	100.00	19	0	0	59	3	278	296	cystathionine gamma-synthase, putative [Ricinus communis]	3988	Ricinus communis	6e-05
+TR24292|c0_g1_i1	gi|514709010|ref|XP_004951680.1|	94.74	19	1	0	59	3	253	271	PREDICTED: ubiquitin fusion degradation protein 1 homolog [Setaria italica]	4555	Setaria italica	6e-05
+TR24487|c0_g1_i1	gi|297720663|ref|NP_001172693.1|	100.00	19	0	0	59	3	44	62	Os01g0896620 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-05
+TR24495|c0_g1_i1	gi|470130942|ref|XP_004301360.1|	80.00	20	4	0	1	60	364	383	PREDICTED: uncharacterized protein LOC101307700 [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	5e-04
+TR24538|c0_g1_i1	gi|559187496|ref|WP_023566943.1|	100.00	19	0	0	58	2	12	30	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	3e-06
+TR24624|c0_g1_i1	gi|187929163|ref|YP_001899650.1|	100.00	20	0	0	1	60	78	97	binding-protein-dependent transport system inner membrane protein [Ralstonia pickettii 12J]	329;402626	Ralstonia pickettii;Ralstonia pickettii 12J	3e-07
+TR24640|c0_g1_i1	gi|487505988|ref|WP_001705552.1|	100.00	19	0	0	3	59	27	45	alpha-xylosidase domain protein [Escherichia coli]	562	Escherichia coli	2e-05
+TR24694|c0_g1_i1	gi|449506950|ref|XP_004162892.1|	100.00	19	0	0	2	58	200	218	PREDICTED: cellulose synthase-like protein D4-like, partial [Cucumis sativus]	3659	Cucumis sativus	2e-06
+TR24769|c0_g1_i1	gi|30062496|ref|NP_836667.1|	100.00	19	0	0	58	2	44	62	hypothetical protein S1025 [Shigella flexneri 2a str. 2457T]	623;198215;591020	Shigella flexneri;Shigella flexneri 2a str. 2457T;Shigella flexneri 2002017	1e-05
+TR24860|c0_g1_i1	gi|485710865|ref|WP_001343244.1|	100.00	19	0	0	58	2	13	31	hypothetical protein [Enterobacteriaceae]	543	Enterobacteriaceae	4e-05
+TR24864|c0_g1_i1	gi|152971393|ref|YP_001336502.1|	100.00	19	0	0	59	3	170	188	cysteine desulfurase [Klebsiella pneumoniae subsp. pneumoniae MGH 78578]	543;272620;484021;1049565;1125630;1193292;1244085;1380908	Enterobacteriaceae;Klebsiella pneumoniae subsp. pneumoniae MGH 78578;Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044;Klebsiella pneumoniae KCTC 2242;Klebsiella pneumoniae subsp. pneumoniae HS11286;Klebsiella pneumoniae subsp. pneumoniae 1084;Klebsiella pneumoniae CG43;Klebsiella pneumoniae JM45	2e-05
+TR25019|c0_g1_i1	gi|224099807|ref|XP_002311627.1|	95.00	20	1	0	60	1	439	458	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-04
+TR25142|c0_g1_i1	gi|18415671|ref|NP_567624.1|	95.00	20	1	0	60	1	552	571	Subtilase family protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	7e-04
+TR25300|c0_g1_i1	gi|489926407|ref|WP_003829744.1|	100.00	19	0	0	2	58	98	116	hypothetical protein [Citrobacter]	544	Citrobacter	0.001
+TR25308|c0_g1_i1	gi|449448312|ref|XP_004141910.1|	95.00	20	1	0	60	1	622	641	PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC101215204 [Cucumis sativus]	3659	Cucumis sativus	1e-05
+TR25336|c0_g1_i1	gi|515569729|ref|WP_017002541.1|	88.89	18	2	0	5	58	2	19	hypothetical protein, partial [Pseudomonas aeruginosa]	287	Pseudomonas aeruginosa	7e-04
+TR25372|c0_g1_i1	gi|565484666|ref|XP_006299973.1|	100.00	19	0	0	59	3	108	126	hypothetical protein CARUB_v10016186mg [Capsella rubella]	81985	Capsella rubella	4e-05
+TR25488|c0_g1_i1	gi|357436159|ref|XP_003588355.1|	100.00	19	0	0	58	2	549	567	Mitochondrial protein, putative [Medicago truncatula]	3880	Medicago truncatula	3e-05
+TR25490|c0_g1_i1	gi|544767983|ref|WP_021193300.1|	100.00	20	0	0	1	60	152	171	RpiR family transcriptional regulator [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-05
+TR25620|c0_g1_i1	gi|30679742|ref|NP_179264.2|	89.47	19	2	0	3	59	541	559	beta-galactosidase 13 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	8e-04
+TR25805|c0_g1_i1	gi|15233271|ref|NP_191103.1|	90.00	20	2	0	60	1	290	309	O-Glycosyl hydrolases family 17 protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	1e-04
+TR25816|c0_g1_i1	gi|558010299|ref|WP_023475352.1|	100.00	19	0	0	2	58	236	254	2,4-dienoyl-CoA reductase [Burkholderia cenocepacia]	95486	Burkholderia cenocepacia	2e-04
+TR25822|c0_g1_i1	gi|449455581|ref|XP_004145531.1|	100.00	20	0	0	1	60	424	443	PREDICTED: ATP-dependent zinc metalloprotease FTSH, chloroplastic-like [Cucumis sativus]	3659	Cucumis sativus	2e-05
+TR25854|c0_g1_i1	gi|496576482|ref|WP_009277600.1|	100.00	20	0	0	1	60	435	454	ATPase [Ralstonia sp. 5_7_47FAA]	658664	Ralstonia sp. 5_7_47FAA	9e-06
+TR25912|c0_g1_i1	gi|565351711|ref|XP_006342798.1|	94.74	19	1	0	58	2	62	80	PREDICTED: 40S ribosomal protein S21-2-like [Solanum tuberosum]	4113	Solanum tuberosum	7e-05
+TR25974|c0_g1_i1	gi|297611781|ref|NP_001067845.2|	100.00	19	0	0	3	59	167	185	Os11g0455500 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-04
+TR26011|c0_g1_i1	gi|565352767|ref|XP_006343311.1|	84.21	19	3	0	58	2	157	175	PREDICTED: uncharacterized protein LOC102597380 [Solanum tuberosum]	4113	Solanum tuberosum	6e-05
+TR26011|c0_g2_i1	gi|565352767|ref|XP_006343311.1|	84.21	19	3	0	58	2	157	175	PREDICTED: uncharacterized protein LOC102597380 [Solanum tuberosum]	4113	Solanum tuberosum	6e-05
+TR26022|c0_g1_i1	gi|115472983|ref|NP_001060090.1|	100.00	20	0	0	1	60	167	186	Os07g0577600 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	1e-06
+TR26022|c0_g2_i1	gi|115472983|ref|NP_001060090.1|	100.00	20	0	0	1	60	167	186	Os07g0577600 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	1e-06
+TR26028|c0_g1_i1	gi|491117974|ref|WP_004976427.1|	100.00	19	0	0	3	59	21	39	hypothetical protein, partial [Acinetobacter towneri]	202956	Acinetobacter towneri	3e-05
+TR26036|c0_g1_i1	gi|565367249|ref|XP_006350287.1|	100.00	19	0	0	59	3	110	128	PREDICTED: photosystem I reaction center subunit IV B, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	6e-05
+TR26110|c0_g1_i1	gi|563940560|ref|YP_008854433.1|	100.00	18	0	0	59	6	19	36	ribulose 1,5-bisphosphate carboxylase/oxygenase large subunit [Musa textilis]	228183	Musa textilis	5e-05
+TR26262|c0_g1_i1	gi|238614054|ref|XP_002398595.1|	94.74	19	1	0	58	2	91	109	hypothetical protein MPER_00783 [Moniliophthora perniciosa FA553]	554373	Moniliophthora perniciosa FA553	1e-05
+TR26327|c0_g1_i1	gi|162460995|ref|NP_001104959.1|	100.00	20	0	0	1	60	450	469	cellulose synthase-9 [Zea mays]	4577	Zea mays	5e-06
+TR2640|c0_g1_i1	gi|15242971|ref|NP_200625.1|	95.00	20	1	0	60	1	602	621	glycerophosphodiester phosphodiesterase like 7 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	1e-04
+TR26473|c0_g1_i1	gi|297833572|ref|XP_002884668.1|	94.44	18	1	0	56	3	262	279	polygalacturonase 3 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	0.001
+TR26573|c0_g1_i1	gi|565497420|ref|XP_006306349.1|	94.74	19	1	0	59	3	257	275	hypothetical protein CARUB_v10012235mg [Capsella rubella]	81985	Capsella rubella	8e-05
+TR26592|c0_g1_i1	gi|544767635|ref|WP_021192956.1|	100.00	19	0	0	2	58	243	261	amidohydrolase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	6e-07
+TR26786|c0_g1_i1	gi|187733929|ref|YP_001878836.1|	100.00	19	0	0	2	58	41	59	hypothetical protein SbBS512_E0016 [Shigella boydii CDC 3083-94]	621;344609	Shigella boydii;Shigella boydii CDC 3083-94	6e-06
+TR26872|c0_g1_i1	gi|218157305|ref|YP_002364458.1|	85.00	20	3	0	60	1	173	192	cytochrome c oxidase subunit II [Geococcyx californianus]	8947	Geococcyx californianus	2e-05
+TR26879|c0_g1_i1	gi|224099523|ref|XP_002311517.1|	94.74	19	1	0	59	3	29	47	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	6e-05
+TR26939|c0_g1_i1	gi|565391468|ref|XP_006361444.1|	94.74	19	1	0	58	2	1170	1188	PREDICTED: pleiotropic drug resistance protein 2-like isoform X2 [Solanum tuberosum]	4113	Solanum tuberosum	8e-07
+TR27054|c0_g1_i1	gi|226492491|ref|NP_001145401.1|	100.00	19	0	0	58	2	25	43	uncharacterized protein LOC100278753 [Zea mays]	4577	Zea mays	2e-06
+TR27071|c0_g1_i1	gi|486194688|ref|WP_001546038.1|	100.00	19	0	0	59	3	33	51	hypothetical protein [Escherichia coli]	562	Escherichia coli	1e-05
+TR27198|c0_g1_i1	gi|255077157|ref|XP_002502229.1|	89.47	19	2	0	1	57	66	84	chlorophyll a/b-binding protein, psi-associated, chloroplast precursor [Micromonas sp. RCC299]	296587	Micromonas sp. RCC299	6e-05
+TR27234|c0_g1_i1	gi|187926923|ref|YP_001893268.1|	100.00	20	0	0	1	60	122	141	flagellar biosynthesis protein FliP [Ralstonia pickettii 12J]	329;402626;428406	Ralstonia pickettii;Ralstonia pickettii 12J;Ralstonia pickettii 12D	1e-05
+TR27453|c0_g1_i1	gi|241664234|ref|YP_002982594.1|	100.00	19	0	0	3	59	453	471	prolyl-tRNA synthetase [Ralstonia pickettii 12D]	329;428406	Ralstonia pickettii;Ralstonia pickettii 12D	1e-04
+TR27525|c0_g1_i1	gi|487617737|ref|WP_001736476.1|	100.00	20	0	0	60	1	113	132	putative xylose operon regulatory protein [Escherichia coli]	562	Escherichia coli	9e-07
+TR27541|c0_g1_i1	gi|224080606|ref|XP_002306177.1|	100.00	19	0	0	3	59	121	139	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-05
+TR27599|c0_g1_i1	gi|460381785|ref|XP_004236622.1|	89.47	19	2	0	2	58	562	580	PREDICTED: lysosomal beta glucosidase-like [Solanum lycopersicum]	4081	Solanum lycopersicum	0.001
+TR27670|c0_g1_i1	gi|496876413|ref|WP_009394328.1|	84.21	19	3	0	58	2	45	63	Ferritin Dps family protein [Pseudomonas putida]	303	Pseudomonas putida	2e-05
+TR27727|c0_g1_i1	gi|15233426|ref|NP_193819.1|	100.00	20	0	0	60	1	124	143	fatty acid hydroxylase 2 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	1e-06
+TR27865|c0_g1_i1	gi|492586649|ref|WP_005895488.1|	94.74	19	1	0	58	2	18	36	hypothetical protein [Fusobacterium nucleatum]	851	Fusobacterium nucleatum	1e-04
+TR27919|c0_g1_i1	gi|357482111|ref|XP_003611341.1|	89.47	19	2	0	2	58	61	79	Ribosomal protein L1 [Medicago truncatula]	3880	Medicago truncatula	1e-04
+TR2813|c0_g1_i1	gi|545374324|ref|XP_005651460.1|	89.47	19	2	0	3	59	325	343	tubulin alpha chain [Coccomyxa subellipsoidea C-169]	574566	Coccomyxa subellipsoidea C-169	0.001
+TR28186|c0_g1_i1	gi|358343883|ref|XP_003636025.1|	95.00	20	1	0	1	60	716	735	Photosystem II CP47 chlorophyll apoprotein [Medicago truncatula]	3880	Medicago truncatula	7e-06
+TR28201|c0_g1_i1	gi|517883997|ref|WP_019054205.1|	100.00	19	0	0	58	2	5	23	transposase [Sphingobium xenophagum]	121428	Sphingobium xenophagum	7e-05
+TR28202|c0_g1_i1	gi|446225277|ref|WP_000303132.1|	100.00	20	0	0	60	1	89	108	uroporphyrin-III C-methyltransferase, partial [Salmonella enterica]	28901	Salmonella enterica	4e-07
+TR28205|c0_g1_i1	gi|30688252|ref|NP_851051.1|	90.00	20	2	0	1	60	11	30	E3 ubiquitin-protein ligase RHF2A [Arabidopsis thaliana]	3702	Arabidopsis thaliana	4e-04
+TR28271|c0_g1_i1	gi|565353746|ref|XP_006343784.1|	100.00	19	0	0	58	2	93	111	PREDICTED: methionine gamma-lyase-like [Solanum tuberosum]	4113	Solanum tuberosum	1e-06
+TR28439|c0_g1_i1	gi|488361712|ref|WP_002431097.1|	100.00	20	0	0	60	1	2	21	mannitol-1-phosphate 5-dehydrogenase [Escherichia sp. 4_1_40B]	457401	Escherichia sp. 4_1_40B	6e-09
+TR28532|c0_g1_i1	gi|558564718|ref|WP_023494905.1|	68.42	19	6	0	59	3	70	88	aerotaxis receptor [Methyloglobulus morosus]	1410681	Methyloglobulus morosus	2e-04
+TR28798|c0_g1_i1	gi|356530525|ref|XP_003533831.1|	94.74	19	1	0	59	3	849	867	PREDICTED: periodic tryptophan protein 2 [Glycine max]	3847	Glycine max	3e-05
+TR28802|c0_g1_i1	gi|449533832|ref|XP_004173875.1|	90.00	20	2	0	1	60	59	78	PREDICTED: DNA-directed RNA polymerase subunit alpha-like [Cucumis sativus]	3659	Cucumis sativus	8e-06
+TR28810|c0_g1_i1	gi|15229522|ref|NP_189023.1|	100.00	20	0	0	60	1	367	386	adenosylhomocysteinase 2 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	5e-07
+TR28884|c0_g1_i1	gi|470111882|ref|XP_004292170.1|	90.00	20	2	0	1	60	166	185	PREDICTED: beta-galactosidase 13-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	5e-06
+TR28967|c0_g1_i1	gi|565389796|ref|XP_006360634.1|	100.00	19	0	0	59	3	526	544	PREDICTED: probable receptor-like protein kinase At4g39110-like [Solanum tuberosum]	4113	Solanum tuberosum	7e-05
+TR28|c0_g1_i1	gi|225424962|ref|XP_002264993.1|	94.74	19	1	0	2	58	747	765	PREDICTED: uncharacterized protein LOC100253105 [Vitis vinifera]	29760	Vitis vinifera	7e-07
+TR29102|c0_g1_i1	gi|15228335|ref|NP_187672.1|	100.00	19	0	0	59	3	36	54	40S ribosomal protein S17-3 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	7e-05
+TR29249|c0_g1_i1	gi|28916742|ref|NP_803163.1|	100.00	20	0	0	60	1	205	224	ATP synthase F0 subunit 6 [Pisaster ochraceus]	7612	Pisaster ochraceus	1e-05
+TR29680|c0_g1_i1	gi|565344472|ref|XP_006339339.1|	89.47	19	2	0	59	3	41	59	PREDICTED: 12-oxophytodienoate reductase 1-like [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR29688|c0_g1_i1	gi|15226490|ref|NP_182227.1|	89.47	19	2	0	3	59	489	507	invertase/pectin methylesterase inhibitor [Arabidopsis thaliana]	3702	Arabidopsis thaliana	4e-04
+TR29728|c0_g1_i1	gi|255564301|ref|XP_002523147.1|	84.21	19	3	0	2	58	259	277	Patellin-4, putative [Ricinus communis]	3988	Ricinus communis	9e-05
+TR29829|c0_g1_i1	gi|449522030|ref|XP_004168031.1|	100.00	19	0	0	2	58	77	95	PREDICTED: 40S ribosomal protein S3a-like, partial [Cucumis sativus]	3659	Cucumis sativus	1e-06
+TR29950|c0_g1_i1	gi|485785286|ref|WP_001407682.1|	100.00	20	0	0	60	1	72	91	fimbrial protein FimF [Escherichia coli]	562	Escherichia coli	2e-05
+TR30121|c0_g1_i1	gi|565366189|ref|XP_006349776.1|	94.74	19	1	0	59	3	20	38	PREDICTED: serine--glyoxylate aminotransferase-like [Solanum tuberosum]	4113	Solanum tuberosum	6e-06
+TR30193|c0_g1_i1	gi|565373343|ref|XP_006353234.1|	78.95	19	4	0	3	59	313	331	PREDICTED: zinc finger CCCH domain-containing protein ZFN-like [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR30206|c0_g1_i1	gi|491739897|ref|WP_005573030.1|	100.00	20	0	0	60	1	7	26	possible xylose ABC superfamily ATP binding cassette transporter, ABC protein [Aggregatibacter actinomycetemcomitans]	714	Aggregatibacter actinomycetemcomitans	4e-05
+TR30247|c0_g1_i1	gi|544771628|ref|WP_021196905.1|	100.00	19	0	0	3	59	159	177	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-04
+TR3024|c0_g1_i1	gi|367034626|ref|XP_003666595.1|	95.00	20	1	0	1	60	123	142	hypothetical protein MYCTH_2121175 [Myceliophthora thermophila ATCC 42464]	573729	Myceliophthora thermophila ATCC 42464	2e-04
+TR30569|c0_g1_i1	gi|242090577|ref|XP_002441121.1|	100.00	19	0	0	3	59	51	69	hypothetical protein SORBIDRAFT_09g020820 [Sorghum bicolor]	4558	Sorghum bicolor	1e-05
+TR30748|c0_g1_i1	gi|544770684|ref|WP_021195974.1|	100.00	19	0	0	58	2	49	67	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-04
+TR30787|c0_g1_i1	gi|17548819|ref|NP_522159.1|	100.00	19	0	0	2	58	39	57	response regulator transcription regulator protein [Ralstonia solanacearum GMI1000]	305;267608	Ralstonia solanacearum;Ralstonia solanacearum GMI1000	4e-05
+TR30817|c0_g1_i1	gi|224077522|ref|XP_002335795.1|	100.00	19	0	0	58	2	28	46	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-06
+TR30881|c0_g1_i1	gi|297845464|ref|XP_002890613.1|	100.00	19	0	0	59	3	34	52	predicted protein [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-04
+TR30982|c0_g1_i1	gi|470122099|ref|XP_004297087.1|	100.00	19	0	0	3	59	324	342	PREDICTED: S-adenosylmethionine synthase 3-like isoform 1 [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	8e-05
+TR31280|c0_g1_i1	gi|553958340|ref|WP_023154234.1|	100.00	20	0	0	60	1	131	150	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	3e-06
+TR31322|c0_g1_i1	gi|115472817|ref|NP_001060007.1|	100.00	19	0	0	2	58	97	115	Os07g0565000 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	3e-06
+TR31337|c0_g1_i1	gi|350535593|ref|NP_001234714.1|	94.74	19	1	0	58	2	225	243	osmotin-like protein precursor [Solanum lycopersicum]	4081	Solanum lycopersicum	0.001
+TR31571|c0_g1_i1	gi|485742706|ref|WP_001369491.1|	100.00	19	0	0	3	59	73	91	hypothetical protein [Escherichia coli]	562	Escherichia coli	5e-06
+TR31613|c0_g1_i1	gi|162146802|ref|YP_001601263.1|	90.00	20	2	0	1	60	11	30	transposase [Gluconacetobacter diazotrophicus PAl 5]	33996;272568	Gluconacetobacter diazotrophicus;Gluconacetobacter diazotrophicus PAl 5	2e-06
+TR31623|c0_g1_i1	gi|225431563|ref|XP_002282276.1|	100.00	19	0	0	2	58	393	411	PREDICTED: UTP--glucose-1-phosphate uridylyltransferase isoform 1 [Vitis vinifera]	29760	Vitis vinifera	2e-04
+TR31769|c1_g4_i2	gi|380030576|ref|XP_003698921.1|	100.00	20	0	0	1	60	54	73	PREDICTED: uncharacterized protein LOC100866091 [Apis florea]	7463	Apis florea	3e-06
+TR31890|c0_g1_i1	gi|224071850|ref|XP_002303583.1|	94.74	19	1	0	3	59	167	185	glutathione peroxidase [Populus trichocarpa]	3694	Populus trichocarpa	9e-06
+TR31890|c0_g2_i1	gi|351727154|ref|NP_001236895.1|	100.00	19	0	0	2	58	74	92	uncharacterized protein LOC100306570 [Glycine max]	3847	Glycine max	2e-06
+TR32080|c0_g1_i1	gi|565421494|ref|XP_006279067.1|	95.00	20	1	0	1	60	33	52	hypothetical protein CARUB_v100127481mg, partial [Capsella rubella]	81985	Capsella rubella	2e-05
+TR32207|c0_g1_i1	gi|255551420|ref|XP_002516756.1|	94.74	19	1	0	59	3	83	101	sterol desaturase, putative [Ricinus communis]	3988	Ricinus communis	3e-04
+TR32223|c0_g1_i1	gi|255578137|ref|XP_002529938.1|	95.00	20	1	0	1	60	291	310	conserved hypothetical protein [Ricinus communis]	3988	Ricinus communis	3e-04
+TR32261|c0_g1_i1	gi|560399498|ref|WP_023622387.1|	100.00	19	0	0	3	59	45	63	phage-shock protein [Enterobacter cloacae]	550	Enterobacter cloacae	4e-04
+TR32296|c0_g1_i1	gi|357123085|ref|XP_003563243.1|	94.74	19	1	0	60	4	354	372	PREDICTED: catalase isozyme 1-like [Brachypodium distachyon]	15368	Brachypodium distachyon	6e-05
+TR32352|c0_g1_i1	gi|519089183|ref|WP_020245058.1|	100.00	19	0	0	58	2	87	105	maltose transporter membrane protein, partial [Escherichia coli]	562	Escherichia coli	1e-05
+TR32482|c0_g1_i1	gi|170019286|ref|YP_001724240.1|	100.00	19	0	0	2	58	113	131	hypothetical protein EcolC_1247 [Escherichia coli ATCC 8739]	562;413997;469008;481805;866768	Escherichia coli;Escherichia coli B str. REL606;Escherichia coli BL21(DE3);Escherichia coli ATCC 8739;Escherichia coli 'BL21-Gold(DE3)pLysS AG'	2e-05
+TR32483|c0_g1_i1	gi|187925995|ref|YP_001892340.1|	100.00	19	0	0	59	3	185	203	ABC transporter [Ralstonia pickettii 12J]	329;402626;428406	Ralstonia pickettii;Ralstonia pickettii 12J;Ralstonia pickettii 12D	2e-04
+TR32978|c0_g1_i1	gi|239050557|ref|NP_001132867.2|	100.00	19	0	0	2	58	55	73	uncharacterized protein LOC100194360 [Zea mays]	4577	Zea mays	6e-04
+TR33031|c0_g1_i1	gi|255582409|ref|XP_002531993.1|	100.00	19	0	0	58	2	61	79	cytochrome-c oxidase, putative [Ricinus communis]	3988	Ricinus communis	1e-05
+TR33157|c0_g1_i1	gi|551530510|ref|XP_005816711.1|	100.00	19	0	0	2	58	41	59	PREDICTED: 14-3-3 protein epsilon-like, partial [Xiphophorus maculatus]	8083	Xiphophorus maculatus	9e-05
+TR33176|c0_g1_i1	gi|565401594|ref|XP_006366282.1|	100.00	19	0	0	3	59	229	247	PREDICTED: calnexin homolog [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR33242|c0_g1_i1	gi|225432474|ref|XP_002277334.1|	84.21	19	3	0	59	3	245	263	PREDICTED: probable galacturonosyltransferase-like 4 [Vitis vinifera]	29760	Vitis vinifera	3e-04
+TR33270|c0_g1_i1	gi|470117445|ref|XP_004294868.1|	100.00	20	0	0	1	60	177	196	PREDICTED: regulator of ribonuclease-like protein 3-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	1e-06
+TR33319|c0_g1_i1	gi|255558942|ref|XP_002520494.1|	94.74	19	1	0	59	3	46	64	protein with unknown function [Ricinus communis]	3988	Ricinus communis	0.001
+TR33342|c0_g1_i1	gi|544772569|ref|WP_021197829.1|	100.00	19	0	0	59	3	192	210	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-04
+TR33366|c0_g1_i1	gi|494842854|ref|WP_007568954.1|	94.74	19	1	0	59	3	101	119	hypothetical protein [Methylobacterium sp. GXF4]	1096546	Methylobacterium sp. GXF4	2e-04
+TR33406|c0_g1_i1	gi|470109044|ref|XP_004290812.1|	95.00	20	1	0	60	1	441	460	PREDICTED: endoglucanase 17-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	2e-05
+TR3342|c0_g1_i1	gi|449440891|ref|XP_004138217.1|	100.00	19	0	0	3	59	73	91	PREDICTED: protein COBRA-like [Cucumis sativus]	3659	Cucumis sativus	5e-06
+TR33573|c0_g1_i1	gi|514726270|ref|XP_004955938.1|	89.47	19	2	0	2	58	23	41	PREDICTED: uncharacterized protein LOC101784102 [Setaria italica]	4555	Setaria italica	0.001
+TR33573|c0_g2_i1	gi|514726270|ref|XP_004955938.1|	89.47	19	2	0	2	58	23	41	PREDICTED: uncharacterized protein LOC101784102 [Setaria italica]	4555	Setaria italica	0.001
+TR33577|c0_g1_i1	gi|565623570|ref|WP_023891215.1|	100.00	19	0	0	2	58	3	21	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	4e-05
+TR33633|c0_g1_i1	gi|115466364|ref|NP_001056781.1|	88.24	17	2	0	9	59	98	114	Os06g0144200 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	3e-05
+TR33684|c0_g1_i1	gi|15228634|ref|NP_187028.1|	100.00	20	0	0	60	1	561	580	methionine synthase 2 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	5e-08
+TR33684|c1_g1_i1	gi|297852108|ref|XP_002893935.1|	100.00	20	0	0	1	60	54	73	predicted protein [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-05
+TR33702|c0_g1_i1	gi|446037572|ref|WP_000115427.1|	100.00	20	0	0	1	60	214	233	xanthine permease, partial [Salmonella enterica]	28901	Salmonella enterica	3e-05
+TR33735|c0_g1_i1	gi|356555504|ref|XP_003546071.1|	95.00	20	1	0	1	60	545	564	PREDICTED: uncharacterized membrane protein C24H6.13-like [Glycine max]	3847	Glycine max	2e-06
+TR33755|c0_g1_i1	gi|507087881|ref|WP_016158618.1|	100.00	19	0	0	2	58	102	120	dihydropyrimidine dehydrogenase, NADH-dependent, subunit A [Escherichia coli]	562	Escherichia coli	9e-06
+TR33759|c0_g1_i1	gi|30685060|ref|NP_849678.1|	100.00	19	0	0	2	58	7	25	ubiquitin-conjugating enzyme E2 36 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-05
+TR3386|c0_g1_i1	gi|565398319|ref|XP_006364722.1|	94.74	19	1	0	3	59	459	477	PREDICTED: NADP-dependent malic enzyme-like [Solanum tuberosum]	4113	Solanum tuberosum	3e-06
+TR33920|c0_g1_i1	gi|224365636|ref|YP_002608363.1|	100.00	20	0	0	60	1	200	219	PSII 32 kDa protein [Vitis vinifera]	29760	Vitis vinifera	2e-04
+TR33932|c0_g1_i1	gi|291617665|ref|YP_003520407.1|	94.74	19	1	0	58	2	117	135	hypothetical protein PANA_2112 [Pantoea ananatis LMG 20103]	553;706191	Pantoea ananatis;Pantoea ananatis LMG 20103	2e-05
+TR33944|c0_g1_i1	gi|15229126|ref|NP_189850.1|	100.00	19	0	0	2	58	862	880	H(+)-ATPase 8 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-05
+TR34103|c0_g1_i1	gi|495129205|ref|WP_007854016.1|	100.00	20	0	0	60	1	108	127	Malate dehydrogenase [Cronobacter sakazakii]	28141	Cronobacter sakazakii	3e-06
+TR34171|c0_g1_i1	gi|518803468|ref|WP_019959422.1|	89.47	19	2	0	2	58	320	338	hypothetical protein [Vitreoscilla stercoraria]	61	Vitreoscilla stercoraria	0.001
+TR34256|c0_g1_i1	gi|502129239|ref|XP_004500235.1|	100.00	20	0	0	60	1	749	768	PREDICTED: phosphomethylpyrimidine synthase, chloroplastic-like [Cicer arietinum]	3827	Cicer arietinum	4e-06
+TR34256|c0_g2_i1	gi|502129239|ref|XP_004500235.1|	100.00	20	0	0	60	1	749	768	PREDICTED: phosphomethylpyrimidine synthase, chloroplastic-like [Cicer arietinum]	3827	Cicer arietinum	4e-06
+TR34377|c0_g1_i1	gi|357472191|ref|XP_003606380.1|	84.21	19	3	0	58	2	12	30	hypothetical protein MTR_4g059360 [Medicago truncatula]	3880	Medicago truncatula	6e-04
+TR34431|c0_g1_i1	gi|502092625|ref|XP_004489730.1|	90.00	20	2	0	1	60	77	96	PREDICTED: uncharacterized protein LOC101489881 [Cicer arietinum]	3827	Cicer arietinum	4e-05
+TR34465|c0_g1_i1	gi|255572702|ref|XP_002527284.1|	89.47	19	2	0	59	3	147	165	Photosystem I reaction center subunit XI, chloroplast precursor, putative [Ricinus communis]	3988	Ricinus communis	2e-04
+TR34482|c0_g1_i1	gi|152977431|ref|YP_001376948.1|	94.74	19	1	0	2	58	292	310	thiamine biosynthesis protein ThiC [Bacillus cytotoxicus NVH 391-98]	315749;580165	Bacillus cytotoxicus NVH 391-98;Bacillus cytotoxicus	1e-04
+TR34695|c0_g1_i1	gi|487467377|ref|WP_001694577.1|	100.00	19	0	0	2	58	154	172	phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I family protein, partial [Escherichia coli]	562	Escherichia coli	3e-06
+TR35094|c0_g1_i1	gi|485781052|ref|WP_001403991.1|	95.00	20	1	0	1	60	45	64	IS1 transposase InsAB, partial [Escherichia coli]	562	Escherichia coli	5e-06
+TR3514|c0_g1_i1	gi|357458595|ref|XP_003599578.1|	94.74	19	1	0	3	59	502	520	NAD(P)H-quinone oxidoreductase subunit 2 A [Medicago truncatula]	3880	Medicago truncatula	0.001
+TR3517|c0_g1_i1	gi|485837786|ref|WP_001447880.1|	94.74	19	1	0	3	59	165	183	ribonucleoside-diphosphate reductase [Escherichia coli]	562	Escherichia coli	3e-04
+TR35519|c0_g1_i1	gi|565354276|ref|XP_006344042.1|	100.00	20	0	0	1	60	476	495	PREDICTED: phosphomethylpyrimidine synthase, chloroplastic-like isoform X1 [Solanum tuberosum]	4113	Solanum tuberosum	2e-06
+TR35596|c0_g1_i1	gi|559178081|ref|WP_023564659.1|	100.00	20	0	0	1	60	3	22	glucan biosynthesis protein D, partial [Escherichia coli]	562	Escherichia coli	3e-05
+TR35711|c0_g1_i1	gi|224086345|ref|XP_002307856.1|	100.00	19	0	0	59	3	126	144	autoinhibited H+ ATPase [Populus trichocarpa]	3694	Populus trichocarpa	2e-04
+TR35733|c0_g1_i1	gi|225457136|ref|XP_002280359.1|	89.47	19	2	0	2	58	102	120	PREDICTED: peroxidase 65 [Vitis vinifera]	29760	Vitis vinifera	3e-04
+TR35775|c0_g1_i1	gi|170784735|ref|YP_001718651.1|	100.00	19	0	0	2	58	16	34	ribosomal protein L14 [Trachelium caeruleum]	28494	Trachelium caeruleum	1e-05
+TR35882|c0_g1_i1	gi|301101894|ref|XP_002900035.1|	100.00	19	0	0	59	3	385	403	asparagine synthetase [Phytophthora infestans T30-4]	403677	Phytophthora infestans T30-4	1e-05
+TR35886|c0_g1_i1	gi|487679010|ref|WP_001763894.1|	100.00	20	0	0	1	60	65	84	calcium-transporting ATPase [Salmonella enterica]	28901	Salmonella enterica	8e-06
+TR3589|c0_g1_i1	gi|489920457|ref|WP_003823812.1|	100.00	20	0	0	1	60	22	41	50S ribosomal protein L5 [Eikenella corrodens]	539	Eikenella corrodens	1e-05
+TR35994|c0_g1_i1	gi|485720883|ref|WP_001352189.1|	100.00	20	0	0	1	60	6	25	lytic transglycosylase [Escherichia coli]	562	Escherichia coli	6e-05
+TR36038|c0_g1_i1	gi|357445719|ref|XP_003593137.1|	94.74	19	1	0	3	59	547	565	hypothetical protein MTR_2g008170 [Medicago truncatula]	3880	Medicago truncatula	5e-04
+TR36042|c0_g1_i1	gi|224091825|ref|XP_002309361.1|	100.00	19	0	0	2	58	5	23	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-04
+TR36083|c0_g1_i1	gi|544767310|ref|WP_021192631.1|	95.00	20	1	0	60	1	355	374	membrane protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	4e-05
+TR36235|c0_g1_i1	gi|226506070|ref|NP_001150729.1|	95.00	20	1	0	1	60	113	132	aspartic proteinase oryzasin-1 precursor [Zea mays]	4577	Zea mays	3e-06
+TR36238|c0_g1_i1	gi|560159786|ref|YP_008852501.1|	100.00	19	0	0	59	3	94	112	Ribonuclease BN [Shigella dysenteriae 1617]	622;754093	Shigella dysenteriae;Shigella dysenteriae 1617	2e-05
+TR36302|c0_g1_i1	gi|224100047|ref|XP_002311724.1|	95.00	20	1	0	1	60	352	371	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-05
+TR3641|c0_g1_i1	gi|550651020|ref|WP_022634027.1|	89.47	19	2	0	59	3	127	145	putative protein YceD [Dickeya]	204037	Dickeya	0.001
+TR3649|c0_g1_i1	gi|446216834|ref|WP_000294689.1|	100.00	20	0	0	60	1	48	67	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	9e-06
+TR36663|c0_g1_i1	gi|356560661|ref|XP_003548608.1|	100.00	19	0	0	59	3	160	178	PREDICTED: heat shock cognate protein 80-like [Glycine max]	3847	Glycine max	5e-04
+TR36663|c0_g2_i1	gi|356560661|ref|XP_003548608.1|	100.00	19	0	0	59	3	160	178	PREDICTED: heat shock cognate protein 80-like [Glycine max]	3847	Glycine max	5e-04
+TR36811|c0_g1_i1	gi|470103985|ref|XP_004288405.1|	94.74	19	1	0	2	58	108	126	PREDICTED: putative syntaxin-131-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	2e-04
+TR36922|c0_g1_i1	gi|356519037|ref|XP_003528181.1|	90.00	20	2	0	60	1	237	256	PREDICTED: LOW QUALITY PROTEIN: probable pectate lyase P59-like [Glycine max]	3847	Glycine max	5e-08
+TR37074|c0_g1_i1	gi|168034162|ref|XP_001769582.1|	100.00	19	0	0	3	59	65	83	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	1e-05
+TR37082|c0_g1_i1	gi|225443304|ref|XP_002274542.1|	85.00	20	3	0	1	60	335	354	PREDICTED: sugar transport protein 8-like [Vitis vinifera]	29760	Vitis vinifera	3e-04
+TR37145|c0_g1_i1	gi|487680630|ref|WP_001765489.1|	100.00	20	0	0	60	1	11	30	glucose-6-phosphate isomerase, partial [Salmonella enterica]	28901	Salmonella enterica	4e-06
+TR37171|c0_g1_i1	gi|224166334|ref|XP_002338918.1|	94.74	19	1	0	59	3	49	67	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	3e-06
+TR37187|c0_g1_i1	gi|15232973|ref|NP_191649.1|	95.00	20	1	0	60	1	132	151	fasciclin-like arabinogalactan protein 10 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	0.001
+TR37230|c0_g1_i1	gi|556197175|ref|WP_023280647.1|	100.00	19	0	0	3	59	277	295	xylose isomerase [Klebsiella pneumoniae]	573	Klebsiella pneumoniae	7e-05
+TR37249|c0_g1_i1	gi|446649392|ref|WP_000726738.1|	100.00	19	0	0	58	2	76	94	AraC family transcriptional regulator [Escherichia coli]	562	Escherichia coli	4e-05
+TR37262|c0_g1_i1	gi|15231043|ref|NP_190750.1|	94.74	19	1	0	2	58	291	309	chlorophyll synthase [Arabidopsis thaliana]	3702	Arabidopsis thaliana	7e-04
+TR37543|c0_g1_i1	gi|121582541|ref|YP_974073.1|	100.00	19	0	0	2	58	252	270	hypothetical protein Ajs_4238 [Acidovorax sp. JS42]	232721	Acidovorax sp. JS42	6e-06
+TR3754|c0_g1_i1	gi|357499077|ref|XP_003619827.1|	89.47	19	2	0	58	2	18	36	Multiple C2 and transmembrane domain-containing protein [Medicago truncatula]	3880	Medicago truncatula	5e-04
+TR37621|c0_g1_i1	gi|449434877|ref|XP_004135222.1|	94.74	19	1	0	59	3	502	520	PREDICTED: uncharacterized protein LOC101209749 [Cucumis sativus]	3659	Cucumis sativus	4e-05
+TR37661|c0_g1_i1	gi|449533435|ref|XP_004173681.1|	75.00	20	5	0	60	1	93	112	PREDICTED: expansin-A4-like, partial [Cucumis sativus]	3659	Cucumis sativus	2e-04
+TR37809|c0_g1_i4	gi|565346164|ref|XP_006340136.1|	100.00	19	0	0	59	3	218	236	PREDICTED: elongation factor 1-alpha [Solanum tuberosum]	4113	Solanum tuberosum	7e-05
+TR37882|c0_g1_i1	gi|545248729|ref|WP_021547069.1|	100.00	19	0	0	59	3	63	81	inner membrane transporter RhmT [Escherichia coli]	562	Escherichia coli	8e-05
+TR37931|c0_g1_i1	gi|544768375|ref|WP_021193691.1|	100.00	19	0	0	58	2	185	203	IMP dehydrogenase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	5e-04
+TR37941|c0_g1_i1	gi|460409176|ref|XP_004250015.1|	89.47	19	2	0	2	58	575	593	PREDICTED: uncharacterized protein LOC101257919 [Solanum lycopersicum]	4081	Solanum lycopersicum	6e-04
+TR37961|c0_g1_i1	gi|502077310|ref|XP_004485615.1|	100.00	20	0	0	1	60	70	89	PREDICTED: 40S ribosomal protein S5-like [Cicer arietinum]	3827	Cicer arietinum	8e-08
+TR37976|c0_g1_i1	gi|544767178|ref|WP_021192501.1|	100.00	19	0	0	58	2	1	19	flagellar basal body rod protein FlgG [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	0.001
+TR38026|c0_g1_i1	gi|553955648|ref|WP_023152145.1|	100.00	19	0	0	58	2	57	75	hypothetical protein [Escherichia coli]	562	Escherichia coli	1e-05
+TR38131|c0_g1_i1	gi|224058663|ref|XP_002299591.1|	75.00	20	5	0	1	60	94	113	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	7e-04
+TR38240|c0_g1_i1	gi|168012222|ref|XP_001758801.1|	100.00	19	0	0	3	59	35	53	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	4e-05
+TR38278|c0_g1_i1	gi|502139544|ref|XP_004503809.1|	89.47	19	2	0	2	58	41	59	PREDICTED: calnexin homolog isoform X1 [Cicer arietinum]	3827	Cicer arietinum	5e-04
+TR38410|c0_g1_i1	gi|544767557|ref|WP_021192878.1|	100.00	19	0	0	58	2	157	175	alpha/beta hydrolase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-05
+TR38421|c0_g1_i1	gi|226533192|ref|NP_001151778.1|	100.00	20	0	0	1	60	83	102	ubiquitin-conjugating enzyme E2-17 kDa [Zea mays]	4577	Zea mays	6e-06
+TR38648|c0_g1_i1	gi|488930424|ref|WP_002841499.1|	100.00	19	0	0	2	58	113	131	hypothetical protein [Finegoldia magna]	1260	Finegoldia magna	2e-05
+TR38734|c0_g1_i1	gi|517545136|ref|WP_018715344.1|	90.00	20	2	0	60	1	73	92	hypothetical protein [Brachymonas chironomi]	491919	Brachymonas chironomi	7e-04
+TR38947|c0_g1_i1	gi|553944840|ref|WP_023149708.1|	100.00	19	0	0	59	3	6	24	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	4e-05
+TR3899|c0_g1_i1	gi|443267274|ref|YP_007374846.1|	100.00	20	0	0	60	1	259	278	NAD(P)H-quinone oxidoreductase chain 4 (chloroplast) [Ophioglossum californicum]	1267209	Ophioglossum californicum	1e-05
+TR39069|c0_g1_i1	gi|330827377|ref|YP_004390615.1|	100.00	20	0	0	60	1	107	126	metal dependent phosphohydrolase [Alicycliphilus denitrificans K601]	179636;596154	Alicycliphilus denitrificans;Alicycliphilus denitrificans K601	3e-04
+TR39085|c0_g1_i1	gi|224101693|ref|XP_002312385.1|	94.74	19	1	0	59	3	148	166	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	0.001
+TR39103|c0_g1_i1	gi|544769292|ref|WP_021194598.1|	100.00	20	0	0	1	60	52	71	RND transporter MFP subunit [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-04
+TR3948|c0_g1_i1	gi|293335637|ref|NP_001169899.1|	94.74	19	1	0	2	58	3	21	uncharacterized protein LOC100383793 [Zea mays]	4577	Zea mays	2e-04
+TR39500|c0_g1_i1	gi|20451023|ref|NP_620565.1|	100.00	19	0	0	2	58	567	585	structural polyprotein [Black queen cell virus]	92395	Black queen cell virus	6e-05
+TR39572|c0_g1_i1	gi|357451229|ref|XP_003595891.1|	90.00	20	2	0	60	1	412	431	Serine carboxypeptidase-like protein [Medicago truncatula]	3880	Medicago truncatula	1e-05
+TR39639|c0_g1_i1	gi|550712739|ref|WP_022645648.1|	100.00	19	0	0	58	2	262	280	CDP-diglyceride synthase [Escherichia coli]	562	Escherichia coli	9e-06
+TR39701|c0_g1_i1	gi|485869439|ref|WP_001466664.1|	88.89	18	2	0	55	2	90	107	cvaB, IS186 transposase domain protein [Escherichia coli]	562	Escherichia coli	4e-04
+TR39755|c0_g1_i1	gi|225449919|ref|XP_002268366.1|	89.47	19	2	0	60	4	331	349	PREDICTED: uncharacterized protein LOC100261913 [Vitis vinifera]	29760	Vitis vinifera	0.001
+TR39827|c0_g1_i1	gi|487413369|ref|WP_001680964.1|	100.00	18	0	0	56	3	1	18	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	6e-04
+TR39969|c0_g1_i1	gi|544768053|ref|WP_021193370.1|	100.00	20	0	0	1	60	246	265	multidrug transporter MatE [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-05
+TR40103|c0_g1_i1	gi|357148841|ref|XP_003574911.1|	95.00	20	1	0	60	1	240	259	PREDICTED: uncharacterized protein LOC100846020 [Brachypodium distachyon]	15368	Brachypodium distachyon	5e-07
+TR40421|c0_g1_i1	gi|565365770|ref|XP_006349573.1|	95.00	20	1	0	1	60	507	526	PREDICTED: cystathionine gamma-synthase, chloroplastic [Solanum tuberosum]	4113	Solanum tuberosum	2e-05
+TR40427|c0_g1_i1	gi|496576632|ref|WP_009277750.1|	100.00	19	0	0	58	2	17	35	hypothetical protein [Ralstonia sp. 5_7_47FAA]	658664	Ralstonia sp. 5_7_47FAA	7e-06
+TR40436|c0_g1_i1	gi|224083276|ref|XP_002306976.1|	100.00	20	0	0	60	1	230	249	catalase [Populus trichocarpa]	3694	Populus trichocarpa	2e-06
+TR40485|c0_g1_i1	gi|440229807|ref|YP_007343600.1|	94.74	19	1	0	59	3	120	138	peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family [Serratia marcescens FGI94]	615;1249634	Serratia marcescens;Serratia marcescens FGI94	4e-05
+TR40494|c0_g1_i1	gi|485716124|ref|WP_001348018.1|	100.00	19	0	0	59	3	38	56	alpha,alpha-phosphotrehalase [Escherichia coli]	562	Escherichia coli	1e-06
+TR4059|c0_g1_i1	gi|225463428|ref|XP_002274942.1|	100.00	19	0	0	2	58	199	217	PREDICTED: chlorophyll a-b binding protein 40, chloroplastic isoform 1 [Vitis vinifera]	29760	Vitis vinifera	5e-05
+TR40602|c0_g1_i2	gi|489924441|ref|WP_003827784.1|	95.00	20	1	0	60	1	3	22	peptide YY [Bifidobacterium breve]	1685	Bifidobacterium breve	3e-05
+TR40602|c0_g2_i3	gi|487822793|ref|WP_001896259.1|	94.74	19	1	0	60	4	7	25	hypothetical protein [Vibrio cholerae]	666	Vibrio cholerae	2e-04
+TR40833|c0_g1_i1	gi|491980666|ref|WP_005704144.1|	100.00	19	0	0	58	2	271	289	translation initiation factor IF-2 [Aggregatibacter aphrophilus]	732	Aggregatibacter aphrophilus	4e-04
+TR4085|c0_g1_i1	gi|50553893|ref|YP_054443.1|	85.00	20	3	0	60	1	512	531	RNA-dependent RNA polymerase [Arabis mosaic virus]	12271	Arabis mosaic virus	1e-05
+TR4085|c0_g2_i1	gi|50553893|ref|YP_054443.1|	94.74	19	1	0	59	3	457	475	RNA-dependent RNA polymerase [Arabis mosaic virus]	12271	Arabis mosaic virus	2e-04
+TR40877|c0_g1_i1	gi|485900096|ref|WP_001488609.1|	100.00	19	0	0	59	3	20	38	PIN domain protein, partial [Escherichia coli]	562	Escherichia coli	2e-05
+TR40903|c0_g1_i1	gi|470235804|ref|YP_007626991.1|	100.00	19	0	0	59	3	88	106	cytochrome b (mitochondrion) [Mesocentrotus nudus]	7666	Mesocentrotus nudus	2e-05
+TR4091|c0_g1_i1	gi|449435888|ref|XP_004135726.1|	75.00	20	5	0	60	1	277	296	PREDICTED: uncharacterized protein LOC101214300 [Cucumis sativus]	3659	Cucumis sativus	5e-04
+TR4091|c0_g2_i1	gi|449435888|ref|XP_004135726.1|	75.00	20	5	0	60	1	277	296	PREDICTED: uncharacterized protein LOC101214300 [Cucumis sativus]	3659	Cucumis sativus	5e-04
+TR40948|c0_g1_i1	gi|565344651|ref|XP_006339421.1|	100.00	19	0	0	58	2	149	167	PREDICTED: glutamine synthetase, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	1e-05
+TR40972|c1_g1_i1	gi|225848718|ref|YP_002728882.1|	100.00	20	0	0	1	60	88	107	hypothetical protein SULAZ_0908 [Sulfurihydrogenibium azorense Az-Fu1]	204536;309806	Sulfurihydrogenibium azorense Az-Fu1;Sulfurihydrogenibium azorense	2e-06
+TR41174|c0_g1_i1	gi|515081062|ref|WP_016710793.1|	94.74	19	1	0	3	59	28	46	NAD(P) transhydrogenase subunit beta [Salmonella enterica]	28901	Salmonella enterica	0.001
+TR41364|c0_g1_i1	gi|15804569|ref|NP_290610.1|	100.00	19	0	0	59	3	13	31	hypothetical protein Z5547 [Escherichia coli O157:H7 str. EDL933]	543;155864;300267;300268;300269;364106;386585;701177;741093	Enterobacteriaceae;Escherichia coli O157:H7 str. EDL933;Shigella dysenteriae Sd197;Shigella boydii Sb227;Shigella sonnei Ss046;Escherichia coli UTI89;Escherichia coli O157:H7 str. Sakai;Escherichia coli O55:H7 str. CB9615;Escherichia coli Xuzhou21	7e-06
+TR41400|c0_g1_i1	gi|449440055|ref|XP_004137800.1|	100.00	19	0	0	59	3	39	57	PREDICTED: 60S ribosomal protein L4-like [Cucumis sativus]	3659	Cucumis sativus	2e-04
+TR41462|c0_g1_i1	gi|449479121|ref|XP_004155511.1|	90.00	20	2	0	1	60	236	255	PREDICTED: LOW QUALITY PROTEIN: putative clathrin assembly protein At1g03050-like [Cucumis sativus]	3659	Cucumis sativus	5e-05
+TR41474|c0_g1_i1	gi|488824238|ref|WP_002736644.1|	94.74	19	1	0	2	58	32	50	S-adenosyl-L-homocysteine hydrolase-like protein [Leptospira borgpetersenii]	174	Leptospira borgpetersenii	4e-06
+TR41522|c0_g1_i1	gi|300692527|ref|YP_003753522.1|	100.00	19	0	0	2	58	116	134	aspartate tRNA synthetase [Ralstonia solanacearum PSI07]	305;859657	Ralstonia solanacearum;Ralstonia solanacearum PSI07	7e-05
+TR41594|c0_g1_i1	gi|493582190|ref|WP_006535235.1|	95.00	20	1	0	60	1	36	55	hypothetical protein [Proteus penneri]	102862	Proteus penneri	5e-06
+TR41601|c0_g1_i1	gi|485763429|ref|WP_001388469.1|	100.00	19	0	0	3	59	27	45	UDP-N-acetyl-D-mannosaminuronic acid transferase [Escherichia coli]	562	Escherichia coli	7e-06
+TR41602|c0_g1_i1	gi|297817368|ref|XP_002876567.1|	89.47	19	2	0	58	2	175	193	expansin-b5 precursor [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	7e-05
+TR41633|c0_g1_i1	gi|488947459|ref|WP_002858534.1|	100.00	19	0	0	59	3	9	27	hypothetical protein, partial [Staphylococcus aureus]	1280	Staphylococcus aureus	5e-05
+TR41649|c0_g1_i1	gi|470107325|ref|XP_004289998.1|	85.00	20	3	0	1	60	1101	1120	PREDICTED: pleiotropic drug resistance protein 1-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	2e-04
+TR41659|c0_g1_i1	gi|225459318|ref|XP_002285795.1|	95.00	20	1	0	1	60	158	177	PREDICTED: annexin D1 [Vitis vinifera]	29760	Vitis vinifera	0.001
+TR41702|c0_g1_i1	gi|357452871|ref|XP_003596712.1|	100.00	19	0	0	2	58	240	258	Shaggy-related protein kinase [Medicago truncatula]	3880	Medicago truncatula	1e-05
+TR41702|c0_g2_i1	gi|565499966|ref|XP_006307622.1|	94.44	18	1	0	2	55	216	233	hypothetical protein CARUB_v10009250mg [Capsella rubella]	81985	Capsella rubella	3e-05
+TR41705|c0_g1_i1	gi|225447745|ref|XP_002263201.1|	100.00	20	0	0	1	60	182	201	PREDICTED: chlorophyll a-b binding protein CP24 10A, chloroplastic [Vitis vinifera]	29760	Vitis vinifera	5e-06
+TR41705|c0_g2_i1	gi|225447745|ref|XP_002263201.1|	100.00	20	0	0	1	60	182	201	PREDICTED: chlorophyll a-b binding protein CP24 10A, chloroplastic [Vitis vinifera]	29760	Vitis vinifera	5e-06
+TR4174|c0_g1_i1	gi|496408446|ref|WP_009117310.1|	89.47	19	2	0	2	58	46	64	GTP-binding protein [Neisseria wadsworthii]	607711	Neisseria wadsworthii	4e-04
+TR41781|c0_g1_i1	gi|170081243|ref|YP_001730563.1|	100.00	20	0	0	60	1	281	300	Qin prophage; protein [Escherichia coli str. K-12 substr. DH10B]	562;316385;316407;536056	Escherichia coli;Escherichia coli str. K-12 substr. DH10B;Escherichia coli str. K-12 substr. W3110;Escherichia coli DH1	7e-08
+TR41782|c0_g1_i1	gi|440225060|ref|YP_007332151.1|	80.00	20	4	0	1	60	28	47	cytochrome o ubiquinol oxidase subunit IV [Rhizobium tropici CIAT 899]	398;698761	Rhizobium tropici;Rhizobium tropici CIAT 899	0.001
+TR4197|c0_g1_i1	gi|565497752|ref|XP_006306515.1|	100.00	19	0	0	1	57	393	411	hypothetical protein CARUB_v10012514mg [Capsella rubella]	81985	Capsella rubella	6e-06
+TR42048|c0_g1_i1	gi|544769707|ref|WP_021195007.1|	100.00	19	0	0	58	2	175	193	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	5e-04
+TR42097|c0_g1_i1	gi|514742904|ref|XP_004960256.1|	100.00	19	0	0	3	59	9	27	PREDICTED: 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase-like isoform X1 [Setaria italica]	4555	Setaria italica	9e-06
+TR42100|c0_g1_i1	gi|224145792|ref|XP_002336262.1|	100.00	19	0	0	58	2	73	91	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	7e-07
+TR4217|c0_g1_i1	gi|565351781|ref|XP_006342830.1|	68.42	19	6	0	59	3	362	380	PREDICTED: putative pectinesterase/pectinesterase inhibitor 28-like [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR42240|c0_g1_i1	gi|146311799|ref|YP_001176873.1|	100.00	19	0	0	59	3	213	231	PAS/PAC sensor-containing diguanylate cyclase [Enterobacter sp. 638]	399742	Enterobacter sp. 638	9e-06
+TR42241|c0_g1_i1	gi|187928724|ref|YP_001899211.1|	100.00	19	0	0	3	59	146	164	iron permease FTR1 [Ralstonia pickettii 12J]	48736;402626;428406	Ralstonia;Ralstonia pickettii 12J;Ralstonia pickettii 12D	5e-05
+TR42405|c0_g1_i1	gi|544772280|ref|WP_021197552.1|	100.00	19	0	0	2	58	223	241	penicillin-binding protein 1A [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-05
+TR42543|c0_g1_i1	gi|224115524|ref|XP_002317055.1|	95.00	20	1	0	1	60	26	45	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	7e-05
+TR42602|c0_g1_i1	gi|550936236|ref|WP_022684641.1|	100.00	20	0	0	60	1	218	237	cell filamentation protein Fic [Sphingobium sp. YL23]	1335760	Sphingobium sp. YL23	3e-05
+TR42605|c0_g1_i1	gi|115449035|ref|NP_001048297.1|	94.74	19	1	0	3	59	227	245	Os02g0778600 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	1e-06
+TR42643|c0_g1_i1	gi|449464568|ref|XP_004150001.1|	83.33	18	3	0	59	6	115	132	PREDICTED: uncharacterized protein LOC101208423 [Cucumis sativus]	3659	Cucumis sativus	0.001
+TR42671|c0_g1_i1	gi|559165345|ref|WP_023563868.1|	100.00	19	0	0	3	59	34	52	galactose-binding transport protein [Escherichia coli]	562	Escherichia coli	9e-06
+TR4272|c0_g1_i1	gi|357435997|ref|XP_003588274.1|	94.74	19	1	0	2	58	212	230	Cytochrome c oxidase subunit [Medicago truncatula]	3880	Medicago truncatula	2e-04
+TR42772|c0_g1_i2	gi|224109146|ref|XP_002333303.1|	78.95	19	4	0	58	2	293	311	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	0.001
+TR42904|c1_g1_i1	gi|565351781|ref|XP_006342830.1|	94.44	18	1	0	54	1	417	434	PREDICTED: putative pectinesterase/pectinesterase inhibitor 28-like [Solanum tuberosum]	4113	Solanum tuberosum	1e-04
+TR43048|c0_g1_i1	gi|446490331|ref|WP_000568185.1|	100.00	19	0	0	3	59	97	115	multidrug transporter [Shigella]	620	Shigella	1e-05
+TR43068|c0_g1_i1	gi|224123842|ref|XP_002330222.1|	94.74	19	1	0	3	59	485	503	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-04
+TR43359|c0_g1_i1	gi|240256160|ref|NP_195174.6|	100.00	19	0	0	59	3	89	107	glucan endo-1,3-beta-glucosidase 7 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-05
+TR4342|c0_g1_i1	gi|225466233|ref|XP_002267604.1|	94.74	19	1	0	2	58	11	29	PREDICTED: tubulin beta-2 chain-like [Vitis vinifera]	29760	Vitis vinifera	7e-05
+TR43554|c0_g1_i1	gi|15222166|ref|NP_172153.1|	100.00	18	0	0	55	2	202	219	photosystem II subunit P-1 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-04
+TR43554|c0_g2_i1	gi|15222166|ref|NP_172153.1|	100.00	18	0	0	55	2	202	219	photosystem II subunit P-1 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-04
+TR43570|c0_g1_i1	gi|491472604|ref|WP_005330358.1|	100.00	19	0	0	59	3	68	86	hypothetical protein [Acinetobacter sp. CIP 102143]	1144666	Acinetobacter sp. CIP 102143	8e-05
+TR43594|c0_g1_i1	gi|487567275|ref|WP_001718621.1|	100.00	19	0	0	58	2	110	128	coA-transferase III family protein [Escherichia coli]	562	Escherichia coli	2e-05
+TR43659|c0_g1_i1	gi|224136808|ref|XP_002326950.1|	89.47	19	2	0	59	3	422	440	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-04
+TR43659|c0_g2_i1	gi|224136808|ref|XP_002326950.1|	89.47	19	2	0	59	3	422	440	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-04
+TR43835|c0_g1_i1	gi|489339440|ref|WP_003246632.1|	100.00	20	0	0	1	60	659	678	putative serine protease [Pseudomonas mendocina]	300	Pseudomonas mendocina	1e-06
+TR43836|c0_g1_i1	gi|161367507|ref|NP_289946.2|	100.00	20	0	0	60	1	7	26	transcription elongation factor GreB [Escherichia coli O157:H7 str. EDL933]	543;155864;199310;216592;300267;300268;331111;362663;386585;405955;431946;439855;444450;544404;566546;573235;574521;585035;585054;585055;585056;585057;585395;585396;585397;591946;595495;655817;685038;701177;714962;741093;869729;885275;885276;1033813;1048689;1072459;1133852;1133853;1134782;1274814;1335916;1355100;1382700	Enterobacteriaceae;Escherichia coli O157:H7 str. EDL933;Escherichia coli CFT073;Escherichia coli 042;Shigella dysenteriae Sd197;Shigella boydii Sb227;Escherichia coli E24377A;Escherichia coli 536;Escherichia coli O157:H7 str. Sakai;Escherichia coli APEC O1;Escherichia coli SE15;Escherichia coli SMS-3-5;Escherichia coli O157:H7 str. EC4115;Escherichia coli O157:H7 str. TW14359;Escherichia coli W;Escherichia coli O26:H11 str. 11368;Escherichia coli O127:H6 str. E2348/69;Escherichia coli S88;Escherichia fergusonii ATCC 35469;Escherichia coli 55989;Escherichia coli UMN026;Escherichia coli IAI39;Escherichia coli O103:H2 str. 12009;Escherichia coli O111:H- str. 11128;Escherichia coli ED1a;Escherichia coli LF82;Escherichia coli KO11FL;Escherichia coli ABU 83972;Escherichia coli O83:H1 str. NRG 857C;Escherichia coli O55:H7 str. CB9615;Escherichia coli IHE3034;Escherichia coli Xuzhou21;Escherichia coli UM146;Escherichia coli str. 'clone D i14';Escherichia coli str. 'clone D i2';Escherichia coli NA114;Escherichia coli O55:H7 str. RM12579;Escherichia coli O7:K1 str. CE10;Escherichia coli O104:H4 str. 2011C-3493;Escherichia coli O104:H4 str. 2009EL-2071;Escherichia coli O104:H4 str. 2009EL-2050;Escherichia coli APEC O78;Escherichia coli LY180;Escherichia coli JJ1886;Escherichia coli PMV-1	2e-05
+TR43867|c0_g1_i1	gi|565356647|ref|XP_006345175.1|	85.00	20	3	0	1	60	334	353	PREDICTED: LON peptidase N-terminal domain and RING finger protein 1-like [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR43920|c0_g1_i1	gi|494651403|ref|WP_007409347.1|	100.00	20	0	0	1	60	1	20	plasmid-partitioning protein, partial [Bacillus sp. 916]	1007654	Bacillus sp. 916	2e-05
+TR43984|c0_g1_i1	gi|237834781|ref|XP_002366688.1|	100.00	19	0	0	3	59	265	283	S-adenosylmethionine synthetase, putative [Toxoplasma gondii ME49]	508771	Toxoplasma gondii ME49	3e-06
+TR44090|c0_g1_i1	gi|115439013|ref|NP_001043786.1|	90.00	20	2	0	1	60	191	210	Os01g0663400 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	4e-05
+TR44164|c0_g1_i1	gi|356520019|ref|XP_003528664.1|	100.00	19	0	0	2	58	259	277	PREDICTED: probable galacturonosyltransferase-like 4-like [Glycine max]	3847	Glycine max	7e-05
+TR44186|c0_g1_i1	gi|470140128|ref|XP_004305796.1|	78.95	19	4	0	2	58	680	698	PREDICTED: U-box domain-containing protein 35-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	9e-04
+TR44195|c0_g1_i1	gi|297821677|ref|XP_002878721.1|	85.00	20	3	0	60	1	60	79	ribosomal protein L35 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	0.001
+TR44238|c0_g1_i1	gi|359492060|ref|XP_003634360.1|	100.00	19	0	0	59	3	343	361	PREDICTED: uncharacterized RNA-binding protein C23E6.01c-like isoform 2 [Vitis vinifera]	29760	Vitis vinifera	3e-05
+TR44252|c0_g1_i1	gi|297821180|ref|XP_002878473.1|	85.00	20	3	0	60	1	616	635	glycosyl hydrolase family 3 protein [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	4e-04
+TR44279|c0_g1_i1	gi|226492818|ref|NP_001140578.1|	100.00	19	0	0	2	58	143	161	uncharacterized protein LOC100272648 [Zea mays]	4577	Zea mays	3e-05
+TR44299|c1_g1_i1	gi|15229126|ref|NP_189850.1|	95.00	20	1	0	1	60	542	561	H(+)-ATPase 8 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-04
+TR442|c0_g1_i1	gi|390368356|ref|XP_001183448.2|	95.00	20	1	0	1	60	222	241	PREDICTED: V-type proton ATPase subunit B-like, partial [Strongylocentrotus purpuratus]	7668	Strongylocentrotus purpuratus	5e-05
+TR442|c0_g2_i1	gi|390368356|ref|XP_001183448.2|	95.00	20	1	0	1	60	222	241	PREDICTED: V-type proton ATPase subunit B-like, partial [Strongylocentrotus purpuratus]	7668	Strongylocentrotus purpuratus	5e-05
+TR44321|c0_g1_i1	gi|516374381|ref|WP_017764414.1|	75.00	20	5	0	60	1	361	380	ornithine carbamoyltransferase [Aeromonas hydrophila]	644	Aeromonas hydrophila	0.001
+TR44408|c0_g1_i1	gi|551019159|ref|WP_022763363.1|	94.44	18	1	0	59	6	195	212	UDP-galactose-4-epimerase [Butyrivibrio sp. AD3002]	1280670	Butyrivibrio sp. AD3002	0.001
+TR44703|c0_g1_i1	gi|446274279|ref|WP_000352134.1|	100.00	20	0	0	60	1	248	267	bifunctional (p)ppGpp synthetase II/ guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase, partial [Escherichia albertii]	208962	Escherichia albertii	2e-05
+TR44733|c0_g1_i1	gi|502078720|ref|XP_004486034.1|	100.00	19	0	0	2	58	62	80	PREDICTED: 40S ribosomal protein S14-like isoform X1 [Cicer arietinum]	3827	Cicer arietinum	2e-05
+TR44895|c0_g1_i1	gi|356503628|ref|XP_003520609.1|	100.00	19	0	0	3	59	181	199	PREDICTED: chlorophyll a-b binding protein CP29.2, chloroplastic-like [Glycine max]	3847	Glycine max	4e-05
+TR44895|c0_g2_i1	gi|356503628|ref|XP_003520609.1|	100.00	19	0	0	3	59	181	199	PREDICTED: chlorophyll a-b binding protein CP29.2, chloroplastic-like [Glycine max]	3847	Glycine max	4e-05
+TR44930|c0_g1_i1	gi|518940711|ref|WP_020096586.1|	100.00	19	0	0	59	3	120	138	hypothetical protein [Methylobacterium sp. 285MFTsu5.1]	1172187	Methylobacterium sp. 285MFTsu5.1	2e-05
+TR44946|c0_g1_i1	gi|488187742|ref|WP_002258950.1|	84.21	19	3	0	2	58	460	478	DNA-directed RNA polymerase, beta subunit [Neisseria meningitidis]	487	Neisseria meningitidis	0.001
+TR44964|c0_g1_i1	gi|496276421|ref|WP_008988459.1|	89.47	19	2	0	58	2	317	335	RNA helicase [Photobacterium leiognathi]	553611	Photobacterium leiognathi	2e-04
+TR44998|c0_g1_i1	gi|330827343|ref|YP_004390581.1|	100.00	20	0	0	1	60	11	30	hypothetical protein Alide2_4767 [Alicycliphilus denitrificans K601]	80840;596154	Burkholderiales;Alicycliphilus denitrificans K601	4e-04
+TR45093|c0_g1_i1	gi|565466466|ref|XP_006291113.1|	95.00	20	1	0	60	1	190	209	hypothetical protein CARUB_v10017225mg [Capsella rubella]	81985	Capsella rubella	1e-05
+TR45106|c0_g1_i1	gi|502079060|ref|XP_004486141.1|	95.00	20	1	0	60	1	122	141	PREDICTED: stem-specific protein TSJT1-like [Cicer arietinum]	3827	Cicer arietinum	7e-06
+TR45107|c0_g1_i1	gi|356501043|ref|XP_003519338.1|	94.74	19	1	0	58	2	43	61	PREDICTED: polcalcin Nic t 1-like [Glycine max]	3847	Glycine max	2e-04
+TR45173|c0_g1_i1	gi|225465117|ref|XP_002272584.1|	100.00	19	0	0	3	59	153	171	PREDICTED: photosystem I reaction center subunit III, chloroplastic isoform 1 [Vitis vinifera]	29760	Vitis vinifera	7e-07
+TR45204|c0_g1_i1	gi|224129424|ref|XP_002328713.1|	100.00	19	0	0	2	58	390	408	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	0.001
+TR45242|c0_g1_i1	gi|351722731|ref|NP_001237510.1|	100.00	20	0	0	1	60	31	50	uncharacterized protein LOC100499891 [Glycine max]	3847	Glycine max	3e-07
+TR45277|c0_g1_i1	gi|114329701|ref|YP_740522.1|	100.00	19	0	0	3	59	42	60	ribosomal protein S7 [Citrus sinensis]	2711	Citrus sinensis	1e-04
+TR45282|c0_g1_i1	gi|139387253|ref|YP_001123374.1|	100.00	20	0	0	60	1	24	43	hypothetical protein CabupaCp022 [Capsella bursa-pastoris]	3719	Capsella bursa-pastoris	2e-06
+TR45408|c0_g1_i1	gi|224103833|ref|XP_002313211.1|	85.00	20	3	0	60	1	84	103	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-04
+TR4540|c0_g1_i1	gi|224124074|ref|XP_002330098.1|	100.00	19	0	0	59	3	59	77	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	7e-06
+TR45473|c0_g1_i1	gi|345488586|ref|XP_001602460.2|	100.00	20	0	0	60	1	705	724	PREDICTED: elongation factor 2-like [Nasonia vitripennis]	7425	Nasonia vitripennis	1e-06
+TR45475|c0_g1_i1	gi|255562954|ref|XP_002522482.1|	100.00	19	0	0	58	2	338	356	protein kinase, putative [Ricinus communis]	3988	Ricinus communis	7e-05
+TR45509|c0_g1_i1	gi|224075710|ref|XP_002304730.1|	100.00	18	0	0	58	5	25	42	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-05
+TR45527|c0_g1_i1	gi|17547841|ref|NP_521243.1|	94.74	19	1	0	58	2	591	609	indolepyruvate ferredoxin oxidoreductase [Ralstonia solanacearum GMI1000]	305;267608	Ralstonia solanacearum;Ralstonia solanacearum GMI1000	9e-05
+TR4558|c0_g1_i1	gi|225425304|ref|XP_002273119.1|	100.00	19	0	0	59	3	49	67	PREDICTED: 40S ribosomal protein S27-2 [Vitis vinifera]	29760	Vitis vinifera	3e-05
+TR45702|c0_g1_i1	gi|359490716|ref|XP_002276268.2|	95.00	20	1	0	1	60	577	596	PREDICTED: luminal-binding protein 5-like [Vitis vinifera]	29760	Vitis vinifera	1e-04
+TR45720|c0_g1_i1	gi|225452452|ref|XP_002277957.1|	84.21	19	3	0	59	3	229	247	PREDICTED: carbonic anhydrase, chloroplastic [Vitis vinifera]	29760	Vitis vinifera	3e-04
+TR45756|c0_g1_i1	gi|494179524|ref|WP_007116055.1|	100.00	19	0	0	59	3	333	351	mercuric reductase [Enhydrobacter aerosaccus]	225324	Enhydrobacter aerosaccus	0.001
+TR45758|c0_g1_i1	gi|489655333|ref|WP_003559701.1|	85.00	20	3	0	60	1	521	540	glycerol phosphate lipoteichoic acid synthase [Lactobacillus buchneri]	1581	Lactobacillus buchneri	5e-04
+TR45781|c0_g1_i1	gi|357477179|ref|XP_003608875.1|	100.00	19	0	0	58	2	41	59	Glyceraldehyde-3-phosphate dehydrogenase [Medicago truncatula]	3880	Medicago truncatula	4e-07
+TR45885|c0_g1_i1	gi|485800486|ref|WP_001421381.1|	100.00	19	0	0	59	3	219	237	exodeoxyribonuclease V subunit beta [Escherichia coli]	562	Escherichia coli	2e-04
+TR45890|c0_g1_i1	gi|544771533|ref|WP_021196810.1|	100.00	20	0	0	1	60	47	66	LysR family transcriptional regulator [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-04
+TR45941|c0_g1_i1	gi|449434877|ref|XP_004135222.1|	95.00	20	1	0	1	60	280	299	PREDICTED: uncharacterized protein LOC101209749 [Cucumis sativus]	3659	Cucumis sativus	7e-05
+TR45999|c0_g1_i1	gi|168065645|ref|XP_001784759.1|	89.47	19	2	0	59	3	79	97	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	1e-04
+TR46033|c0_g1_i1	gi|487581467|ref|WP_001723163.1|	100.00	20	0	0	1	60	85	104	FAD binding domain protein [Escherichia coli]	562	Escherichia coli	7e-07
+TR46175|c0_g1_i1	gi|446541106|ref|WP_000618452.1|	100.00	19	0	0	59	3	36	54	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	2e-04
+TR4618|c0_g1_i1	gi|356573714|ref|XP_003555002.1|	75.00	20	5	0	60	1	931	950	PREDICTED: uncharacterized protein LOC100810380 [Glycine max]	3847	Glycine max	7e-05
+TR46226|c0_g1_i1	gi|256072224|ref|XP_002572436.1|	95.00	20	1	0	60	1	125	144	60S ribosomal protein P0 [Schistosoma mansoni]	6183	Schistosoma mansoni	1e-05
+TR46229|c0_g1_i1	gi|449450976|ref|XP_004143238.1|	90.00	20	2	0	60	1	230	249	PREDICTED: cell number regulator 8-like [Cucumis sativus]	3659	Cucumis sativus	3e-06
+TR46248|c0_g1_i1	gi|449465575|ref|XP_004150503.1|	95.00	20	1	0	1	60	175	194	PREDICTED: putative pectinesterase/pectinesterase inhibitor 28-like [Cucumis sativus]	3659	Cucumis sativus	3e-05
+TR46265|c0_g1_i1	gi|518777096|ref|WP_019934385.1|	100.00	20	0	0	60	1	29	48	xanthine phosphoribosyltransferase [Oceanimonas smirnovii]	264574	Oceanimonas smirnovii	7e-06
+TR46267|c0_g1_i1	gi|357496953|ref|XP_003618765.1|	94.74	19	1	0	3	59	75	93	40S ribosomal protein S7-like protein [Medicago truncatula]	3880	Medicago truncatula	0.001
+TR46307|c0_g1_i1	gi|357436123|ref|XP_003588337.1|	100.00	20	0	0	60	1	413	432	Ribosomal protein S10 [Medicago truncatula]	3880	Medicago truncatula	4e-07
+TR4632|c0_g1_i1	gi|565624809|ref|WP_023892029.1|	100.00	20	0	0	1	60	160	179	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	8e-06
+TR46330|c0_g1_i1	gi|544771113|ref|WP_021196392.1|	100.00	19	0	0	58	2	309	327	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	6e-04
+TR46381|c0_g1_i1	gi|446242364|ref|WP_000320219.1|	100.00	19	0	0	58	2	17	35	ketol-acid reductoisomerase, partial [Escherichia coli]	562	Escherichia coli	1e-04
+TR46393|c0_g1_i1	gi|115436666|ref|NP_001043091.1|	83.33	18	3	0	2	55	121	138	Os01g0382400 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	0.001
+TR4640|c0_g1_i1	gi|330827403|ref|YP_004390641.1|	100.00	20	0	0	60	1	115	134	type 11 methyltransferase [Alicycliphilus denitrificans K601]	179636;596154	Alicycliphilus denitrificans;Alicycliphilus denitrificans K601	1e-04
+TR46421|c0_g1_i1	gi|121582496|ref|YP_974028.1|	100.00	19	0	0	2	58	490	508	TrwC protein [Acidovorax sp. JS42]	232721	Acidovorax sp. JS42	3e-04
+TR46635|c0_g1_i1	gi|460366341|ref|XP_004229042.1|	94.74	19	1	0	3	59	164	182	PREDICTED: Pyruvate dehydrogenase (acetyl-transferring) kinase, mitochondrial-like [Solanum lycopersicum]	4081	Solanum lycopersicum	6e-05
+TR46705|c0_g1_i1	gi|449520924|ref|XP_004167482.1|	89.47	19	2	0	59	3	145	163	PREDICTED: glucan endo-1,3-beta-glucosidase-like [Cucumis sativus]	3659	Cucumis sativus	8e-04
+TR46849|c0_g1_i1	gi|297812851|ref|XP_002874309.1|	90.00	20	2	0	1	60	390	409	hypothetical protein ARALYDRAFT_489474 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-06
+TR46957|c0_g1_i1	gi|300697057|ref|YP_003747718.1|	100.00	19	0	0	59	3	259	277	Sensor histine kinase of the two component regulatory system, heavy metal resistance operon czcCBA activation [Ralstonia solanacearum CFBP2957]	305;859656	Ralstonia solanacearum;Ralstonia solanacearum CFBP2957	2e-04
+TR46996|c0_g1_i1	gi|197294165|ref|YP_002149785.1|	94.74	19	1	0	59	3	153	171	NADH-plastoquinone oxidoreductase subunit 4 [Cicer arietinum]	3827	Cicer arietinum	0.001
+TR47035|c0_g1_i1	gi|18418558|ref|NP_567973.1|	94.74	19	1	0	3	59	57	75	beta-galactosidase 11 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-05
+TR47086|c0_g1_i1	gi|121582520|ref|YP_974052.1|	100.00	19	0	0	3	59	76	94	hypothetical protein Ajs_4216 [Acidovorax sp. JS42]	232721	Acidovorax sp. JS42	2e-04
+TR47089|c0_g1_i1	gi|168056145|ref|XP_001780082.1|	100.00	19	0	0	59	3	106	124	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	2e-05
+TR47100|c0_g1_i1	gi|544767520|ref|WP_021192841.1|	100.00	19	0	0	2	58	230	248	membrane protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	6e-05
+TR47131|c0_g1_i1	gi|121582498|ref|YP_974030.1|	100.00	19	0	0	59	3	84	102	hypothetical protein Ajs_4194 [Acidovorax sp. JS42]	232721	Acidovorax sp. JS42	9e-04
+TR47220|c0_g1_i1	gi|449441252|ref|XP_004138396.1|	100.00	19	0	0	59	3	194	212	PREDICTED: expansin-A8-like [Cucumis sativus]	3659	Cucumis sativus	1e-04
+TR47329|c0_g1_i1	gi|470138101|ref|XP_004304797.1|	100.00	20	0	0	60	1	242	261	PREDICTED: serine/threonine-protein kinase At3g07070-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	4e-05
+TR47367|c0_g1_i1	gi|565403055|ref|XP_006366982.1|	90.00	20	2	0	60	1	471	490	PREDICTED: beta-galactosidase 13-like [Solanum tuberosum]	4113	Solanum tuberosum	2e-05
+TR47457|c0_g1_i1	gi|565378799|ref|XP_006355833.1|	84.21	19	3	0	60	4	724	742	PREDICTED: receptor-like protein kinase ANXUR1-like [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR4759|c0_g1_i1	gi|297806773|ref|XP_002871270.1|	100.00	19	0	0	59	3	266	284	pectinesterase family protein [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-05
+TR47613|c0_g1_i1	gi|225459918|ref|XP_002264295.1|	94.74	19	1	0	59	3	160	178	PREDICTED: chlorophyll a-b binding protein CP26, chloroplastic [Vitis vinifera]	29760	Vitis vinifera	0.001
+TR47649|c0_g1_i1	gi|115436780|ref|NP_001043134.1|	100.00	19	0	0	59	3	184	202	Os01g0501800 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-04
+TR47649|c0_g2_i1	gi|115436780|ref|NP_001043134.1|	100.00	19	0	0	59	3	184	202	Os01g0501800 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-04
+TR47649|c0_g3_i1	gi|115436780|ref|NP_001043134.1|	100.00	19	0	0	59	3	184	202	Os01g0501800 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-04
+TR47793|c0_g1_i1	gi|565375961|ref|XP_006354483.1|	100.00	19	0	0	2	58	152	170	PREDICTED: malate dehydrogenase [Solanum tuberosum]	4113	Solanum tuberosum	9e-06
+TR47808|c0_g1_i1	gi|356512447|ref|XP_003524930.1|	90.00	20	2	0	1	60	158	177	PREDICTED: UDP-glucuronate 4-epimerase 6-like [Glycine max]	3847	Glycine max	9e-05
+TR47818|c0_g1_i1	gi|489868434|ref|WP_003772006.1|	100.00	20	0	0	60	1	16	35	acetolactate synthase [Neisseria elongata]	495	Neisseria elongata	3e-06
+TR47946|c0_g1_i1	gi|357518499|ref|XP_003629538.1|	100.00	20	0	0	1	60	18	37	Ubiquitin [Medicago truncatula]	3880	Medicago truncatula	5e-05
+TR47955|c0_g1_i1	gi|487424808|ref|WP_001687159.1|	100.00	20	0	0	1	60	58	77	cytochrome C assembly family protein, partial [Escherichia coli]	562	Escherichia coli	4e-06
+TR47959|c0_g1_i1	gi|487378516|ref|WP_001651479.1|	100.00	19	0	0	58	2	325	343	2-isopropylmalate synthase [Salmonella enterica]	28901	Salmonella enterica	7e-06
+TR47973|c0_g1_i1	gi|544819564|ref|WP_021235834.1|	100.00	19	0	0	2	58	34	52	hypothetical protein, partial [Novosphingobium lindaniclasticum]	1329895	Novosphingobium lindaniclasticum	1e-05
+TR48044|c0_g1_i1	gi|446150099|ref|WP_000227954.1|	100.00	19	0	0	2	58	68	86	ubiquinone/menaquinone biosynthesis methyltransferase, partial [Escherichia coli]	562	Escherichia coli	2e-04
+TR48048|c0_g1_i1	gi|532029046|ref|XP_005357479.1|	85.00	20	3	0	60	1	240	259	PREDICTED: ADP/ATP translocase 2-like [Microtus ochrogaster]	79684	Microtus ochrogaster	1e-05
+TR48136|c0_g1_i1	gi|71396379|ref|XP_802382.1|	94.74	19	1	0	3	59	66	84	cyclophilin [Trypanosoma cruzi strain CL Brener]	353153	Trypanosoma cruzi strain CL Brener	1e-04
+TR48136|c0_g2_i1	gi|502113766|ref|XP_004494752.1|	100.00	19	0	0	2	58	21	39	PREDICTED: peptidyl-prolyl cis-trans isomerase CYP19-3-like [Cicer arietinum]	3827	Cicer arietinum	2e-05
+TR48136|c1_g1_i1	gi|225448427|ref|XP_002273217.1|	89.47	19	2	0	59	3	90	108	PREDICTED: peptidyl-prolyl cis-trans isomerase CYP20-1 isoform 2 [Vitis vinifera]	29760	Vitis vinifera	2e-04
+TR48137|c0_g1_i1	gi|224130888|ref|XP_002320949.1|	100.00	20	0	0	1	60	143	162	s-adenosylmethionine synthetase 4 [Populus trichocarpa]	3694	Populus trichocarpa	1e-05
+TR48137|c0_g2_i1	gi|224130888|ref|XP_002320949.1|	100.00	20	0	0	1	60	143	162	s-adenosylmethionine synthetase 4 [Populus trichocarpa]	3694	Populus trichocarpa	1e-05
+TR48137|c0_g3_i1	gi|536290971|ref|NP_001269246.1|	100.00	20	0	0	1	60	160	179	S-adenosylmethionine synthase-like [Cicer arietinum]	3827	Cicer arietinum	9e-08
+TR48310|c0_g1_i1	gi|15219120|ref|NP_173604.1|	88.89	18	2	0	55	2	24	41	SKU5 similar 7 protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	5e-04
+TR48333|c0_g1_i1	gi|544769392|ref|WP_021194695.1|	94.74	19	1	0	3	59	315	333	O-acetylhomoserine aminocarboxypropyltransferase, partial [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	0.001
+TR48351|c0_g1_i1	gi|470145162|ref|XP_004308211.1|	100.00	18	0	0	2	55	700	717	PREDICTED: linoleate 13S-lipoxygenase 2-1, chloroplastic-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	1e-05
+TR48383|c0_g1_i1	gi|121582510|ref|YP_974042.1|	100.00	20	0	0	1	60	209	228	methyltransferase type 11 [Acidovorax sp. JS42]	232721	Acidovorax sp. JS42	8e-06
+TR48619|c0_g1_i1	gi|357472427|ref|XP_003606498.1|	94.74	19	1	0	3	59	39	57	hypothetical protein MTR_4g061010 [Medicago truncatula]	3880	Medicago truncatula	1e-04
+TR48638|c0_g1_i1	gi|356553647|ref|XP_003545165.1|	100.00	19	0	0	3	59	163	181	PREDICTED: calcium-dependent protein kinase 17-like [Glycine max]	3847	Glycine max	1e-04
+TR48681|c0_g1_i1	gi|351723233|ref|NP_001235736.1|	94.44	18	1	0	58	5	15	32	uncharacterized protein LOC100527926 [Glycine max]	3847	Glycine max	1e-05
+TR48771|c0_g1_i1	gi|224121940|ref|XP_002330691.1|	89.47	19	2	0	59	3	71	89	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-04
+TR48771|c0_g2_i1	gi|224121940|ref|XP_002330691.1|	89.47	19	2	0	59	3	71	89	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-04
+TR4886|c0_g1_i1	gi|18407508|ref|NP_566120.1|	94.74	19	1	0	3	59	400	418	sugar transporter ERD6-like 7 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-04
+TR49004|c0_g1_i1	gi|544769443|ref|WP_021194745.1|	100.00	20	0	0	60	1	251	270	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-05
+TR49200|c0_g1_i1	gi|485801973|ref|WP_001422771.1|	100.00	19	0	0	59	3	58	76	lipoyl synthase [Escherichia coli]	562	Escherichia coli	3e-05
+TR49227|c0_g1_i1	gi|224140625|ref|XP_002323682.1|	100.00	19	0	0	2	58	62	80	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-05
+TR49278|c0_g1_i1	gi|544768343|ref|WP_021193659.1|	100.00	20	0	0	60	1	75	94	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-05
+TR49299|c0_g1_i1	gi|115450521|ref|NP_001048861.1|	95.00	20	1	0	60	1	373	392	Os03g0131200 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	6e-06
+TR49396|c0_g1_i1	gi|485672423|ref|WP_001313107.1|	100.00	19	0	0	2	58	11	29	glycerol-3-phosphate transporter [Escherichia coli]	562	Escherichia coli	2e-06
+TR49439|c0_g1_i1	gi|168009231|ref|XP_001757309.1|	100.00	19	0	0	2	58	53	71	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	6e-05
+TR49496|c0_g1_i1	gi|15675971|ref|NP_273097.1|	95.00	20	1	0	1	60	509	528	glucosamine--fructose-6-phosphate aminotransferase [Neisseria meningitidis MC58]	487;122586;909420	Neisseria meningitidis;Neisseria meningitidis MC58;Neisseria meningitidis H44/76	2e-05
+TR49654|c0_g1_i1	gi|168005024|ref|XP_001755211.1|	100.00	19	0	0	59	3	486	504	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	7e-05
+TR49657|c0_g1_i1	gi|308047976|ref|YP_003911542.1|	100.00	19	0	0	58	2	6	24	30S ribosomal protein S7 [Ferrimonas balearica DSM 9799]	44012;550540	Ferrimonas balearica;Ferrimonas balearica DSM 9799	3e-05
+TR49807|c0_g1_i1	gi|485955122|ref|WP_001498501.1|	100.00	20	0	0	1	60	146	165	inner membrane protein ypjD [Escherichia coli]	562	Escherichia coli	2e-06
+TR49976|c0_g1_i1	gi|386706162|ref|YP_006170009.1|	100.00	20	0	0	1	60	20	39	putative ligase [Escherichia coli P12b]	562;910348	Escherichia coli;Escherichia coli P12b	2e-05
+TR50031|c0_g1_i1	gi|224077927|ref|XP_002305462.1|	100.00	19	0	0	58	2	175	193	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-05
+TR50043|c0_g1_i1	gi|544768167|ref|WP_021193484.1|	94.74	19	1	0	59	3	96	114	flagellar motor switch protein FliM [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	4e-04
+TR5006|c0_g1_i1	gi|115435182|ref|NP_001042349.1|	90.00	20	2	0	60	1	65	84	Os01g0207300 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-04
+TR5006|c0_g2_i1	gi|115435182|ref|NP_001042349.1|	90.00	20	2	0	60	1	65	84	Os01g0207300 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-04
+TR50078|c0_g1_i1	gi|565395806|ref|XP_006363527.1|	94.74	19	1	0	2	58	262	280	PREDICTED: TBC1 domain family member 15-like [Solanum tuberosum]	4113	Solanum tuberosum	4e-04
+TR5030|c0_g2_i1	gi|114329694|ref|YP_740515.1|	94.74	19	1	0	59	3	64	82	ribosomal protein L22 [Citrus sinensis]	2711	Citrus sinensis	2e-04
+TR50370|c0_g1_i1	gi|494112349|ref|WP_007053129.1|	100.00	19	0	0	3	59	26	44	conserved hypothetical protein [Bifidobacterium longum]	216816	Bifidobacterium longum	3e-05
+TR50664|c0_g1_i1	gi|145589075|ref|YP_001155672.1|	89.47	19	2	0	2	58	197	215	thiamine-phosphate pyrophosphorylase [Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1]	312153;576610	Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1;Polynucleobacter necessarius	4e-04
+TR5082|c0_g1_i1	gi|115453971|ref|NP_001050586.1|	100.00	20	0	0	60	1	129	148	Os03g0592500 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	2e-05
+TR50993|c0_g1_i1	gi|526117784|ref|NP_001268113.1|	95.00	20	1	0	60	1	147	166	2-Cys peroxiredoxin [Vitis vinifera]	29760	Vitis vinifera	7e-06
+TR51121|c0_g1_i1	gi|297798516|ref|XP_002867142.1|	89.47	19	2	0	2	58	93	111	hypothetical protein ARALYDRAFT_491276 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	5e-06
+TR5118|c0_g1_i1	gi|446341753|ref|WP_000419608.1|	100.00	19	0	0	2	58	25	43	Insertion element IS1 protein insB, partial [Shigella sonnei]	624	Shigella sonnei	1e-06
+TR51276|c0_g1_i1	gi|486270498|ref|WP_001567894.1|	94.74	19	1	0	2	58	23	41	putative glycosyltransferase, partial [Salmonella enterica]	28901	Salmonella enterica	4e-06
+TR51491|c0_g1_i1	gi|15240279|ref|NP_197997.1|	94.74	19	1	0	2	58	399	417	sugar transport protein 8 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-05
+TR51742|c0_g1_i1	gi|15241969|ref|NP_200498.1|	94.74	19	1	0	3	59	168	186	beta-galactosidase 4 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	6e-05
+TR51820|c0_g1_i1	gi|356541543|ref|XP_003539234.1|	94.74	19	1	0	59	3	222	240	PREDICTED: probable xyloglucan endotransglucosylase/hydrolase protein 6-like [Glycine max]	3847	Glycine max	1e-06
+TR51984|c0_g1_i1	gi|255577702|ref|XP_002529727.1|	100.00	19	0	0	3	59	1606	1624	transferase, transferring glycosyl groups, putative [Ricinus communis]	3988	Ricinus communis	8e-06
+TR51998|c0_g1_i1	gi|565348573|ref|XP_006341285.1|	100.00	19	0	0	2	58	314	332	PREDICTED: photosystem I P700 chlorophyll a apoprotein A1-like [Solanum tuberosum]	4113	Solanum tuberosum	2e-05
+TR52006|c0_g1_i1	gi|255560555|ref|XP_002521292.1|	95.00	20	1	0	60	1	32	51	Aquaporin PIP2.7, putative [Ricinus communis]	3988	Ricinus communis	1e-04
+TR52079|c0_g1_i1	gi|363807197|ref|NP_001242095.1|	85.00	20	3	0	60	1	2	21	uncharacterized protein LOC100790840 [Glycine max]	3847	Glycine max	5e-05
+TR52098|c0_g1_i1	gi|565393928|ref|XP_006362620.1|	95.00	20	1	0	1	60	131	150	PREDICTED: uncharacterized protein LOC102583918 [Solanum tuberosum]	4113	Solanum tuberosum	4e-06
+TR52212|c0_g1_i1	gi|552951759|ref|WP_023049180.1|	100.00	19	0	0	3	59	254	272	major facilitator transporter, partial [Pseudomonas putida]	303	Pseudomonas putida	7e-04
+TR52286|c0_g1_i1	gi|356541034|ref|XP_003538988.1|	90.00	20	2	0	60	1	152	171	PREDICTED: beta-galactosidase 13-like, partial [Glycine max]	3847	Glycine max	1e-04
+TR52410|c0_g1_i1	gi|489367660|ref|WP_003274489.1|	100.00	19	0	0	3	59	39	57	enoyl-CoA hydratase [Ralstonia solanacearum]	305	Ralstonia solanacearum	2e-06
+TR52446|c0_g1_i1	gi|491305986|ref|WP_005163986.1|	100.00	20	0	0	1	60	327	346	hypothetical protein, partial [Acinetobacter sp. NIPH 284]	1217704	Acinetobacter sp. NIPH 284	2e-04
+TR5258|c0_g1_i1	gi|485665205|ref|WP_001306560.1|	100.00	20	0	0	1	60	244	263	DNA topoisomerase I [Enterobacteriaceae]	543	Enterobacteriaceae	5e-05
+TR52610|c0_g1_i1	gi|485807066|ref|WP_001427327.1|	100.00	19	0	0	58	2	183	201	ABC transporter permease [Escherichia coli]	562	Escherichia coli	1e-05
+TR52682|c0_g1_i1	gi|224110424|ref|XP_002315516.1|	100.00	19	0	0	59	3	316	334	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-05
+TR52716|c0_g1_i1	gi|565379597|ref|XP_006356207.1|	89.47	19	2	0	3	59	420	438	PREDICTED: phospholipase D alpha 1-like isoform X1 [Solanum tuberosum]	4113	Solanum tuberosum	2e-05
+TR52743|c0_g1_i1	gi|487421431|ref|WP_001686526.1|	100.00	19	0	0	57	1	1	19	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-05
+TR52807|c0_g1_i1	gi|224068640|ref|XP_002326163.1|	100.00	20	0	0	60	1	57	76	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-05
+TR52809|c0_g1_i1	gi|544769989|ref|WP_021195287.1|	100.00	20	0	0	1	60	526	545	sensor histidine kinase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	4e-05
+TR52923|c0_g1_i1	gi|224119602|ref|XP_002318114.1|	100.00	20	0	0	60	1	178	197	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-04
+TR52972|c0_g1_i1	gi|565366629|ref|XP_006349989.1|	100.00	20	0	0	1	60	159	178	PREDICTED: chlorophyll a-b binding protein 13, chloroplastic-like [Solanum tuberosum]	4113	Solanum tuberosum	9e-05
+TR53066|c0_g1_i1	gi|224140291|ref|XP_002323516.1|	100.00	19	0	0	59	3	252	270	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-05
+TR53078|c0_g1_i1	gi|470130777|ref|XP_004301279.1|	100.00	19	0	0	3	59	192	210	PREDICTED: peroxidase 41-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	1e-05
+TR5310|c0_g1_i1	gi|356546368|ref|XP_003541598.1|	94.74	19	1	0	59	3	229	247	PREDICTED: probable ADP-ribosylation factor GTPase-activating protein AGD11-like [Glycine max]	3847	Glycine max	3e-04
+TR53126|c0_g1_i1	gi|487607079|ref|WP_001733299.1|	100.00	19	0	0	58	2	363	381	ATP-dependent DNA helicase Rep, partial [Salmonella enterica]	28901	Salmonella enterica	3e-06
+TR53194|c0_g1_i1	gi|356549369|ref|XP_003543066.1|	75.00	20	5	0	1	60	197	216	PREDICTED: stem-specific protein TSJT1-like [Glycine max]	3847	Glycine max	0.001
+TR5335|c0_g1_i1	gi|255575555|ref|XP_002528678.1|	100.00	19	0	0	60	4	96	114	conserved hypothetical protein [Ricinus communis]	3988	Ricinus communis	6e-05
+TR53366|c0_g1_i1	gi|330838553|ref|YP_004413133.1|	85.00	20	3	0	60	1	348	367	chaperonin GroEL [Selenomonas sputigena ATCC 35185]	69823;546271	Selenomonas sputigena;Selenomonas sputigena ATCC 35185	0.001
+TR53383|c0_g1_i1	gi|565400366|ref|XP_006365701.1|	94.74	19	1	0	2	58	66	84	PREDICTED: triosephosphate isomerase, cytosolic-like [Solanum tuberosum]	4113	Solanum tuberosum	1e-04
+TR53577|c0_g1_i1	gi|565484180|ref|XP_006299730.1|	100.00	19	0	0	3	59	71	89	hypothetical protein CARUB_v10015923mg [Capsella rubella]	81985	Capsella rubella	3e-05
+TR53593|c0_g1_i1	gi|544768554|ref|WP_021193868.1|	94.74	19	1	0	58	2	241	259	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-04
+TR53653|c0_g1_i1	gi|114329693|ref|YP_740514.1|	89.47	19	2	0	2	58	25	43	ribosomal protein S3 [Citrus sinensis]	2711	Citrus sinensis	5e-04
+TR53662|c0_g1_i1	gi|565372492|ref|XP_006352827.1|	89.47	19	2	0	3	59	118	136	PREDICTED: serine/threonine-protein kinase At3g07070-like [Solanum tuberosum]	4113	Solanum tuberosum	2e-04
+TR53687|c0_g1_i1	gi|386612419|ref|YP_006132085.1|	100.00	19	0	0	58	2	10	28	hypothetical protein UMNK88_269 [Escherichia coli UMNK88]	562;696406	Escherichia coli;Escherichia coli UMNK88	9e-06
+TR53723|c0_g1_i1	gi|115481436|ref|NP_001064311.1|	100.00	20	0	0	60	1	71	90	Os10g0205500 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	3e-06
+TR53727|c0_g1_i1	gi|449462683|ref|XP_004149070.1|	100.00	19	0	0	3	59	374	392	PREDICTED: xylose isomerase-like [Cucumis sativus]	3659	Cucumis sativus	9e-05
+TR53758|c0_g1_i1	gi|490412986|ref|WP_004285599.1|	95.00	20	1	0	1	60	60	79	translation elongation factor Tu [Neisseria weaveri]	28091	Neisseria weaveri	4e-04
+TR53792|c0_g1_i1	gi|18405425|ref|NP_564697.1|	89.47	19	2	0	58	2	307	325	SKU5 similar 14 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	4e-05
+TR53856|c0_g1_i1	gi|496228570|ref|WP_008942605.1|	100.00	20	0	0	60	1	78	97	transposase and inactivated derivative, partial [Acinetobacter sp. ATCC 27244]	525244	Acinetobacter sp. ATCC 27244	5e-07
+TR53898|c0_g1_i1	gi|357145293|ref|XP_003573592.1|	94.74	19	1	0	2	58	129	147	PREDICTED: plasma membrane ATPase 4-like [Brachypodium distachyon]	15368	Brachypodium distachyon	8e-05
+TR53907|c0_g1_i1	gi|357506437|ref|XP_003623507.1|	95.00	20	1	0	60	1	30	49	Wound-induced protein [Medicago truncatula]	3880	Medicago truncatula	4e-07
+TR53916|c0_g1_i1	gi|357119316|ref|XP_003561388.1|	57.89	19	8	0	4	60	97	115	PREDICTED: blue copper protein-like [Brachypodium distachyon]	15368	Brachypodium distachyon	0.001
+TR53997|c0_g1_i1	gi|372489154|ref|YP_005028719.1|	94.74	19	1	0	3	59	20	38	transposase, TnpA family [Dechlorosoma suillum PS]	146939;640081	Azospira oryzae;Dechlorosoma suillum PS	0.001
+TR54074|c0_g1_i1	gi|490301674|ref|WP_004197072.1|	94.74	19	1	0	59	3	29	47	hypothetical protein [Klebsiella pneumoniae]	573	Klebsiella pneumoniae	7e-04
+TR54157|c0_g1_i1	gi|385336818|ref|YP_005890765.1|	100.00	19	0	0	58	2	21	39	50S ribosomal protein L11, partial [Neisseria gonorrhoeae TCDC-NG08107]	485;940296	Neisseria gonorrhoeae;Neisseria gonorrhoeae TCDC-NG08107	6e-05
+TR54339|c0_g1_i1	gi|485996339|ref|WP_001500903.1|	100.00	19	0	0	59	3	65	83	type IV conjugative transfer system protein TraV, partial [Escherichia coli]	562	Escherichia coli	4e-05
+TR54342|c0_g1_i1	gi|255582044|ref|XP_002531819.1|	95.00	20	1	0	60	1	32	51	calcium binding protein/cast, putative [Ricinus communis]	3988	Ricinus communis	3e-04
+TR54343|c0_g1_i1	gi|15239814|ref|NP_199729.1|	84.21	19	3	0	59	3	232	250	putative pectin methylesterase [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-04
+TR54518|c0_g1_i1	gi|491305995|ref|WP_005163995.1|	100.00	18	0	0	2	55	39	56	hypothetical protein, partial [Acinetobacter sp. NIPH 284]	1217704	Acinetobacter sp. NIPH 284	3e-04
+TR54904|c0_g1_i1	gi|224074992|ref|XP_002304509.1|	89.47	19	2	0	59	3	131	149	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-04
+TR54932|c0_g1_i1	gi|17545870|ref|NP_519272.1|	100.00	19	0	0	58	2	494	512	DNA mismatch repair protein MutS [Ralstonia solanacearum GMI1000]	305;267608	Ralstonia solanacearum;Ralstonia solanacearum GMI1000	1e-04
+TR54945|c0_g1_i1	gi|564912555|ref|YP_008879237.1|	100.00	19	0	0	3	59	134	152	glutamyl-tRNA reductase [Pandoraea sp. RB-44]	1380774	Pandoraea sp. RB-44	2e-04
+TR55009|c0_g1_i1	gi|359475274|ref|XP_003631630.1|	100.00	19	0	0	3	59	398	416	PREDICTED: polyol transporter 5-like [Vitis vinifera]	29760	Vitis vinifera	3e-04
+TR55014|c0_g1_i1	gi|519044938|ref|WP_020200813.1|	100.00	20	0	0	60	1	158	177	major facilitator transporter [Cupriavidus sp. WS]	1312922	Cupriavidus sp. WS	5e-06
+TR55069|c0_g1_i1	gi|18422603|ref|NP_568650.1|	94.74	19	1	0	59	3	141	159	pollen_Ole_e_I-domain containing protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-05
+TR55238|c0_g2_i1	gi|224107122|ref|XP_002314382.1|	90.00	20	2	0	60	1	145	164	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-04
+TR55348|c1_g1_i1	gi|384260382|ref|YP_005415566.1|	100.00	20	0	0	60	1	26	45	hypothetical protein RSPPHO_03257, partial [Rhodospirillum photometricum DSM 122]	1084;1150469	Rhodospirillum photometricum;Rhodospirillum photometricum DSM 122	2e-05
+TR55348|c4_g2_i1	gi|489903053|ref|WP_003806485.1|	94.12	17	1	0	60	10	75	91	hypothetical protein [Bifidobacterium adolescentis]	1680	Bifidobacterium adolescentis	2e-04
+TR55348|c4_g3_i5	gi|485700112|ref|WP_001333406.1|	89.47	19	2	0	60	4	46	64	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-05
+TR55368|c0_g1_i1	gi|146311331|ref|YP_001176405.1|	89.47	19	2	0	2	58	262	280	glyceraldehyde-3-phosphate dehydrogenase [Enterobacter sp. 638]	399742	Enterobacter sp. 638	9e-04
+TR55425|c0_g1_i1	gi|15224669|ref|NP_180697.1|	89.47	19	2	0	2	58	237	255	probable fructokinase-1 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	4e-05
+TR5561|c0_g1_i1	gi|446575687|ref|WP_000653033.1|	100.00	20	0	0	60	1	2	21	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	2e-06
+TR55689|c0_g1_i1	gi|559187086|ref|WP_023566698.1|	100.00	20	0	0	60	1	32	51	succinate dehydrogenase iron-sulfur subunit, partial [Escherichia coli]	562	Escherichia coli	3e-05
+TR55964|c0_g1_i1	gi|224056889|ref|XP_002299074.1|	89.47	19	2	0	58	2	39	57	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-04
+TR56075|c0_g1_i1	gi|159161253|ref|YP_001542531.1|	100.00	20	0	0	1	60	702	721	photosystem I P700 apoprotein A1 [Cuscuta exaltata]	476139	Cuscuta exaltata	2e-05
+TR56195|c0_g1_i1	gi|485713109|ref|WP_001345345.1|	100.00	19	0	0	58	2	225	243	phosphodiesterase [Escherichia coli]	562	Escherichia coli	5e-06
+TR56305|c0_g1_i1	gi|224141905|ref|XP_002324301.1|	84.21	19	3	0	58	2	41	59	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-04
+TR56434|c0_g1_i1	gi|495927685|ref|WP_008652264.1|	100.00	19	0	0	59	3	453	471	PII uridylyl-transferase [Cupriavidus sp. HMR-1]	1249621	Cupriavidus sp. HMR-1	1e-06
+TR56562|c0_g1_i1	gi|224105517|ref|XP_002313840.1|	94.74	19	1	0	58	2	233	251	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-04
+TR56624|c0_g1_i1	gi|255570203|ref|XP_002526062.1|	94.74	19	1	0	3	59	296	314	calcium-dependent protein kinase, putative [Ricinus communis]	3988	Ricinus communis	1e-05
+TR56686|c0_g1_i1	gi|502168792|ref|XP_004514468.1|	100.00	20	0	0	60	1	77	96	PREDICTED: ABC transporter A family member 7-like isoform X4 [Cicer arietinum]	3827	Cicer arietinum	1e-06
+TR56688|c0_g1_i1	gi|255553165|ref|XP_002517625.1|	100.00	20	0	0	60	1	390	409	phopholipase d alpha, putative [Ricinus communis]	3988	Ricinus communis	9e-06
+TR5669|c0_g1_i1	gi|545376105|ref|XP_005652163.1|	84.21	19	3	0	58	2	44	62	methionine adenosyltransferase [Coccomyxa subellipsoidea C-169]	574566	Coccomyxa subellipsoidea C-169	0.001
+TR56717|c0_g1_i1	gi|225429337|ref|XP_002272147.1|	89.47	19	2	0	58	2	101	119	PREDICTED: upstream activation factor subunit spp27 [Vitis vinifera]	29760	Vitis vinifera	9e-06
+TR56786|c0_g1_i1	gi|485798476|ref|WP_001419544.1|	100.00	19	0	0	58	2	1	19	hypothetical protein [Escherichia coli]	562	Escherichia coli	4e-04
+TR56860|c0_g1_i1	gi|145334919|ref|NP_001078805.1|	100.00	19	0	0	58	2	31	49	ferredoxin-NADP(+)-oxidoreductase 1 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	5e-05
+TR56862|c0_g1_i1	gi|553952830|ref|WP_023151269.1|	100.00	20	0	0	60	1	162	181	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-04
+TR57014|c0_g1_i1	gi|193704510|ref|XP_001945463.1|	90.00	20	2	0	1	60	90	109	PREDICTED: 60S ribosomal protein L4-like isoform 1 [Acyrthosiphon pisum]	7029	Acyrthosiphon pisum	6e-06
+TR57018|c0_g1_i1	gi|545276683|ref|WP_021563942.1|	94.74	19	1	0	59	3	119	137	hypothetical protein [Escherichia coli]	562	Escherichia coli	5e-06
+TR57100|c0_g1_i1	gi|224097588|ref|XP_002310999.1|	100.00	19	0	0	2	58	368	386	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	3e-05
+TR57118|c0_g1_i1	gi|491305986|ref|WP_005163986.1|	100.00	19	0	0	3	59	240	258	hypothetical protein, partial [Acinetobacter sp. NIPH 284]	1217704	Acinetobacter sp. NIPH 284	4e-04
+TR57142|c0_g1_i1	gi|357147469|ref|XP_003574355.1|	89.47	19	2	0	3	59	119	137	PREDICTED: 10 kDa chaperonin-like [Brachypodium distachyon]	15368	Brachypodium distachyon	2e-05
+TR57147|c0_g1_i1	gi|565464930|ref|XP_006290429.1|	89.47	19	2	0	3	59	298	316	hypothetical protein CARUB_v10019329mg [Capsella rubella]	81985	Capsella rubella	1e-04
+TR57187|c0_g1_i1	gi|559166084|ref|WP_023564088.1|	100.00	19	0	0	2	58	112	130	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	2e-04
+TR57193|c0_g1_i1	gi|168004329|ref|XP_001754864.1|	100.00	19	0	0	2	58	710	728	predicted protein [Physcomitrella patens]	3218	Physcomitrella patens	1e-04
+TR57194|c0_g1_i1	gi|502145036|ref|XP_004505849.1|	100.00	19	0	0	59	3	38	56	PREDICTED: uncharacterized protein LOC101495255 [Cicer arietinum]	3827	Cicer arietinum	3e-04
+TR5722|c0_g1_i1	gi|297729305|ref|NP_001177016.1|	100.00	19	0	0	2	58	128	146	Os12g0569700 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	4e-05
+TR57369|c0_g1_i1	gi|496220452|ref|WP_008934489.1|	100.00	19	0	0	2	58	134	152	hypothetical protein [Brucella sp. NVSL 07-0026]	520448	Brucella sp. NVSL 07-0026	2e-07
+TR57422|c0_g1_i1	gi|556284491|ref|WP_023289909.1|	100.00	20	0	0	60	1	382	401	glucans biosynthesis protein D [Klebsiella pneumoniae]	573	Klebsiella pneumoniae	9e-07
+TR57468|c0_g1_i1	gi|565370677|ref|XP_006351945.1|	100.00	19	0	0	2	58	119	137	PREDICTED: syntaxin-124-like [Solanum tuberosum]	4113	Solanum tuberosum	1e-05
+TR57474|c0_g1_i1	gi|460372644|ref|XP_004232138.1|	94.74	19	1	0	58	2	116	134	PREDICTED: UDP-arabinopyranose mutase 3-like [Solanum lycopersicum]	4081	Solanum lycopersicum	2e-04
+TR57543|c0_g1_i1	gi|301353250|ref|YP_003795246.1|	100.00	20	0	0	60	1	189	208	cytochrome c oxidase subunit III [Panulirus stimpsoni]	71578	Panulirus stimpsoni	4e-05
+TR57601|c0_g1_i1	gi|225445162|ref|XP_002280698.1|	100.00	19	0	0	59	3	573	591	PREDICTED: galactose oxidase-like [Vitis vinifera]	29760	Vitis vinifera	2e-05
+TR57640|c0_g1_i1	gi|224108908|ref|XP_002333333.1|	95.00	20	1	0	1	60	55	74	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	6e-06
+TR57737|c0_g1_i1	gi|30063464|ref|NP_837635.1|	90.00	20	2	0	1	60	305	324	LYSR-type transcriptional regulator [Shigella flexneri 2a str. 2457T]	623;198214;198215;373384;591020	Shigella flexneri;Shigella flexneri 2a str. 301;Shigella flexneri 2a str. 2457T;Shigella flexneri 5 str. 8401;Shigella flexneri 2002017	4e-04
+TR57800|c0_g1_i1	gi|557817764|ref|WP_023447474.1|	94.74	19	1	0	2	58	54	72	hypothetical protein, partial [Asticcacaulis benevestitus]	347481	Asticcacaulis benevestitus	1e-04
+TR57935|c1_g1_i1	gi|15218607|ref|NP_171778.1|	85.00	20	3	0	60	1	69	88	polygalacturonase 4 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-04
+TR57962|c0_g1_i1	gi|297790371|ref|XP_002863080.1|	100.00	19	0	0	59	3	60	78	hypothetical protein ARALYDRAFT_920500 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	4e-05
+TR57975|c0_g1_i1	gi|544772484|ref|WP_021197750.1|	100.00	19	0	0	58	2	166	184	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	6e-04
+TR57981|c0_g1_i1	gi|161506971|ref|YP_001576925.1|	95.00	20	1	0	1	60	41	60	chaperonin GroEL [Lactobacillus helveticus DPC 4571]	1587;405566	Lactobacillus helveticus;Lactobacillus helveticus DPC 4571	6e-05
+TR58059|c0_g1_i1	gi|517883997|ref|WP_019054205.1|	94.74	19	1	0	2	58	77	95	transposase [Sphingobium xenophagum]	121428	Sphingobium xenophagum	5e-04
+TR58104|c0_g1_i1	gi|460366385|ref|XP_004229062.1|	90.00	20	2	0	60	1	254	273	PREDICTED: L-ascorbate oxidase homolog [Solanum lycopersicum]	4081	Solanum lycopersicum	9e-05
+TR58131|c0_g1_i1	gi|121582475|ref|YP_974007.1|	100.00	19	0	0	3	59	59	77	conjugal transfer mating pair stabilization protein TraN [Acidovorax sp. JS42]	80840;232721;596154	Burkholderiales;Acidovorax sp. JS42;Alicycliphilus denitrificans K601	3e-05
+TR58224|c0_g1_i1	gi|242052465|ref|XP_002455378.1|	94.74	19	1	0	58	2	355	373	hypothetical protein SORBIDRAFT_03g009580 [Sorghum bicolor]	4558	Sorghum bicolor	3e-06
+TR58384|c0_g1_i1	gi|224061347|ref|XP_002300435.1|	89.47	19	2	0	58	2	136	154	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-04
+TR58492|c0_g1_i1	gi|544767550|ref|WP_021192871.1|	94.74	19	1	0	58	2	309	327	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	8e-05
+TR58510|c0_g1_i1	gi|242094544|ref|XP_002437762.1|	100.00	20	0	0	1	60	195	214	hypothetical protein SORBIDRAFT_10g002220 [Sorghum bicolor]	4558	Sorghum bicolor	2e-04
+TR58586|c0_g1_i1	gi|544925619|ref|WP_021334902.1|	90.00	20	2	0	60	1	47	66	S-adenosyl-L-homocysteine hydrolase, partial [Corynebacterium diphtheriae]	1717	Corynebacterium diphtheriae	6e-05
+TR58603|c0_g1_i1	gi|565351723|ref|XP_006342804.1|	94.74	19	1	0	3	59	130	148	PREDICTED: uncharacterized protein C167.05-like [Solanum tuberosum]	4113	Solanum tuberosum	3e-04
+TR58799|c0_g1_i1	gi|297804020|ref|XP_002869894.1|	75.00	20	5	0	60	1	1609	1628	hypothetical protein ARALYDRAFT_329472 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	2e-04
+TR58829|c0_g1_i1	gi|224116630|ref|XP_002317351.1|	94.74	19	1	0	3	59	1321	1339	multidrug resistance protein ABC transporter family [Populus trichocarpa]	3694	Populus trichocarpa	9e-06
+TR58870|c0_g1_i1	gi|494827581|ref|WP_007559255.1|	90.00	20	2	0	60	1	212	231	membrane protein [Methylobacterium sp. GXF4]	1096546	Methylobacterium sp. GXF4	5e-05
+TR59123|c0_g1_i1	gi|502123707|ref|XP_004498227.1|	75.00	20	5	0	1	60	90	109	PREDICTED: gibberellin 20 oxidase 2-like [Cicer arietinum]	3827	Cicer arietinum	1e-04
+TR59127|c0_g1_i1	gi|542179332|ref|XP_005495865.1|	100.00	19	0	0	59	3	57	75	PREDICTED: 40S ribosomal protein S2-like, partial [Zonotrichia albicollis]	44394	Zonotrichia albicollis	2e-05
+TR59163|c0_g1_i1	gi|225434580|ref|XP_002278527.1|	95.00	20	1	0	1	60	169	188	PREDICTED: phosphoinositide phospholipase C 4-like isoform 1 [Vitis vinifera]	29760	Vitis vinifera	8e-05
+TR59251|c1_g3_i1	gi|350405784|ref|XP_003487549.1|	100.00	19	0	0	58	2	296	314	PREDICTED: A disintegrin and metalloproteinase with thrombospondin motifs 3-like [Bombus impatiens]	132113	Bombus impatiens	2e-05
+TR59434|c0_g1_i1	gi|544768681|ref|WP_021193995.1|	100.00	18	0	0	56	3	1	18	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-04
+TR59436|c0_g1_i1	gi|544772400|ref|WP_021197668.1|	100.00	20	0	0	60	1	229	248	acetaldehyde dehydrogenase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	4e-06
+TR59467|c0_g1_i1	gi|255538074|ref|XP_002510102.1|	100.00	20	0	0	60	1	547	566	cation-transporting atpase plant, putative [Ricinus communis]	3988	Ricinus communis	7e-06
+TR59545|c0_g1_i1	gi|256080313|ref|XP_002576426.1|	94.74	19	1	0	58	2	127	145	60S ribosomal protein L8 [Schistosoma mansoni]	6183	Schistosoma mansoni	2e-04
+TR59569|c0_g1_i1	gi|489476742|ref|WP_003381813.1|	100.00	19	0	0	2	58	458	476	Tn3 family transposase, partial [Pseudomonas syringae]	317	Pseudomonas syringae	7e-06
+TR59617|c0_g1_i1	gi|255558216|ref|XP_002520135.1|	89.47	19	2	0	3	59	5	23	voltage-dependent anion-selective channel, putative [Ricinus communis]	3988	Ricinus communis	5e-05
+TR59756|c0_g1_i1	gi|255577479|ref|XP_002529618.1|	73.68	19	5	0	60	4	691	709	hydrolase, hydrolyzing O-glycosyl compounds, putative [Ricinus communis]	3988	Ricinus communis	8e-04
+TR59775|c0_g1_i1	gi|485739883|ref|WP_001367021.1|	100.00	19	0	0	59	3	6	24	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-05
+TR59781|c0_g1_i1	gi|565469876|ref|XP_006292741.1|	89.47	19	2	0	59	3	305	323	hypothetical protein CARUB_v10018993mg [Capsella rubella]	81985	Capsella rubella	8e-05
+TR5990|c0_g1_i1	gi|493292651|ref|WP_006250334.1|	94.74	19	1	0	59	3	19	37	hypothetical protein [Mannheimia haemolytica]	75985	Mannheimia haemolytica	1e-05
+TR5990|c0_g2_i1	gi|493292651|ref|WP_006250334.1|	94.74	19	1	0	59	3	19	37	hypothetical protein [Mannheimia haemolytica]	75985	Mannheimia haemolytica	1e-05
+TR59918|c0_g1_i1	gi|356501469|ref|XP_003519547.1|	94.74	19	1	0	2	58	905	923	PREDICTED: cellulose synthase-like protein D4-like [Glycine max]	3847	Glycine max	9e-05
+TR59937|c0_g1_i1	gi|544767625|ref|WP_021192946.1|	100.00	19	0	0	58	2	185	203	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-04
+TR59994|c0_g1_i1	gi|485762642|ref|WP_001387796.1|	100.00	19	0	0	2	58	2	20	cob(I)yrinic acid a,c-diamide adenosyltransferase [Escherichia coli]	562	Escherichia coli	1e-06
+TR60026|c0_g1_i1	gi|544772397|ref|WP_021197665.1|	100.00	19	0	0	59	3	110	128	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	4e-04
+TR6003|c0_g1_i1	gi|565382445|ref|XP_006357550.1|	89.47	19	2	0	58	2	96	114	PREDICTED: light-regulated chloroplast-localized protein [Solanum tuberosum]	4113	Solanum tuberosum	0.001
+TR60054|c0_g1_i1	gi|255562338|ref|XP_002522176.1|	95.00	20	1	0	1	60	145	164	conserved hypothetical protein [Ricinus communis]	3988	Ricinus communis	4e-06
+TR60340|c0_g1_i1	gi|350427939|ref|XP_003494933.1|	94.74	19	1	0	3	59	19	37	PREDICTED: hymenoptaecin-like, partial [Bombus impatiens]	132113	Bombus impatiens	6e-05
+TR60340|c0_g2_i1	gi|350427939|ref|XP_003494933.1|	94.74	19	1	0	3	59	19	37	PREDICTED: hymenoptaecin-like, partial [Bombus impatiens]	132113	Bombus impatiens	6e-05
+TR6034|c0_g1_i1	gi|15231081|ref|NP_188657.1|	84.21	19	3	0	58	2	80	98	SAUR-like auxin-responsive protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	0.001
+TR60387|c0_g1_i1	gi|29565682|ref|NP_817264.1|	100.00	19	0	0	58	2	10	28	ORF40s [Pinus koraiensis]	88728	Pinus koraiensis	3e-05
+TR60387|c0_g2_i1	gi|490828429|ref|WP_004690519.1|	90.00	20	2	0	60	1	22	41	conserved hypothetical protein, partial [Brucella suis]	29461	Brucella suis	4e-05
+TR60387|c0_g3_i1	gi|490828429|ref|WP_004690519.1|	89.47	19	2	0	57	1	23	41	conserved hypothetical protein, partial [Brucella suis]	29461	Brucella suis	1e-04
+TR60387|c0_g4_i1	gi|490828429|ref|WP_004690519.1|	89.47	19	2	0	57	1	23	41	conserved hypothetical protein, partial [Brucella suis]	29461	Brucella suis	1e-04
+TR60387|c1_g1_i1	gi|295693514|ref|YP_003602124.1|	100.00	20	0	0	1	60	36	55	pg1 protein, homology to Homo sapiens [Lactobacillus crispatus ST1]	47770;748671	Lactobacillus crispatus;Lactobacillus crispatus ST1	1e-07
+TR60387|c1_g2_i1	gi|242002550|ref|XP_002435918.1|	85.00	20	3	0	1	60	41	60	hypothetical protein IscW_ISCW024385 [Ixodes scapularis]	6945	Ixodes scapularis	6e-05
+TR60474|c0_g1_i1	gi|460407130|ref|XP_004249009.1|	95.00	20	1	0	60	1	355	374	PREDICTED: cellulose synthase-like protein D4-like [Solanum lycopersicum]	4081	Solanum lycopersicum	1e-04
+TR60487|c0_g1_i1	gi|26246131|ref|NP_752170.1|	100.00	20	0	0	60	1	288	307	hypothetical protein c0222 [Escherichia coli CFT073]	562;199310	Escherichia coli;Escherichia coli CFT073	7e-05
+TR60515|c0_g1_i1	gi|565371086|ref|XP_006352142.1|	95.00	20	1	0	1	60	459	478	PREDICTED: L-ascorbate oxidase homolog [Solanum tuberosum]	4113	Solanum tuberosum	3e-05
+TR60533|c0_g1_i1	gi|565647099|ref|YP_008898395.1|	100.00	19	0	0	2	58	315	333	pyridine nucleotide-disulfide oxidoreductase [Cronobacter sakazakii CMCC 45402]	28141;1401659	Cronobacter sakazakii;Cronobacter sakazakii 45402	3e-05
+TR60613|c0_g1_i1	gi|544767645|ref|WP_021192964.1|	100.00	20	0	0	1	60	182	201	beta-lactamase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-05
+TR60698|c0_g1_i1	gi|224078194|ref|XP_002335769.1|	95.00	20	1	0	1	60	109	128	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-07
+TR60810|c0_g1_i1	gi|224118118|ref|XP_002331563.1|	100.00	20	0	0	1	60	481	500	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-06
+TR60906|c0_g1_i1	gi|545359952|ref|XP_005645395.1|	95.00	20	1	0	1	60	30	49	U6 snRNA-associated Sm-like protein LSm7 [Coccomyxa subellipsoidea C-169]	574566	Coccomyxa subellipsoidea C-169	4e-05
+TR61302|c0_g1_i1	gi|340372135|ref|XP_003384600.1|	94.74	19	1	0	2	58	46	64	PREDICTED: protein disulfide isomerase-like 2-1-like [Amphimedon queenslandica]	400682	Amphimedon queenslandica	3e-07
+TR61929|c0_g1_i1	gi|565349553|ref|XP_006341757.1|	100.00	19	0	0	59	3	50	68	PREDICTED: glyceraldehyde-3-phosphate dehydrogenase GAPC2, cytosolic [Solanum tuberosum]	4113	Solanum tuberosum	2e-06
+TR61929|c0_g2_i1	gi|565349553|ref|XP_006341757.1|	100.00	19	0	0	59	3	50	68	PREDICTED: glyceraldehyde-3-phosphate dehydrogenase GAPC2, cytosolic [Solanum tuberosum]	4113	Solanum tuberosum	2e-06
+TR61949|c0_g1_i1	gi|15230209|ref|NP_188511.1|	100.00	19	0	0	58	2	453	471	putative proline-rich receptor-like protein kinase PERK6 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	5e-06
+TR62275|c0_g1_i1	gi|553944064|ref|WP_023149506.1|	100.00	19	0	0	58	2	12	30	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	4e-05
+TR62454|c0_g1_i1	gi|491184346|ref|WP_005042708.1|	94.74	19	1	0	2	58	60	78	transposase [Shigella dysenteriae]	622	Shigella dysenteriae	1e-05
+TR62463|c0_g1_i1	gi|493742372|ref|WP_006691453.1|	100.00	20	0	0	1	60	8	27	hypothetical protein, partial [Selenomonas flueggei]	135080	Selenomonas flueggei	8e-07
+TR62490|c0_g1_i1	gi|241663948|ref|YP_002982308.1|	100.00	19	0	0	59	3	73	91	major facilitator superfamily protein [Ralstonia pickettii 12D]	329;428406	Ralstonia pickettii;Ralstonia pickettii 12D	4e-04
+TR62549|c0_g1_i1	gi|118786767|ref|XP_315641.3|	95.00	20	1	0	60	1	122	141	AGAP005627-PB [Anopheles gambiae str. PEST]	180454	Anopheles gambiae str. PEST	3e-06
+TR62575|c0_g1_i1	gi|470129222|ref|XP_004300524.1|	100.00	20	0	0	1	60	138	157	PREDICTED: uncharacterized protein LOC101296489 [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	5e-06
+TR62764|c0_g1_i2	gi|560996059|ref|XP_006220101.1|	89.47	19	2	0	58	2	118	136	PREDICTED: tubulin beta-4B chain-like, partial [Vicugna pacos]	30538	Vicugna pacos	5e-05
+TR62793|c0_g1_i1	gi|485803904|ref|WP_001424482.1|	100.00	19	0	0	59	3	20	38	putative transferase domain protein, partial [Escherichia coli]	562	Escherichia coli	8e-05
+TR6281|c0_g1_i1	gi|545268655|ref|WP_021559165.1|	100.00	19	0	0	3	59	16	34	hypothetical protein [Escherichia coli]	562	Escherichia coli	7e-05
+TR63102|c0_g1_i1	gi|488374938|ref|WP_002444323.1|	94.74	19	1	0	4	60	19	37	hypothetical protein [Shimwellia blattae]	563	Shimwellia blattae	2e-05
+TR63154|c0_g1_i1	gi|565467434|ref|XP_006291597.1|	94.74	19	1	0	3	59	189	207	hypothetical protein CARUB_v10017751mg [Capsella rubella]	81985	Capsella rubella	1e-05
+TR63311|c0_g1_i1	gi|224127778|ref|XP_002329175.1|	90.00	20	2	0	60	1	167	186	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	4e-04
+TR63318|c0_g1_i1	gi|115483468|ref|NP_001065404.1|	80.00	20	4	0	1	60	57	76	Os10g0563700 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	3e-04
+TR63439|c0_g1_i1	gi|447070173|ref|WP_001147429.1|	100.00	19	0	0	58	2	43	61	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	5e-06
+TR63552|c0_g1_i1	gi|460405858|ref|XP_004248391.1|	94.74	19	1	0	59	3	163	181	PREDICTED: inositol oxygenase 1-like [Solanum lycopersicum]	4081	Solanum lycopersicum	5e-05
+TR63703|c0_g1_i1	gi|385854746|ref|YP_005901259.1|	95.00	20	1	0	60	1	349	368	putative sensor histidine kinase CpxA [Neisseria meningitidis M01-240355]	487;935588	Neisseria meningitidis;Neisseria meningitidis M01-240355	6e-06
+TR63740|c0_g1_i1	gi|553938843|ref|WP_023146564.1|	100.00	19	0	0	3	59	13	31	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-05
+TR63745|c0_g1_i1	gi|297808009|ref|XP_002871888.1|	78.95	19	4	0	4	60	5	23	hypothetical protein ARALYDRAFT_488838 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	4e-04
+TR63786|c0_g1_i1	gi|449466564|ref|XP_004150996.1|	90.00	20	2	0	60	1	336	355	PREDICTED: uncharacterized protein LOC101210473 [Cucumis sativus]	3659	Cucumis sativus	5e-04
+TR64138|c0_g1_i1	gi|241999132|ref|XP_002434209.1|	89.47	19	2	0	59	3	98	116	glycine/serine hydroxymethyltransferase, putative [Ixodes scapularis]	6945	Ixodes scapularis	2e-04
+TR64256|c0_g1_i1	gi|565361075|ref|XP_006347286.1|	89.47	19	2	0	2	58	268	286	PREDICTED: calcium-dependent protein kinase 24-like [Solanum tuberosum]	4113	Solanum tuberosum	2e-04
+TR64395|c0_g1_i1	gi|544770344|ref|WP_021195637.1|	100.00	19	0	0	3	59	802	820	gramicidin S biosynthesis protein GrsT [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-04
+TR64525|c0_g1_i1	gi|548579508|ref|WP_022529152.1|	100.00	20	0	0	60	1	202	221	GroL [Lactobacillus shenzhenensis]	1231337	Lactobacillus shenzhenensis	1e-05
+TR64574|c0_g1_i1	gi|485702809|ref|WP_001335839.1|	100.00	20	0	0	60	1	216	235	9-O-acetyl-N-acetylneuraminic acid deacetylase [Escherichia coli]	562	Escherichia coli	5e-06
+TR64717|c0_g1_i1	gi|544768565|ref|WP_021193879.1|	100.00	20	0	0	60	1	182	201	LysR family transcriptional regulator [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	2e-05
+TR64720|c0_g1_i1	gi|146413887|ref|XP_001482914.1|	90.00	20	2	0	60	1	231	250	hypothetical protein PGUG_04869 [Meyerozyma guilliermondii ATCC 6260]	294746	Meyerozyma guilliermondii ATCC 6260	3e-06
+TR64730|c0_g1_i1	gi|493540768|ref|WP_006494643.1|	85.00	20	3	0	60	1	74	93	ArsC family transcriptional regulator [Burkholderia cenocepacia]	95486	Burkholderia cenocepacia	0.001
+TR64785|c0_g1_i1	gi|565483340|ref|XP_006299310.1|	95.00	20	1	0	60	1	574	593	hypothetical protein CARUB_v10015465mg [Capsella rubella]	81985	Capsella rubella	5e-05
+TR64792|c0_g1_i1	gi|357493089|ref|XP_003616833.1|	78.95	19	4	0	58	2	51	69	GDSL esterase/lipase [Medicago truncatula]	3880	Medicago truncatula	8e-04
+TR64813|c0_g1_i1	gi|295693546|ref|YP_003602156.1|	84.21	19	3	0	59	3	170	188	flavoprotein [Lactobacillus crispatus ST1]	47770;748671	Lactobacillus crispatus;Lactobacillus crispatus ST1	3e-04
+TR64818|c0_g1_i1	gi|490772632|ref|WP_004634853.1|	100.00	20	0	0	1	60	202	221	Zn-dependent hydrolase, glyoxylase [Ralstonia pickettii]	329	Ralstonia pickettii	4e-05
+TR64849|c0_g1_i1	gi|351726594|ref|NP_001236364.1|	94.74	19	1	0	59	3	172	190	inactive beta-amylase-like [Glycine max]	3847	Glycine max	6e-04
+TR65033|c0_g1_i1	gi|558603910|ref|YP_008815980.1|	94.74	19	1	0	2	58	74	92	ribosomal protein L23 (chloroplast) [Lindenbergia philippensis]	86093	Lindenbergia philippensis	4e-04
+TR65097|c0_g1_i1	gi|485759151|ref|WP_001384527.1|	100.00	19	0	0	59	3	16	34	hypothetical protein [Escherichia coli]	562	Escherichia coli	6e-06
+TR65105|c0_g1_i1	gi|470101556|ref|XP_004287236.1|	100.00	19	0	0	59	3	112	130	PREDICTED: 40S ribosomal protein S11-1-like [Fragaria vesca subsp. vesca]	101020	Fragaria vesca subsp. vesca	2e-06
+TR65170|c0_g1_i1	gi|565452390|ref|XP_006286312.1|	89.47	19	2	0	59	3	138	156	hypothetical protein CARUB_v100065120mg, partial [Capsella rubella]	81985	Capsella rubella	5e-04
+TR65293|c0_g1_i1	gi|187928105|ref|YP_001898592.1|	100.00	20	0	0	60	1	361	380	aspartate kinase [Ralstonia pickettii 12J]	329;402626	Ralstonia pickettii;Ralstonia pickettii 12J	2e-05
+TR65335|c0_g1_i1	gi|357115104|ref|XP_003559332.1|	100.00	19	0	0	2	58	69	87	PREDICTED: 60S ribosomal protein L13a-4-like [Brachypodium distachyon]	15368	Brachypodium distachyon	6e-06
+TR65537|c0_g1_i1	gi|485748338|ref|WP_001374558.1|	89.47	19	2	0	2	58	328	346	lac repressor [Escherichia coli]	562	Escherichia coli	5e-04
+TR65584|c0_g1_i1	gi|490774960|ref|WP_004637163.1|	100.00	20	0	0	1	60	102	121	glucosamine--fructose-6-phosphate aminotransferase [Ralstonia]	48736	Ralstonia	4e-04
+TR6559|c0_g1_i1	gi|17548874|ref|NP_522214.1|	100.00	19	0	0	2	58	318	336	transcription regulator protein [Ralstonia solanacearum GMI1000]	305;267608	Ralstonia solanacearum;Ralstonia solanacearum GMI1000	2e-05
+TR65613|c0_g1_i1	gi|544771279|ref|WP_021196557.1|	100.00	20	0	0	1	60	193	212	cation transporter [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	6e-05
+TR65743|c0_g1_i1	gi|486253321|ref|WP_001564807.1|	100.00	20	0	0	1	60	24	43	hypothetical protein [Escherichia coli]	562	Escherichia coli	2e-06
+TR65794|c0_g1_i1	gi|257093125|ref|YP_003166766.1|	95.00	20	1	0	1	60	210	229	hypothetical protein CAP2UW1_1522 [Candidatus Accumulibacter phosphatis clade IIA str. UW-1]	327160;522306	Candidatus Accumulibacter phosphatis;Candidatus Accumulibacter phosphatis clade IIA str. UW-1	3e-05
+TR65814|c0_g1_i1	gi|255551400|ref|XP_002516746.1|	100.00	20	0	0	1	60	49	68	14-3-3 protein, putative [Ricinus communis]	3988	Ricinus communis	1e-06
+TR66134|c0_g1_i1	gi|446744605|ref|WP_000821861.1|	100.00	19	0	0	2	58	224	242	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	1e-04
+TR66223|c0_g1_i1	gi|565497752|ref|XP_006306515.1|	89.47	19	2	0	3	59	90	108	hypothetical protein CARUB_v10012514mg [Capsella rubella]	81985	Capsella rubella	1e-05
+TR66225|c0_g1_i1	gi|446977265|ref|WP_001054521.1|	100.00	19	0	0	4	60	71	89	hypothetical protein, partial [Acinetobacter sp. NCTC 10304]	981224	Acinetobacter sp. NCTC 10304	1e-06
+TR66230|c0_g1_i1	gi|115469170|ref|NP_001058184.1|	94.74	19	1	0	59	3	325	343	Os06g0644200 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	9e-05
+TR66291|c0_g1_i1	gi|300691261|ref|YP_003752256.1|	100.00	19	0	0	58	2	246	264	putative multidrug efflux protein [Ralstonia solanacearum PSI07]	305;859657	Ralstonia solanacearum;Ralstonia solanacearum PSI07	3e-04
+TR66329|c0_g1_i1	gi|485700247|ref|WP_001333527.1|	94.74	19	1	0	57	1	1	19	hypothetical protein [Escherichia coli]	562	Escherichia coli	7e-05
+TR66353|c0_g1_i1	gi|514808636|ref|XP_004979154.1|	100.00	19	0	0	58	2	69	87	PREDICTED: mitogen-activated protein kinase 14-like isoform X4 [Setaria italica]	4555	Setaria italica	3e-07
+TR66387|c0_g1_i1	gi|491135328|ref|WP_004993746.1|	100.00	20	0	0	1	60	133	152	ribonucleoside-diphosphate reductase 2 subunit alpha domain protein [Shigella boydii]	621	Shigella boydii	2e-07
+TR66491|c0_g1_i1	gi|351728089|ref|NP_001236415.1|	95.00	20	1	0	60	1	67	86	uncharacterized protein LOC100527463 [Glycine max]	3847	Glycine max	2e-05
+TR6661|c0_g1_i1	gi|363806924|ref|NP_001242561.1|	100.00	20	0	0	60	1	79	98	uncharacterized protein LOC100815273 precursor [Glycine max]	3847	Glycine max	3e-05
+TR66634|c0_g1_i1	gi|209886731|ref|YP_002290588.1|	100.00	19	0	0	59	3	491	509	multicopper oxidase domain [Oligotropha carboxidovorans OM5]	40137;504832;1031710	Oligotropha carboxidovorans;Oligotropha carboxidovorans OM5;Oligotropha carboxidovorans OM4	3e-05
+TR66794|c0_g1_i1	gi|449459456|ref|XP_004147462.1|	100.00	20	0	0	1	60	259	278	PREDICTED: probable pectate lyase 7-like [Cucumis sativus]	3659	Cucumis sativus	5e-05
+TR66808|c0_g1_i1	gi|460365494|ref|XP_004228636.1|	90.00	20	2	0	60	1	90	109	PREDICTED: L-ascorbate oxidase homolog isoform 2 [Solanum lycopersicum]	4081	Solanum lycopersicum	3e-05
+TR66854|c0_g1_i1	gi|15222747|ref|NP_175953.1|	89.47	19	2	0	60	4	389	407	protein SKU5 similar 12 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	0.001
+TR66854|c2_g1_i1	gi|565404327|ref|XP_006367595.1|	85.00	20	3	0	60	1	399	418	PREDICTED: L-ascorbate oxidase homolog [Solanum tuberosum]	4113	Solanum tuberosum	7e-04
+TR66950|c0_g1_i1	gi|15830280|ref|NP_309053.1|	100.00	20	0	0	1	60	16	35	hypothetical protein ECs1026, partial [Escherichia coli O157:H7 str. Sakai]	562;386585	Escherichia coli;Escherichia coli O157:H7 str. Sakai	4e-06
+TR66996|c0_g1_i1	gi|15238685|ref|NP_200137.1|	90.00	20	2	0	60	1	38	57	arabinogalactan protein 22 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	1e-04
+TR66999|c0_g1_i1	gi|383853800|ref|XP_003702410.1|	89.47	19	2	0	58	2	43	61	PREDICTED: ADP,ATP carrier protein 2-like [Megachile rotundata]	143995	Megachile rotundata	2e-05
+TR67040|c0_g1_i1	gi|121582478|ref|YP_974010.1|	100.00	19	0	0	58	2	130	148	TraU family protein [Acidovorax sp. JS42]	80840;232721;596154	Burkholderiales;Acidovorax sp. JS42;Alicycliphilus denitrificans K601	1e-06
+TR67096|c0_g1_i1	gi|156546546|ref|XP_001607329.1|	90.00	20	2	0	60	1	88	107	PREDICTED: 60S ribosomal protein L13-like isoform 1 [Nasonia vitripennis]	7425	Nasonia vitripennis	2e-04
+TR67274|c0_g1_i1	gi|357437717|ref|XP_003589134.1|	100.00	20	0	0	1	60	198	217	Cysteine proteinase [Medicago truncatula]	3880	Medicago truncatula	2e-06
+TR67472|c0_g1_i1	gi|225458701|ref|XP_002284973.1|	100.00	19	0	0	58	2	177	195	PREDICTED: cysteine proteinase RD21a-like [Vitis vinifera]	29760	Vitis vinifera	2e-04
+TR67472|c0_g2_i1	gi|18422289|ref|NP_568620.1|	100.00	19	0	0	58	2	173	191	Granulin repeat cysteine protease family protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	6e-04
+TR67473|c0_g1_i1	gi|460402261|ref|XP_004246632.1|	100.00	16	0	0	12	59	1	16	PREDICTED: uncharacterized protein LOC101263743 isoform 1 [Solanum lycopersicum]	4081	Solanum lycopersicum	6e-05
+TR67638|c0_g1_i1	gi|15236264|ref|NP_195235.1|	100.00	19	0	0	58	2	161	179	catalase 2 [Arabidopsis thaliana]	3702	Arabidopsis thaliana	2e-05
+TR6767|c0_g1_i1	gi|485801953|ref|WP_001422753.1|	100.00	20	0	0	60	1	11	30	acriflavine resistance B domain protein [Escherichia coli]	562	Escherichia coli	9e-05
+TR6775|c0_g1_i1	gi|115485695|ref|NP_001067991.1|	95.00	20	1	0	1	60	328	347	Os11g0525200 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	7e-06
+TR67817|c0_g1_i1	gi|224120482|ref|XP_002318340.1|	100.00	20	0	0	1	60	33	52	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	2e-07
+TR67839|c0_g1_i1	gi|446214510|ref|WP_000292365.1|	100.00	19	0	0	59	3	87	105	outer membrane porin L, partial [Escherichia sp. 1_1_43]	457400	Escherichia sp. 1_1_43	5e-06
+TR67959|c0_g1_i1	gi|560152361|ref|YP_008845212.1|	84.21	19	3	0	59	3	321	339	trigger factor [Lactobacillus johnsonii N6.2]	33959;1408186	Lactobacillus johnsonii;Lactobacillus johnsonii N6.2	1e-04
+TR6852|c0_g1_i1	gi|317050439|ref|YP_004111555.1|	100.00	19	0	0	2	58	211	229	ATPase AAA-2 domain-containing protein [Desulfurispirillum indicum S5]	653733;936456	Desulfurispirillum indicum S5;Desulfurispirillum indicum	0.001
+TR6862|c0_g1_i1	gi|241664472|ref|YP_002982832.1|	100.00	20	0	0	60	1	92	111	VacJ family lipoprotein [Ralstonia pickettii 12D]	48736;428406	Ralstonia;Ralstonia pickettii 12D	8e-05
+TR6906|c0_g1_i1	gi|515510743|ref|WP_016943997.1|	100.00	19	0	0	2	58	21	39	hypothetical protein, partial [Dickeya zeae]	204042	Dickeya zeae	6e-05
+TR7148|c0_g1_i1	gi|491189281|ref|WP_005047638.1|	94.74	19	1	0	3	59	15	33	hypothetical protein, partial [Microbacterium laevaniformans]	36807	Microbacterium laevaniformans	5e-04
+TR7148|c0_g2_i1	gi|491189281|ref|WP_005047638.1|	94.74	19	1	0	3	59	15	33	hypothetical protein, partial [Microbacterium laevaniformans]	36807	Microbacterium laevaniformans	5e-04
+TR7216|c0_g1_i1	gi|565359173|ref|XP_006346392.1|	100.00	19	0	0	3	59	121	139	PREDICTED: polyadenylate-binding protein 8-like [Solanum tuberosum]	4113	Solanum tuberosum	5e-06
+TR7241|c0_g1_i1	gi|446226668|ref|WP_000304523.1|	100.00	19	0	0	58	2	9	27	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	1e-05
+TR7340|c0_g1_i1	gi|565394083|ref|XP_006362692.1|	90.00	20	2	0	1	60	161	180	PREDICTED: fructokinase-1-like [Solanum tuberosum]	4113	Solanum tuberosum	5e-04
+TR7393|c0_g1_i1	gi|558084517|ref|WP_023479047.1|	78.95	19	4	0	59	3	20	38	hypothetical protein [Enterobacter cloacae]	550	Enterobacter cloacae	0.001
+TR7523|c0_g1_i1	gi|357486617|ref|XP_003613596.1|	80.00	20	4	0	60	1	111	130	Pectate lyase [Medicago truncatula]	3880	Medicago truncatula	1e-04
+TR7527|c0_g1_i1	gi|446000381|ref|WP_000078236.1|	100.00	20	0	0	1	60	193	212	hypothetical protein, partial [Escherichia coli]	562	Escherichia coli	5e-06
+TR755|c0_g1_i1	gi|224125462|ref|XP_002329811.1|	84.21	19	3	0	59	3	126	144	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	6e-05
+TR7622|c0_g1_i1	gi|115466364|ref|NP_001056781.1|	93.75	16	1	0	49	2	97	112	Os06g0144200 [Oryza sativa Japonica Group]	39947	Oryza sativa Japonica Group	9e-05
+TR7785|c0_g1_i1	gi|224106976|ref|XP_002314330.1|	100.00	19	0	0	2	58	52	70	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	3e-04
+TR7812|c0_g1_i1	gi|224166509|ref|XP_002338946.1|	94.74	19	1	0	59	3	68	86	tubulin, beta chain [Populus trichocarpa]	3694	Populus trichocarpa	6e-06
+TR7880|c0_g1_i1	gi|302811169|ref|XP_002987274.1|	100.00	19	0	0	58	2	146	164	hypothetical protein SELMODRAFT_271906 [Selaginella moellendorffii]	88036	Selaginella moellendorffii	2e-04
+TR7909|c0_g1_i1	gi|565343801|ref|XP_006339015.1|	100.00	20	0	0	1	60	302	321	PREDICTED: ribulose bisphosphate carboxylase/oxygenase activase 1, chloroplastic-like isoform X2 [Solanum tuberosum]	4113	Solanum tuberosum	6e-08
+TR8011|c0_g1_i1	gi|519090388|ref|WP_020246263.1|	100.00	19	0	0	59	3	41	59	NUDIX hydrolase, partial [Escherichia coli]	562	Escherichia coli	1e-05
+TR8060|c0_g1_i1	gi|485949398|ref|WP_001496796.1|	100.00	20	0	0	1	60	26	45	integrase core domain protein, partial [Escherichia coli]	562	Escherichia coli	9e-08
+TR8140|c0_g1_i1	gi|187926278|ref|YP_001892623.1|	100.00	20	0	0	1	60	509	528	oxidoreductase [Ralstonia pickettii 12J]	329;402626;428406	Ralstonia pickettii;Ralstonia pickettii 12J;Ralstonia pickettii 12D	2e-06
+TR8427|c0_g1_i1	gi|544768741|ref|WP_021194054.1|	100.00	20	0	0	60	1	21	40	hypothetical protein [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	3e-04
+TR8497|c0_g1_i1	gi|485787508|ref|WP_001409753.1|	100.00	20	0	0	1	60	40	59	transposase [Escherichia coli]	562	Escherichia coli	4e-07
+TR8556|c0_g1_i1	gi|18422603|ref|NP_568650.1|	94.74	19	1	0	58	2	95	113	pollen_Ole_e_I-domain containing protein [Arabidopsis thaliana]	3702	Arabidopsis thaliana	3e-05
+TR857|c0_g1_i1	gi|297807495|ref|XP_002871631.1|	94.74	19	1	0	59	3	363	381	hypothetical protein ARALYDRAFT_488325 [Arabidopsis lyrata subsp. lyrata]	81972	Arabidopsis lyrata subsp. lyrata	1e-04
+TR8659|c0_g1_i1	gi|544768409|ref|WP_021193725.1|	100.00	19	0	0	3	59	296	314	NADPH:quinone oxidoreductase [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	4e-04
+TR8738|c0_g1_i1	gi|242086805|ref|XP_002439235.1|	90.00	20	2	0	60	1	156	175	hypothetical protein SORBIDRAFT_09g002840 [Sorghum bicolor]	4558	Sorghum bicolor	1e-05
+TR8738|c0_g2_i1	gi|242086805|ref|XP_002439235.1|	90.00	20	2	0	60	1	156	175	hypothetical protein SORBIDRAFT_09g002840 [Sorghum bicolor]	4558	Sorghum bicolor	1e-05
+TR8799|c0_g1_i1	gi|224114511|ref|XP_002332348.1|	100.00	20	0	0	60	1	79	98	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	1e-07
+TR8824|c0_g1_i1	gi|224078686|ref|XP_002305603.1|	100.00	19	0	0	58	2	162	180	predicted protein [Populus trichocarpa]	3694	Populus trichocarpa	5e-04
+TR8942|c0_g1_i1	gi|445964789|ref|WP_000042644.1|	100.00	19	0	0	58	2	76	94	hypothetical protein, partial [Salmonella enterica]	28901	Salmonella enterica	6e-07
+TR9142|c0_g1_i1	gi|544772510|ref|WP_021197774.1|	100.00	20	0	0	60	1	102	121	hypothetical protein, partial [Ralstonia sp. AU12-08]	1235457	Ralstonia sp. AU12-08	1e-05
+TR9181|c0_g1_i1	gi|255570327|ref|XP_002526123.1|	84.21	19	3	0	59	3	30	48	aldo/keto reductase, putative [Ricinus communis]	3988	Ricinus communis	5e-04
+TR9236|c0_g1_i1	gi|294658086|ref|XP_460403.2|	100.00	20	0	0	60	1	110	129	DEHA2F00968p [Debaryomyces hansenii CBS767]	284592	Debaryomyces hansenii CBS767	5e-05
+TR9466|c0_g1_i1	gi|255570203|ref|XP_002526062.1|	100.00	20	0	0	1	60	421	440	calcium-dependent protein kinase, putative [Ricinus communis]	3988	Ricinus communis	3e-05
+TR9541|c0_g1_i1	gi|487603737|ref|WP_001732123.1|	100.00	19	0	0	3	59	29	47	penicillin-binding protein 2, partial [Salmonella enterica]	28901	Salmonella enterica	2e-05
+TR9566|c0_g1_i1	gi|496576614|ref|WP_009277732.1|	100.00	20	0	0	60	1	5	24	transposase [Ralstonia sp. 5_7_47FAA]	658664	Ralstonia sp. 5_7_47FAA	1e-06
+TR9572|c0_g1_i1	gi|460374217|ref|XP_004232908.1|	85.00	20	3	0	60	1	87	106	PREDICTED: auxin-repressed 12.5 kDa protein-like isoform 1 [Solanum lycopersicum]	4081	Solanum lycopersicum	3e-04
+TR9614|c0_g1_i1	gi|565436038|ref|XP_006281481.1|	100.00	19	0	0	2	58	156	174	hypothetical protein CARUB_v10027565mg [Capsella rubella]	81985	Capsella rubella	3e-05
+TR9750|c0_g1_i1	gi|194288896|ref|YP_002004803.1|	100.00	19	0	0	59	3	27	45	cyanophycin synthetase [Cupriavidus taiwanensis LMG 19424]	164546;977880	Cupriavidus taiwanensis;Cupriavidus taiwanensis LMG 19424	1e-05
+TR9755|c0_g1_i1	gi|359475712|ref|XP_003631735.1|	100.00	20	0	0	1	60	247	266	PREDICTED: uncharacterized protein LOC100233114 [Vitis vinifera]	29760	Vitis vinifera	8e-06
+TR9944|c0_g1_i1	gi|495004122|ref|WP_007730136.1|	100.00	19	0	0	3	59	185	203	UPF0246 protein YaaA [Cronobacter dublinensis]	413497	Cronobacter dublinensis	7e-05
+TR9963|c0_g1_i1	gi|356498184|ref|XP_003517933.1|	90.00	20	2	0	1	60	220	239	PREDICTED: hypersensitive-induced response protein 1-like [Glycine max]	3847	Glycine max	2e-04
